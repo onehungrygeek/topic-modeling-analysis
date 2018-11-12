@@ -19,7 +19,7 @@ def compute_model(model, corpus, id2word):
         topics = model.show_topics(formatted=False)
         # print('LSI Model Ended\n\n')
     elif model == 'HdpModel' or model == 'hdpmodel':
-        print('HDP Model Started\n')
+        print('\nHDP Model Started\n')
         model = gensim.models.hdpmodel.HdpModel(corpus=corpus,
                                                 id2word=id2word,
                                                 random_state=100,
@@ -27,7 +27,7 @@ def compute_model(model, corpus, id2word):
         topics = model.show_topics(formatted=False)
         # print('HDP Model Ended\n\n')
     elif model == 'LdaModel' or model == 'ldamodel':
-        print('LDA Model Started\n')
+        print('\nLDA Model Started\n')
         model = gensim.models.ldamodel.LdaModel(corpus=corpus,
                                                 id2word=id2word,
                                                 num_topics=10,
@@ -40,7 +40,7 @@ def compute_model(model, corpus, id2word):
         topics = model.show_topics(formatted=False)
         # print('LDA Model Ended\n\n')
     elif model == 'LdaMallet' or model == 'ldamallet':
-        print('LDA Mallet Model Started\n')
+        print('\nLDA Mallet Model Started\n')
         model = gensim.models.wrappers.LdaMallet(mallet_path,
                                                  corpus=corpus,
                                                  num_topics=10,

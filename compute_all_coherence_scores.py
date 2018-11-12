@@ -1,8 +1,8 @@
 import warnings
 warnings.filterwarnings(action='ignore', category=UserWarning, module='gensim')
 warnings.filterwarnings(action='ignore', category=RuntimeWarning)
-import gensim
 import os
+import gensim
 from gensim.models import CoherenceModel
 
 
@@ -56,6 +56,7 @@ def compute_all_scores(modelname, corpus, id2word, texts, measure, limit, start=
     x = range(start, limit + 1, step)
 
     for n, score in zip(x, coherence_values):
-        print(modelname, "Num Topics =", n, " has Coherence Value of", round(score, 4))
+        print(modelname, "Num Topics =", n,
+              " has Coherence Value of", round(score, 4))
 
     return model_list, coherence_values

@@ -1,13 +1,13 @@
-from nltk.corpus import stopwords
-from gensim.utils import simple_preprocess
+import warnings
+warnings.filterwarnings(action='ignore', category=UserWarning, module='gensim')
+warnings.filterwarnings(action='ignore', category=RuntimeWarning)
 import gensim.corpora as corpora
 import gensim
 import spacy
 import nltk
 import re
-import warnings
-warnings.filterwarnings(action='ignore', category=UserWarning, module='gensim')
-warnings.filterwarnings(action='ignore', category=RuntimeWarning)
+from nltk.corpus import stopwords
+from gensim.utils import simple_preprocess
 
 stop_words = stopwords.words('english')
 stop_words.extend(['from', 'subject', 're', 'edu', 'use'])

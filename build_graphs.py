@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 
+
 def build_graph(model, scores, measure, limit, start=5, step=5):
     if model == 'LsiModel' or model == 'lsimodel':
         print('LSI Model Detected. Generating graph...\n')
@@ -30,6 +31,6 @@ def build_graph(model, scores, measure, limit, start=5, step=5):
     plt.title(title + ' ' + coh_label + '\n')
     plt.xlabel("Number of topics")
     plt.ylabel("Coherence score")
-    plt.legend(("coherence_scores"), loc='best')
+    plt.legend(model, loc='upper right')
     fig_title = title + '_' + coh_label + '_' + str(limit) + '.png'
     plt.savefig(fig_title)

@@ -1,0 +1,1160 @@
+[
+	{
+		"index": 1,
+		"author": "14ee46",
+		"quoted_id": "",
+		"date_time": "October 17, 2013, 02:14:26 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"Tennis-style game, in which the ball cannot hit the floor.  The ball must be hit and passed between two or more players, so it should hit a racket each time to be passed."
+		],
+		"index_quoted": null,
+		"list_replies": 35,
+		"list_votes": 30,
+		"error": ""
+	},
+	{
+		"index": 2,
+		"author": "14ee46",
+		"quoted_id": "",
+		"date_time": "October 17, 2013, 02:17:22 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 3,
+		"session": 1,
+		"text": [
+			"Bowling, but set up with 3 pins.  Different number of points awarded based on which pin was knocked down.  Maximum points (for hitting individual pin) awarded for hitting ONLY middle pin.  Knocking down other pins is worth less points.  Knocking down two pins also worth less points.  However, knocking down all three worth combo-max score."
+		],
+		"index_quoted": null,
+		"list_replies": 36,
+		"list_votes": 31,
+		"error": ""
+	},
+	{
+		"index": 3,
+		"author": "14ee46",
+		"quoted_id": "",
+		"date_time": "October 17, 2013, 02:20:37 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 3,
+		"session": 1,
+		"text": [
+			"Jumproping, individually, but in teams to see which team jumpropes longer. For example, one player jumpropes until exhausted, then tags teammember to start jumproping.  2 players, each can only do one round.  Team who goes longer wins--measure endurance."
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": 58,
+		"error": ""
+	},
+	{
+		"index": 4,
+		"author": "14ee46",
+		"quoted_id": "",
+		"date_time": "October 17, 2013, 02:23:53 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 3,
+		"session": 1,
+		"text": [
+			"Person throws somewhat-light ball, opponent tries to catch in a sort of cup with handle.  If he\/she does, their team gets a point.  If not, the other teams scores a point.  This is kind of like a goalie chasing the ball.  Teams are separated by a net.."
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 5,
+		"author": "14ee46",
+		"quoted_id": "",
+		"date_time": "October 17, 2013, 02:29:12 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 1,
+		"session": 1,
+		"text": [
+			"2 players play tennis (with one ball) against a wall.  Ball can only bounce maximum of one time, before player has to hit it with the racket.  They can alternate or whichever player can hit it based on distance and convenience.  First player to lose the ball loses the game."
+		],
+		"index_quoted": null,
+		"list_replies": 37,
+		"list_votes": [32,59],
+		"error": ""
+	},
+	{
+		"index": 6,
+		"author": "30ee31",
+		"quoted_id": "",
+		"date_time": "October 17, 2013, 10:13:50 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"Breaking glass"
+		],
+		"index_quoted": null,
+		"list_replies": 66,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 7,
+		"author": "30ee31",
+		"quoted_id": "",
+		"date_time": "October 17, 2013, 10:14:28 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"Rock tossing contest"
+		],
+		"index_quoted": null,
+		"list_replies": 65,
+		"list_votes": 51,
+		"error": ""
+	},
+	{
+		"index": 8,
+		"author": "30ee31",
+		"quoted_id": "",
+		"date_time": "October 17, 2013, 10:14:54 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"Blowing Bubbles"
+		],
+		"index_quoted": null,
+		"list_replies": 64,
+		"list_votes": 52,
+		"error": ""
+	},
+	{
+		"index": 9,
+		"author": "30ee31",
+		"quoted_id": "",
+		"date_time": "October 17, 2013, 10:15:37 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"Stacking blocks on top of each other without them falling down"
+		],
+		"index_quoted": null,
+		"list_replies": 61,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 10,
+		"author": "30ee31",
+		"quoted_id": "",
+		"date_time": "October 17, 2013, 10:15:55 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"Catching Fireflies"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": 53,
+		"error": ""
+	},
+	{
+		"index": 11,
+		"author": "30ee31",
+		"quoted_id": "",
+		"date_time": "October 17, 2013, 10:16:55 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"Creating artwork in 30 mins or less"
+		],
+		"index_quoted": null,
+		"list_replies": 33,
+		"list_votes": 28,
+		"error": ""
+	},
+	{
+		"index": 12,
+		"author": "30ee31",
+		"quoted_id": "",
+		"date_time": "October 17, 2013, 10:18:57 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"painting nails"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 13,
+		"author": "30ee31",
+		"quoted_id": "",
+		"date_time": "October 17, 2013, 10:19:05 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"Curling hair"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 14,
+		"author": "30ee31",
+		"quoted_id": "",
+		"date_time": "October 17, 2013, 10:21:45 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"Recording dreams and making them a reality"
+		],
+		"index_quoted": null,
+		"list_replies": [34,38],
+		"list_votes": [29,54],
+		"error": ""
+	},
+	{
+		"index": 15,
+		"author": "30ee31",
+		"quoted_id": "",
+		"date_time": "October 17, 2013, 10:23:47 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"Roller skating with a cat"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 16,
+		"author": "30ee31",
+		"quoted_id": "",
+		"date_time": "October 17, 2013, 10:24:50 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"Typing the most words in a minute"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 17,
+		"author": "30ee31",
+		"quoted_id": "",
+		"date_time": "October 17, 2013, 10:26:16 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"knitting and dancing at the same time"
+		],
+		"index_quoted": null,
+		"list_replies": 68,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 18,
+		"author": "30ee31",
+		"quoted_id": "",
+		"date_time": "October 17, 2013, 10:27:32 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"Crying and running to get to a ball"
+		],
+		"index_quoted": null,
+		"list_replies": 67,
+		"list_votes": 55,
+		"error": ""
+	},
+	{
+		"index": 19,
+		"author": "30ee31",
+		"quoted_id": "",
+		"date_time": "October 17, 2013, 10:27:49 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 1,
+		"text": [
+			"Jumping off roof tops"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 20,
+		"author": "30ee31",
+		"quoted_id": "",
+		"date_time": "October 17, 2013, 10:28:20 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"Staring at strangers for long amounts of time while trying to balance a ball on your head"
+		],
+		"index_quoted": null,
+		"list_replies": 63,
+		"list_votes": 57,
+		"error": ""
+	},
+	{
+		"index": 21,
+		"author": "30ee31",
+		"quoted_id": "",
+		"date_time": "October 17, 2013, 10:29:21 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"Fighting a chicken"
+		],
+		"index_quoted": null,
+		"list_replies": 62,
+		"list_votes": 56,
+		"error": ""
+	},
+	{
+		"index": 22,
+		"author": "30ee31",
+		"quoted_id": "",
+		"date_time": "October 17, 2013, 10:30:04 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 3,
+		"session": 1,
+		"text": [
+			"twerking and throwing a ball"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 23,
+		"author": "73ee12",
+		"quoted_id": "",
+		"date_time": "October 17, 2013, 10:30:12 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 1,
+		"session": 1,
+		"text": [
+			"ball, racket, uniform, numbers, heros, ichiro, japanese, baseball, rules, lines, defense, offense, people, pointer, team, small, large, snow, winter, summer, soccer, inside, outside, stamina, run, walk, stay, big, muscle, bnasket ball, NBA, girl, boy, place, in the water, ground, mountain, on the air, underground, internet, win, lose, trophies, strong, skills, innate, asian, ping pong, fight, kanhoo, basket ball, KU, people, history, book, rule book, players, managers, coach, refree, ocean, marine, fun, simple rules, everybody participates, kids, old, young, boy, girls, not hard physically, slow, fast, friends, not dangerous, safe, organize, developed strategies, focus, unity, paper, write, college , high school, professional, immature, road, running, whirl chair, sleeping, awake, conscious, unconscious, behavior, broad views, good, bad, competitive, not competitive, team sports, balls, goals, physical, fatigue, practice, low hardle, olympic, scores, keep, not keeping,"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 24,
+		"author": "88ee64",
+		"quoted_id": "",
+		"date_time": "October 17, 2013, 10:18:05 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 4,
+		"session": 1,
+		"text": [
+			"_ a team sport is better than individuals sport as there will be more fun and team members can enjoy more as in the group."
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 25,
+		"author": "88ee64",
+		"quoted_id": "",
+		"date_time": "October 17, 2013, 10:23:42 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"Internalize some physical activities in E-sports just like Wii games."
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 26,
+		"author": "88ee64",
+		"quoted_id": "",
+		"date_time": "October 17, 2013, 10:27:29 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"Look for donation to fund the new sport. We can go to houses in the nearby area, knock the door, explain the new sport for them, and ask for donation to fund the sport."
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 27,
+		"author": "88ee64",
+		"quoted_id": "",
+		"date_time": "October 17, 2013, 10:28:29 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"create as many tournaments as we can to bring the new sports to the community."
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": 60,
+		"error": ""
+	},
+	{
+		"index": 28,
+		"author": "14ee46",
+		"quoted_id": "30ee31",
+		"date_time": "October 22, 2013, 09:49:50 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [],
+		"index_quoted": 11,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 29,
+		"author": "14ee46",
+		"quoted_id": "30ee31",
+		"date_time": "October 22, 2013, 09:50:42 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [],
+		"index_quoted": 14,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 30,
+		"author": "14ee46",
+		"quoted_id": "14ee46",
+		"date_time": "October 22, 2013, 09:52:51 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [],
+		"index_quoted": 1,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 31,
+		"author": "14ee46",
+		"quoted_id": "14ee46",
+		"date_time": "October 22, 2013, 09:53:07 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [],
+		"index_quoted": 2,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 32,
+		"author": "14ee46",
+		"quoted_id": "14ee46",
+		"date_time": "October 22, 2013, 09:54:19 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [],
+		"index_quoted": 5,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 33,
+		"author": "14ee46",
+		"quoted_id": "30ee31",
+		"date_time": "October 22, 2013, 10:00:12 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 4,
+		"session": 2,
+		"text": [
+			"This would be fun to do with music setting the tone, the way performers in touristy cities do it.  They play music and paint 'random' strokes, and it comes together at the end to make a beautiful piece of art.  Paint would be one of the best mediums to work with.  It's bold and exciting."
+		],
+		"index_quoted": 11,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 34,
+		"author": "14ee46",
+		"quoted_id": "30ee31",
+		"date_time": "October 22, 2013, 10:02:38 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 5,
+		"session": 2,
+		"text": [
+			"This sounds hilarious.  I imagine a lot of the dreams could be quite difficult and\/or dangerous to bring to life.  Also, an EEG may be necessary? How would the dreams be screened vs. the contestant\/player making up a random dream they would like to see come true?"
+		],
+		"index_quoted": 14,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 35,
+		"author": "14ee46",
+		"quoted_id": "14ee46",
+		"date_time": "October 22, 2013, 10:04:10 AM",
+		"type": "i",
+		"orig_type": "r",
+		"novelty": [
+			"1"
+		],
+		"session": 1,
+		"text": [
+				"This game should be played with at least 2 players on each team.  Otherwise, the balls will be lost quickly and the players will tire, since the ball cannot hit the floor.  It sounds fast-paced which would be enjoyable for audiences."
+		],
+		"index_quoted": 1,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "error_uta"
+	},
+	{
+		"index": 36,
+		"author": "14ee46",
+		"quoted_id": "14ee46",
+		"date_time": "October 22, 2013, 10:07:09 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"The details sound good.  The game seems well thought out.  This game requires precision.  If it sounds too much like bowling, it could be done using tall, wooden blocks or another heavy material, which would be difficult to knock down.  Maybe teams could complete 5-10 rounds each to arrive at final score.  It seems like a pretty fast-paced game."
+		],
+		"index_quoted": 2,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 37,
+		"author": "14ee46",
+		"quoted_id": "14ee46",
+		"date_time": "October 22, 2013, 10:11:09 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 3,
+		"session": 2,
+		"text": [
+			"This sounds like racquetball, but there are fewer rules (at this stage).  However, teammates can work together to keep the game going, but this would help the other player, which seems like it defeats the purpose.  This could take strategy, so the game is prolonged and more thought out.  Maybe the player could score more points if they win at a point when more time has elapsed, so it is in their interest to keep the game going for a bit.  They are still aiming to get the other player to not be able to hit the ball.  With more rules, this game could work and be fun."
+		],
+		"index_quoted": 5,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 38,
+		"author": "14ee46",
+		"quoted_id": "30ee31",
+		"date_time": "October 22, 2013, 10:24:53 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 5,
+		"session": 2,
+		"text": [
+			"This sounds like a reality show.  It would be interesting to televise, though it may be near impossible to make the dreams come true, if they include dangerous scenarios, celebrities, etc."
+		],
+		"index_quoted": 14,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 39,
+		"author": "30ee31",
+		"quoted_id": "",
+		"date_time": "October 22, 2013, 09:16:03 AM",
+		"type": "u",
+		"orig_type": "u",
+		"novelty": [
+			"0"
+		],
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": -1,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "No quote found"
+	},
+	{
+		"index": 40,
+		"author": "30ee31",
+		"quoted_id": "",
+		"date_time": "October 22, 2013, 09:16:35 AM",
+		"type": "u",
+		"orig_type": "u",
+		"novelty": [
+			"0"
+		],
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": -1,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "No quote found"
+	},
+	{
+		"index": 41,
+		"author": "30ee31",
+		"quoted_id": "",
+		"date_time": "October 22, 2013, 09:17:41 AM",
+		"type": "u",
+		"orig_type": "u",
+		"novelty": [
+			"0"
+		],
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": -1,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "No quote found"
+	},
+	{
+		"index": 42,
+		"author": "30ee31",
+		"quoted_id": "",
+		"date_time": "October 22, 2013, 09:20:08 AM",
+		"type": "u",
+		"orig_type": "u",
+		"novelty": [
+			"0"
+		],
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": -1,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "No quote found"
+	},
+	{
+		"index": 43,
+		"author": "30ee31",
+		"quoted_id": "",
+		"date_time": "October 22, 2013, 09:21:47 AM",
+		"type": "u",
+		"orig_type": "u",
+		"novelty": [
+			"0"
+		],
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": -1,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "No quote found"
+	},
+	{
+		"index": 44,
+		"author": "30ee31",
+		"quoted_id": "",
+		"date_time": "October 22, 2013, 09:25:35 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 2,
+		"text": [
+			"Prank wars. Each player will have to come up with pranks and whoever gets the best reaction from their prank wins"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 45,
+		"author": "30ee31",
+		"quoted_id": "",
+		"date_time": "October 22, 2013, 09:27:31 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 2,
+		"text": [
+			"You can also have a distraction period every fifteen minutes where there are balls all over the court and the players have to pass them"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 46,
+		"author": "30ee31",
+		"quoted_id": "",
+		"date_time": "October 22, 2013, 09:28:18 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 2,
+		"text": [
+			"There could be an egg you are fighting for or an object that both want"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 47,
+		"author": "30ee31",
+		"quoted_id": "",
+		"date_time": "October 22, 2013, 09:32:12 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 2,
+		"text": [
+			"combining the egg&spoon game with soccer"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 48,
+		"author": "30ee31",
+		"quoted_id": "",
+		"date_time": "October 22, 2013, 09:44:17 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"In a pond to see which one has the most amounts of jumps"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 49,
+		"author": "30ee31",
+		"quoted_id": "",
+		"date_time": "October 22, 2013, 09:45:06 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 2,
+		"text": [
+			"You can only use spray paint and you are assigned a wall of an old building to help you get inspiration"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 50,
+		"author": "30ee31",
+		"quoted_id": "",
+		"date_time": "October 22, 2013, 09:46:41 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 3,
+		"session": 2,
+		"text": [
+			"Without natural sources to see which player can have the best curls"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 51,
+		"author": "88ee64",
+		"quoted_id": "30ee31",
+		"date_time": "October 24, 2013, 09:52:43 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 7,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 52,
+		"author": "88ee64",
+		"quoted_id": "30ee31",
+		"date_time": "October 24, 2013, 09:53:05 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 8,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 53,
+		"author": "88ee64",
+		"quoted_id": "30ee31",
+		"date_time": "October 24, 2013, 09:53:38 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 10,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 54,
+		"author": "88ee64",
+		"quoted_id": "30ee31",
+		"date_time": "October 24, 2013, 09:54:00 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 14,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 55,
+		"author": "88ee64",
+		"quoted_id": "30ee31",
+		"date_time": "October 24, 2013, 09:54:23 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 18,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 56,
+		"author": "88ee64",
+		"quoted_id": "30ee31",
+		"date_time": "October 24, 2013, 09:54:38 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 21,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 57,
+		"author": "88ee64",
+		"quoted_id": "30ee31",
+		"date_time": "October 24, 2013, 09:55:14 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 20,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 58,
+		"author": "88ee64",
+		"quoted_id": "14ee46",
+		"date_time": "October 24, 2013, 09:56:00 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 3,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 59,
+		"author": "88ee64",
+		"quoted_id": "14ee46",
+		"date_time": "October 24, 2013, 09:56:23 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 5,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 60,
+		"author": "88ee64",
+		"quoted_id": "88ee64",
+		"date_time": "October 24, 2013, 09:56:35 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 27,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 61,
+		"author": "88ee64",
+		"quoted_id": "30ee31",
+		"date_time": "October 24, 2013, 10:02:07 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"each block level contains at least 2 people"
+		],
+		"index_quoted": 9,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 62,
+		"author": "88ee64",
+		"quoted_id": "30ee31",
+		"date_time": "October 24, 2013, 10:04:37 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 2,
+		"text": [
+			"a chicken's fighting contest. Bring up your chicken and let them fight with each other. Whose chicken win is the winner."
+		],
+		"index_quoted": 21,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 63,
+		"author": "88ee64",
+		"quoted_id": "30ee31",
+		"date_time": "October 24, 2013, 10:06:00 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 2,
+		"text": [
+			"hold a set of dishes on both hands while trying to balance a ball on head"
+		],
+		"index_quoted": 20,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 64,
+		"author": "88ee64",
+		"quoted_id": "30ee31",
+		"date_time": "October 24, 2013, 10:07:56 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 2,
+		"text": [
+			"blowing bubbles contest, given the same time, who blow the biggest bubble is the winner"
+		],
+		"index_quoted": 8,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 65,
+		"author": "88ee64",
+		"quoted_id": "30ee31",
+		"date_time": "October 24, 2013, 10:11:38 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 2,
+		"text": [
+			"rock tossing without removing your feet on the ground. the further you can toss, the more points you get"
+		],
+		"index_quoted": 7,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 66,
+		"author": "88ee64",
+		"quoted_id": "30ee31",
+		"date_time": "October 24, 2013, 10:13:57 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 2,
+		"text": [
+			"breaking bubbles contest. given the same amount of bubbles and time, with your bare hands, who break the most bubbles is the winner"
+		],
+		"index_quoted": 6,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 67,
+		"author": "88ee64",
+		"quoted_id": "30ee31",
+		"date_time": "October 24, 2013, 10:18:37 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"running to a point while carrying your spouse or boy\/girl friend"
+		],
+		"index_quoted": 18,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 68,
+		"author": "88ee64",
+		"quoted_id": "30ee31",
+		"date_time": "October 24, 2013, 10:21:57 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"dancing with 1 leg continuously, the longer the dance the winner"
+		],
+		"index_quoted": 17,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	}
+]

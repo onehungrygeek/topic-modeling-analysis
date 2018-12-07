@@ -1,0 +1,1746 @@
+[
+	{
+		"index": 1,
+		"author": "60ab85",
+		"quoted_id": "",
+		"date_time": "March 18, 2014, 10:41:48 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"roller-skate soccer"
+		],
+		"index_quoted": null,
+		"list_replies": 71,
+		"list_votes": 35,
+		"error": ""
+	},
+	{
+		"index": 2,
+		"author": "60ab85",
+		"quoted_id": "",
+		"date_time": "March 18, 2014, 10:42:31 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"skateboard ultimate frisbee"
+		],
+		"index_quoted": null,
+		"list_replies": [42,61],
+		"list_votes": 55,
+		"error": ""
+	},
+	{
+		"index": 3,
+		"author": "60ab85",
+		"quoted_id": "",
+		"date_time": "March 18, 2014, 10:43:54 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"Cross-country electric scooter race. With accuracy shooting every 2 miles"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 4,
+		"author": "60ab85",
+		"quoted_id": "",
+		"date_time": "March 18, 2014, 10:46:01 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"hat hockey on ball bearing shoes. Basically like frisbee on ice using a hat, but also on ball bearing shoes"
+		],
+		"index_quoted": null,
+		"list_replies": 64,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 5,
+		"author": "60ab85",
+		"quoted_id": "",
+		"date_time": "March 18, 2014, 10:47:56 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"Synchronized downhill wheelchair races"
+		],
+		"index_quoted": null,
+		"list_replies": [39,62],
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 6,
+		"author": "60ab85",
+		"quoted_id": "",
+		"date_time": "March 18, 2014, 10:56:45 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"lacrosse with coffee cups instead of lacrosse sticks"
+		],
+		"index_quoted": null,
+		"list_replies": 70,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 7,
+		"author": "50ab90",
+		"quoted_id": "",
+		"date_time": "March 18, 2014, 10:40:46 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 3,
+		"session": 1,
+		"text": [
+			"The game will consist of four bases."
+		],
+		"index_quoted": null,
+		"list_replies": 53,
+		"list_votes": [86,93],
+		"error": ""
+	},
+	{
+		"index": 8,
+		"author": "50ab90",
+		"quoted_id": "",
+		"date_time": "March 18, 2014, 10:41:31 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 1,
+		"text": [
+			"The ball will be similiar to a bounce ball"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 9,
+		"author": "50ab90",
+		"quoted_id": "",
+		"date_time": "March 18, 2014, 10:42:05 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 1,
+		"text": [
+			"Players will be allowed to hit the ball with a golf club."
+		],
+		"index_quoted": null,
+		"list_replies": 69,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 10,
+		"author": "50ab90",
+		"quoted_id": "",
+		"date_time": "March 18, 2014, 10:42:46 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 1,
+		"text": [
+			"The game will be like a blended game of golf and baseball."
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 11,
+		"author": "50ab90",
+		"quoted_id": "",
+		"date_time": "March 18, 2014, 10:43:21 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 1,
+		"session": 1,
+		"text": [
+			"Fouls, strikes, and home runs will be in the rule book."
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 12,
+		"author": "50ab90",
+		"quoted_id": "",
+		"date_time": "March 18, 2014, 10:44:04 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 3,
+		"session": 1,
+		"text": [
+			"Players will be restricted to 3 tries before considered being out."
+		],
+		"index_quoted": null,
+		"list_replies": 65,
+		"list_votes": 95,
+		"error": ""
+	},
+	{
+		"index": 13,
+		"author": "50ab90",
+		"quoted_id": "",
+		"date_time": "March 18, 2014, 10:44:41 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"Players will be allowed to skip base."
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 14,
+		"author": "50ab90",
+		"quoted_id": "",
+		"date_time": "March 18, 2014, 10:46:37 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 4,
+		"session": 1,
+		"text": [
+			"When \"pitching\" the ball, the pitcher in this gamer is callled the roller."
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": 57,
+		"error": ""
+	},
+	{
+		"index": 15,
+		"author": "50ab90",
+		"quoted_id": "",
+		"date_time": "March 18, 2014, 10:47:25 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 1,
+		"text": [
+			"The ball will be rolled to the player on the opposite end with the golf club."
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 16,
+		"author": "50ab90",
+		"quoted_id": "",
+		"date_time": "March 18, 2014, 10:48:50 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"In baseball they call the mats player stand on bases, in this sport they bases are known as plates."
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": 89,
+		"error": ""
+	},
+	{
+		"index": 17,
+		"author": "50ab90",
+		"quoted_id": "",
+		"date_time": "March 18, 2014, 10:49:41 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"The four plate names are: Home Plate, First Plate, Second Plate, Third Plate"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": 96,
+		"error": ""
+	},
+	{
+		"index": 18,
+		"author": "50ab90",
+		"quoted_id": "",
+		"date_time": "March 18, 2014, 10:51:24 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 4,
+		"session": 1,
+		"text": [
+			"Players will wear golf tees with jersey number, baseball shorts, and football styled-shoes as the official sport uniform."
+		],
+		"index_quoted": null,
+		"list_replies": 54,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 19,
+		"author": "50ab90",
+		"quoted_id": "",
+		"date_time": "March 18, 2014, 10:51:42 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"No helmets will be needed."
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 20,
+		"author": "50ab90",
+		"quoted_id": "",
+		"date_time": "March 18, 2014, 10:52:47 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"Points will be scored when a player runs\/reaches all four plates."
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": 94,
+		"error": ""
+	},
+	{
+		"index": 21,
+		"author": "50ab90",
+		"quoted_id": "",
+		"date_time": "March 18, 2014, 10:54:50 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 4,
+		"session": 1,
+		"text": [
+			"The game is divided into 12 sessions of each team recieving 1 hitting time per session."
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 22,
+		"author": "50ab90",
+		"quoted_id": "",
+		"date_time": "March 18, 2014, 10:55:19 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 4,
+		"session": 1,
+		"text": [
+			"At the end of the game, the team with the most points will be claimed the winner."
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": 97,
+		"error": ""
+	},
+	{
+		"index": 23,
+		"author": "50ab90",
+		"quoted_id": "",
+		"date_time": "March 18, 2014, 10:56:21 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 1,
+		"text": [
+			"The sport will be called GolfBall."
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": [56,58],
+		"error": ""
+	},
+	{
+		"index": 24,
+		"author": "28ab54",
+		"quoted_id": "",
+		"date_time": "March 20, 2014, 10:41:16 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 4,
+		"session": 1,
+		"text": [
+			[
+				"Topic: To create a new sport"
+			],
+			[
+				"New sport:  Bag Race"
+			],
+			[
+				"A bag race is like having several persons competing in a race. It involves energy, creativity, being focused and having the ability to strategies.  You have several persons get into each single emptied rice bag and line up.  could be between 3 to 10 persons.  They race from one end to the other, say from the beginning of a football field to the center of the field. They race to the center of the field and then return to the starting point, first to return to the stating point, wins the race.  Judges or referees will be on the side line to watch and reward the winner.  There may be from first to third places winners.  And they all get a prize each at the end of the race."
+			]
+		],
+		"index_quoted": null,
+		"list_replies": 41,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 25,
+		"author": "28ab54",
+		"quoted_id": "",
+		"date_time": "March 20, 2014, 10:41:26 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 1,
+		"text": [
+			"A Bag race involves 3 to 10 persons"
+		],
+		"index_quoted": null,
+		"list_replies": 72,
+		"list_votes": 98,
+		"error": ""
+	},
+	{
+		"index": 26,
+		"author": "28ab54",
+		"quoted_id": "",
+		"date_time": "March 20, 2014, 10:41:35 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 3,
+		"session": 1,
+		"text": [
+			"A bag race is like several persons getting into each individual bag to race."
+		],
+		"index_quoted": null,
+		"list_replies": [50,51],
+		"list_votes": 43,
+		"error": ""
+	},
+	{
+		"index": 27,
+		"author": "28ab54",
+		"quoted_id": "",
+		"date_time": "March 20, 2014, 10:41:46 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 4,
+		"session": 1,
+		"text": [
+			"They are lined up from a starting point to the other."
+		],
+		"index_quoted": null,
+		"list_replies": 45,
+		"list_votes": 44,
+		"error": ""
+	},
+	{
+		"index": 28,
+		"author": "28ab54",
+		"quoted_id": "",
+		"date_time": "March 20, 2014, 10:41:56 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 3,
+		"session": 1,
+		"text": [
+			"They race from the starting point to the end point and then return to the starting point."
+		],
+		"index_quoted": null,
+		"list_replies": 63,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 29,
+		"author": "28ab54",
+		"quoted_id": "",
+		"date_time": "March 20, 2014, 10:42:06 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 3,
+		"session": 1,
+		"text": [
+			"The first to reach the end point and then return to the starting point still in the emptied bag, wins the reace."
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": [46,47,87],
+		"error": ""
+	},
+	{
+		"index": 30,
+		"author": "28ab54",
+		"quoted_id": "",
+		"date_time": "March 20, 2014, 10:42:15 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"prizes are awarded to first, second and third places winners."
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": [48,90],
+		"error": ""
+	},
+	{
+		"index": 31,
+		"author": "79ab35",
+		"quoted_id": "",
+		"date_time": "March 20, 2014, 11:24:47 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			[
+				"SocBall"
+			],
+			[
+				"This game would be similar to soccer. It would entail 11 people on each team. The idea of the game is to get the ball into the hands of your teammate standing in your designated endzone- much like soccer trying to score a goal in the goal box, except you are trying to get the ball to your teammate in SocBall."
+			],
+			[
+				"The field is dividing into four sections. The two outer sections are the \"endzones\" and where you will have one player from your team, the goalie. The object of the game is to get the ball to your team's goal in your endzone. Within the endzones, only hands may used. In order for a point to count, the goalie must catch the ball using his\/her hands."
+			],
+			[
+				"The remaining two sections of the field is where the rest of the players on both teams will remain. All players, aside from the goalie, are only to use their feet- similar to soccer. No hands are allowed. The use of hands will result in a \"handball\" and the opposing team will receive a free kick."
+			],
+			[
+				"The game starts with a kick-off. Each team chooses a side to defend. The \"goalie\" is on the opposite side that you are trying to defend. So you are defending the other teams goalie, because you do not want the other team to pass the ball to the \"goalies\" hands and score a point."
+			],
+			[
+				"Similar soccer rules apply, such as out of bounds resulting in a throw in or free-kick. (A throw in is the only acceptable means for any other teammate aside from the goalie to use their hands.)"
+			],
+			[
+				"If the ball is directed to the goalie and hits the ground, the endzone is free game for additional players to enter. However, the ball must hit the ground prior to any players crossing over the endzone line. If a player crosses over the endzone line, prior to the play hitting the ground, this will result in a penalty."
+			],
+			[
+				"If the opposing team (team trying to score) crosses over the line prior to the ball hitting the ground, the defending team receives a free kick from the endzone."
+			],
+			[
+				"If the defending team (team trying to prevent the other team from scoring) crosses over the line prior to the ball hitting the ground, the opposing team receives a free kick from the center of the field (midfield point)"
+			],
+			[
+				"Inside the endzone: You cannot score inside of the endzone. If the ball hits the ground and players are allowed into the endzone, the ball must leave the endzone, requiring all players to leave the endzone as well and then re-enter and the goalie must receive the ball in his\/her hands for a goal to count."
+			],
+			[
+				"SocBall is played in two halves. Each half consists of 45 minutes. Each team is allowed up to 20 players on a roster."
+			],
+			[
+				"Subbing a player out for another may only occur when your team has possession of the ball after the ball as gone out of bounds or your team receives a free kick."
+			],
+			[
+				"There is no foul play, pushing or use of elbows. This will result in a foul kick and the opposing team can take the kick where the foul was made. If the foul is questionable by both teams, the referee will perform a \"drop ball\" where two opposing teammates stand face to face with a minimal distance between, and the referee will drop the ball in between the two. The ball is in play and free game once it hits the ground."
+			]
+		],
+		"index_quoted": null,
+		"list_replies": [34,52],
+		"list_votes": [33,37,38,49,60],
+		"error": ""
+	},
+	{
+		"index": 32,
+		"author": "79ab35",
+		"quoted_id": "",
+		"date_time": "March 20, 2014, 11:29:46 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			[
+				"UniBall"
+			],
+			[
+				"This game is played on a unicycle and is similar to basketball. There are two teams. Each team consists of 9 players. You must remain on your unicycle at all times. Only one foot may touch the ground at a time. If both feet touch the ground this is called cycling. Cycling results in forfeiting the ball to the other team. The ball is similar to a basketball, but the nets are square instead of round."
+			],
+			[
+				"There is no shot clock, but a player may not have possession of the ball for more than 20 seconds. The ball must make 2 consecutive passes prior to scoring a basket."
+			]
+		],
+		"index_quoted": null,
+		"list_replies": 40,
+		"list_votes": [36,59],
+		"error": ""
+	},
+	{
+		"index": 33,
+		"author": "60ab85",
+		"quoted_id": "79ab35",
+		"date_time": "March 25, 2014, 11:16:22 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [],
+		"index_quoted": 31,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 34,
+		"author": "60ab85",
+		"quoted_id": "79ab35",
+		"date_time": "March 25, 2014, 11:39:18 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 2,
+		"text": [
+			"I really like this idea. It's got solid faceoff, offside, penalty, and scoring rules already set up. I like the idea of the sectors. I think of the field as kind of like an ellipse that has the two shallow sides being the \"endzones\" and the middle, including the ends, being the large area for the players to be in.  There isn't much I can add to this idea seeing as its already mostly developed, but in terms of playing quality we'll probably have to think up situations to where added rulings are needed.  For instance; to what extent can the goalie move within the endzone, and would there be penalties for the goalie missing the ball in the endzone?  These are just things that we would need to develop as we move along with such an endeavour.",
+			"is played in two halves. Each half consists of 45 minutes. Each team is allowed up to 20 players on a roster."
+		],
+		"index_quoted": 31,
+		"list_replies": null,
+		"list_votes": [73,78],
+		"error": ""
+	},
+	{
+		"index": 35,
+		"author": "50ab90",
+		"quoted_id": "60ab85",
+		"date_time": "March 25, 2014, 11:13:50 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 1,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 36,
+		"author": "50ab90",
+		"quoted_id": "79ab35",
+		"date_time": "March 25, 2014, 11:14:04 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 32,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 37,
+		"author": "50ab90",
+		"quoted_id": "79ab35",
+		"date_time": "March 25, 2014, 11:18:18 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 31,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "New text in vote added r to type"
+	},
+	{
+		"index": 38,
+		"author": "50ab90",
+		"quoted_id": "79ab35",
+		"date_time": "March 25, 2014, 11:18:54 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 31,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "New text in vote added r to type"
+	},
+	{
+		"index": 39,
+		"author": "50ab90",
+		"quoted_id": "60ab85",
+		"date_time": "March 25, 2014, 11:30:02 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"Have Racers of the same weight class roll down the hill.",
+			"Each having to weave through obstacles on the way down the hill."
+		],
+		"index_quoted": 5,
+		"list_replies": null,
+		"list_votes": 77,
+		"error": ""
+	},
+	{
+		"index": 40,
+		"author": "50ab90",
+		"quoted_id": "79ab35",
+		"date_time": "March 25, 2014, 11:31:05 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": [
+			"1"
+		],
+		"session": 2,
+		"text": [
+			"Have goalies on the end. stationery to the opposing ends of the rink"
+		],
+		"index_quoted": 32,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 41,
+		"author": "50ab90",
+		"quoted_id": "28ab54",
+		"date_time": "March 25, 2014, 11:34:27 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": [
+			"2"
+		],
+		"session": 2,
+		"text": [
+			"Winners complete in a series of several races to be claimed the winner"
+		],
+		"index_quoted": 24,
+		"list_replies": null,
+		"list_votes": 85,
+		"error": ""
+	},
+	{
+		"index": 42,
+		"author": "50ab90",
+		"quoted_id": "60ab85",
+		"date_time": "March 25, 2014, 11:37:24 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": [
+			"2"
+		],
+		"session": 2,
+		"text": [
+			"have certain constructed skateboard just for this sport"
+		],
+		"index_quoted": 2,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 43,
+		"author": "28ab54",
+		"quoted_id": "28ab54",
+		"date_time": "March 25, 2014, 11:19:28 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [],
+		"index_quoted": 26,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 44,
+		"author": "28ab54",
+		"quoted_id": "28ab54",
+		"date_time": "March 25, 2014, 11:20:36 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [],
+		"index_quoted": 27,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 45,
+		"author": "28ab54",
+		"quoted_id": "28ab54",
+		"date_time": "March 25, 2014, 11:22:31 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": [
+			"3"
+		],
+		"session": 2,
+		"text": [
+			". The participants are are also uniformed so as to distinquish them."
+		],
+		"index_quoted": 27,
+		"list_replies": null,
+		"list_votes": 91,
+		"error": ""
+	},
+	{
+		"index": 46,
+		"author": "28ab54",
+		"quoted_id": "28ab54",
+		"date_time": "March 25, 2014, 11:22:51 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [],
+		"index_quoted": 29,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 47,
+		"author": "28ab54",
+		"quoted_id": "28ab54",
+		"date_time": "March 25, 2014, 11:23:07 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [],
+		"index_quoted": 29,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 48,
+		"author": "28ab54",
+		"quoted_id": "28ab54",
+		"date_time": "March 25, 2014, 11:23:35 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [],
+		"index_quoted": 30,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 49,
+		"author": "28ab54",
+		"quoted_id": "79ab35",
+		"date_time": "March 25, 2014, 11:24:11 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [],
+		"index_quoted": 31,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 50,
+		"author": "28ab54",
+		"quoted_id": "28ab54",
+		"date_time": "March 25, 2014, 11:26:27 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 5,
+		"session": 2,
+		"text": [
+			", there is also a referee or judges to manage the sport\/game and to ensure fairplay on all sides."
+		],
+		"index_quoted": 26,
+		"list_replies": null,
+		"list_votes": [83,88],
+		"error": ""
+	},
+	{
+		"index": 51,
+		"author": "28ab54",
+		"quoted_id": "28ab54",
+		"date_time": "March 25, 2014, 11:29:27 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			", a set of two opponent teams could compete in the sport.  For example a team could be challenge from one location or city  to the other city and they could compete for trophies etc."
+		],
+		"index_quoted": 26,
+		"list_replies": null,
+		"list_votes": [74,84,99],
+		"error": ""
+	},
+	{
+		"index": 52,
+		"author": "28ab54",
+		"quoted_id": "79ab35",
+		"date_time": "March 25, 2014, 11:31:46 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": [
+			"2"
+		],
+		"session": 2,
+		"text": [
+			", the prizes awarded, are to encourage more and frequent participation in the sports and to make it known or popular.is played in two halves. Each half consists of 45 minutes. Each team is allowed up to 20 players on a roster."
+		],
+		"index_quoted": 31,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 53,
+		"author": "28ab54",
+		"quoted_id": "50ab90",
+		"date_time": "March 25, 2014, 11:37:03 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 2,
+		"text": [
+			"% good idea % , the ball will be pitched and then kicked by a player of the other team.  The player who kicked the ball will have to run from the first base and goes all the way round until he or she reaches the fourth base then it would be counted as a home run\/ a point."
+		],
+		"index_quoted": 7,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 54,
+		"author": "28ab54",
+		"quoted_id": "50ab90",
+		"date_time": "March 25, 2014, 11:41:37 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 5,
+		"session": 2,
+		"text": [
+			", this sport is similar to what we referred to in Liberia as Kickball and is mainly played by girls."
+		],
+		"index_quoted": 18,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 55,
+		"author": "79ab35",
+		"quoted_id": "60ab85",
+		"date_time": "March 27, 2014, 11:03:32 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 2,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 56,
+		"author": "79ab35",
+		"quoted_id": "50ab90",
+		"date_time": "March 27, 2014, 11:05:05 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 23,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 57,
+		"author": "79ab35",
+		"quoted_id": "50ab90",
+		"date_time": "March 27, 2014, 11:05:57 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 14,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 58,
+		"author": "79ab35",
+		"quoted_id": "50ab90",
+		"date_time": "March 27, 2014, 11:06:37 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 23,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 59,
+		"author": "79ab35",
+		"quoted_id": "79ab35",
+		"date_time": "March 27, 2014, 11:06:52 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 32,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 60,
+		"author": "79ab35",
+		"quoted_id": "79ab35",
+		"date_time": "March 27, 2014, 11:07:05 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 31,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "New text in vote added r to type"
+	},
+	{
+		"index": 61,
+		"author": "79ab35",
+		"quoted_id": "60ab85",
+		"date_time": "March 27, 2014, 11:14:17 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 2,
+		"text": [
+			"there are three teams and only one winner"
+		],
+		"index_quoted": 2,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 62,
+		"author": "79ab35",
+		"quoted_id": "60ab85",
+		"date_time": "March 27, 2014, 11:15:42 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"there obstacles throughout the race such as a going through hoops of all different sizes along the path, ramps for jumps and trick points and puddles of both water and mud"
+		],
+		"index_quoted": 5,
+		"list_replies": null,
+		"list_votes": [75,92],
+		"error": ""
+	},
+	{
+		"index": 63,
+		"author": "79ab35",
+		"quoted_id": "28ab54",
+		"date_time": "March 27, 2014, 11:19:49 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 2,
+		"text": [
+			"There obstacles and tasks that must be completed along the way.",
+			"One of these tasks is switching bags with a partner on your team. Only one team member may allow one of their feet to touch the ground. The other team member may not have their feet touching the ground at any time during the \"bag swap\" or it will result in a one-minute point deduction every time either members foot touches the ground (aside from the one foot the one team member is allowed)",
+			"Other obstacles: Bag hopping through tire loops, bag hopping through a tunnel",
+			"Other tasks: Bag hopping backwards (for a particular stretch of the race), Bag hopping with one foot (for a particular stretch of the race)"
+		],
+		"index_quoted": 28,
+		"list_replies": null,
+		"list_votes": 76,
+		"error": ""
+	},
+	{
+		"index": 64,
+		"author": "79ab35",
+		"quoted_id": "60ab85",
+		"date_time": "March 27, 2014, 11:22:04 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"The  frisbee must be caught using your head, similar to wearing a hat. The toss is not allowed to made with hands unless the frisbee lands outside of the boundaries and you are taking a \"toss in\"",
+			"Protective gear is worn to protect the skull, eyes and help stabilize the neck to prevent any injury"
+		],
+		"index_quoted": 4,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 65,
+		"author": "79ab35",
+		"quoted_id": "50ab90",
+		"date_time": "March 27, 2014, 11:23:24 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"Once out, the player must wait until the team has gone through a specified rotation before being up again"
+		],
+		"index_quoted": 12,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 66,
+		"author": "79ab35",
+		"quoted_id": "",
+		"date_time": "March 27, 2014, 11:24:21 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 2,
+		"text": [
+			[
+				"WaterBall"
+			],
+			[
+				"Similar to water basketball but with use of a football"
+			]
+		],
+		"index_quoted": null,
+		"list_replies": 67,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 67,
+		"author": "79ab35",
+		"quoted_id": "79ab35",
+		"date_time": "March 27, 2014, 11:25:58 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"Two teams, object of the game is to score a point against the defending team into the offensive teams end zone."
+		],
+		"index_quoted": 66,
+		"list_replies": null,
+		"list_votes": 82,
+		"error": ""
+	},
+	{
+		"index": 68,
+		"author": "79ab35",
+		"quoted_id": "",
+		"date_time": "March 27, 2014, 11:26:47 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 2,
+		"text": [
+			"You are allowed to swim under water with the ball for a maximum of 5 seconds. Any extended amount of time will result in a penalty."
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": [79,81],
+		"error": ""
+	},
+	{
+		"index": 69,
+		"author": "79ab35",
+		"quoted_id": "50ab90",
+		"date_time": "March 27, 2014, 11:29:15 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 2,
+		"text": [
+			"Players who are hitting are not allowed to touch the ball with either hands or feet"
+		],
+		"index_quoted": 9,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 70,
+		"author": "79ab35",
+		"quoted_id": "60ab85",
+		"date_time": "March 27, 2014, 11:30:56 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"The game is played with 3 balls. Ball A, Ball B and Ball C. You may only score points with Ball A and Ball B. Two points may be scored at one time. However, a team must be in possession of Ball C in order to score with either Ball A or Ball B"
+		],
+		"index_quoted": 6,
+		"list_replies": null,
+		"list_votes": 80,
+		"error": ""
+	},
+	{
+		"index": 71,
+		"author": "79ab35",
+		"quoted_id": "60ab85",
+		"date_time": "March 27, 2014, 11:32:27 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 2,
+		"text": [
+			"same soccer rules apply, except the ball is moved around with the use of players hands, not their feet."
+		],
+		"index_quoted": 1,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 72,
+		"author": "79ab35",
+		"quoted_id": "28ab54",
+		"date_time": "March 27, 2014, 11:36:32 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 2,
+		"text": [
+			"per team. There can be up to 5 teams"
+		],
+		"index_quoted": 25,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 73,
+		"author": "79ab35",
+		"quoted_id": "60ab85",
+		"date_time": "April 08, 2014, 11:06:57 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 34,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "New text in vote added r to type"
+	},
+	{
+		"index": 74,
+		"author": "79ab35",
+		"quoted_id": "28ab54",
+		"date_time": "April 08, 2014, 11:07:25 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 51,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 75,
+		"author": "79ab35",
+		"quoted_id": "79ab35",
+		"date_time": "April 08, 2014, 11:08:32 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 62,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 76,
+		"author": "79ab35",
+		"quoted_id": "79ab35",
+		"date_time": "April 08, 2014, 11:08:44 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 63,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 77,
+		"author": "50ab90",
+		"quoted_id": "50ab90",
+		"date_time": "April 08, 2014, 11:08:50 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 39,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 78,
+		"author": "50ab90",
+		"quoted_id": "60ab85",
+		"date_time": "April 08, 2014, 11:09:20 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 34,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "New text in vote added r to type"
+	},
+	{
+		"index": 79,
+		"author": "79ab35",
+		"quoted_id": "79ab35",
+		"date_time": "April 08, 2014, 11:09:27 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 68,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 80,
+		"author": "79ab35",
+		"quoted_id": "79ab35",
+		"date_time": "April 08, 2014, 11:09:59 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 70,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 81,
+		"author": "50ab90",
+		"quoted_id": "79ab35",
+		"date_time": "April 08, 2014, 11:10:23 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 68,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 82,
+		"author": "79ab35",
+		"quoted_id": "79ab35",
+		"date_time": "April 08, 2014, 11:11:22 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 67,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 83,
+		"author": "50ab90",
+		"quoted_id": "28ab54",
+		"date_time": "April 08, 2014, 11:12:42 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 50,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 84,
+		"author": "79ab35",
+		"quoted_id": "28ab54",
+		"date_time": "April 08, 2014, 11:13:54 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 51,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 85,
+		"author": "28ab54",
+		"quoted_id": "50ab90",
+		"date_time": "April 08, 2014, 11:15:28 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 41,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "New text in vote added r to type"
+	},
+	{
+		"index": 86,
+		"author": "28ab54",
+		"quoted_id": "50ab90",
+		"date_time": "April 08, 2014, 11:17:34 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 7,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 87,
+		"author": "28ab54",
+		"quoted_id": "28ab54",
+		"date_time": "April 08, 2014, 11:19:55 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 29,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 88,
+		"author": "50ab90",
+		"quoted_id": "28ab54",
+		"date_time": "April 08, 2014, 11:20:32 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 50,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 89,
+		"author": "28ab54",
+		"quoted_id": "50ab90",
+		"date_time": "April 08, 2014, 11:20:42 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 16,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 90,
+		"author": "28ab54",
+		"quoted_id": "28ab54",
+		"date_time": "April 08, 2014, 11:21:30 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 30,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 91,
+		"author": "28ab54",
+		"quoted_id": "28ab54",
+		"date_time": "April 08, 2014, 11:23:27 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 45,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 92,
+		"author": "50ab90",
+		"quoted_id": "79ab35",
+		"date_time": "April 08, 2014, 11:23:34 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 62,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 93,
+		"author": "28ab54",
+		"quoted_id": "50ab90",
+		"date_time": "April 08, 2014, 11:24:06 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 7,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 94,
+		"author": "28ab54",
+		"quoted_id": "50ab90",
+		"date_time": "April 08, 2014, 11:24:35 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 20,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 95,
+		"author": "28ab54",
+		"quoted_id": "50ab90",
+		"date_time": "April 08, 2014, 11:25:08 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 12,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 96,
+		"author": "28ab54",
+		"quoted_id": "50ab90",
+		"date_time": "April 08, 2014, 11:25:42 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 17,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 97,
+		"author": "28ab54",
+		"quoted_id": "50ab90",
+		"date_time": "April 08, 2014, 11:26:18 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 22,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 98,
+		"author": "28ab54",
+		"quoted_id": "28ab54",
+		"date_time": "April 08, 2014, 11:26:41 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 25,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 99,
+		"author": "28ab54",
+		"quoted_id": "28ab54",
+		"date_time": "April 08, 2014, 11:27:30 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 51,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	}
+]

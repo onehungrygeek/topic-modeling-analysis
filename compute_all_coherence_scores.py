@@ -1,18 +1,26 @@
 import warnings
 warnings.filterwarnings(action='ignore', category=UserWarning, module='gensim')
+warnings.filterwarnings(action='ignore', category=DeprecationWarning, module='gensim')
+warnings.filterwarnings(action='ignore', category=DeprecationWarning)
 warnings.filterwarnings(action='ignore', category=RuntimeWarning)
 import os
 import gensim
 from gensim.models import CoherenceModel
+
+# Update Mallet path and environment variable
+# Mallet path for Windows 10
+# os.environ.update({'MALLET_HOME': r'b:/Courses/Mallet/'})
+# mallet_path = 'b:\\Courses\\Mallet\\bin\\mallet'
+
+# Mallet path for Ubuntu 18.04
+os.environ.update({'MALLET_HOME': r'/home/akshay/mallet/'})
+mallet_path = '/home/akshay/mallet/bin/mallet'
 
 
 def compute_all_scores(modelname, corpus, id2word, texts, measure, limit, start=5, step=5):
     model_list, coherence_values = [], []
 
     def compute_model(modelname, corpus, id2word, topics):
-        os.environ.update({'MALLET_HOME': r'b:/Courses/Mallet/'})
-        mallet_path = 'b:\\Courses\\Mallet\\bin\\mallet'
-
         if modelname == 'LsiModel' or modelname == 'lsimodel':
             model = gensim.models.lsimodel.LsiModel(corpus=corpus,
                                                     num_topics=topics,
@@ -54,7 +62,7 @@ def compute_all_scores(modelname, corpus, id2word, texts, measure, limit, start=
         coherence_values.append(coherencemodel.get_coherence())
 
     x = range(start, limit + 1, step)
-
+    print('\nCalculating various coherence scores...\n')
     for n, score in zip(x, coherence_values):
         print(modelname, "Num Topics =", n,
               " has Coherence Value of", round(score, 4))

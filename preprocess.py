@@ -1,5 +1,7 @@
 import warnings
 warnings.filterwarnings(action='ignore', category=UserWarning, module='gensim')
+warnings.filterwarnings(action='ignore', category=DeprecationWarning, module='gensim')
+warnings.filterwarnings(action='ignore', category=DeprecationWarning)
 warnings.filterwarnings(action='ignore', category=RuntimeWarning)
 import gensim.corpora as corpora
 import gensim
@@ -9,8 +11,13 @@ import re
 from nltk.corpus import stopwords
 from gensim.utils import simple_preprocess
 
-stop_words = stopwords.words('english')
-stop_words.extend(['from', 'subject', 're', 'edu', 'use'])
+nltk_stop_words = stopwords.words('english')
+nltk_stop_words.extend(['from', 'subject', 're', 'edu', 'use'])
+
+with open('mallet_stopwords.txt') as f:
+    mallet_stop_words = f.read().splitlines()
+
+stop_words = nltk_stop_words + mallet_stop_words
 
 
 def process_texts(file_name):

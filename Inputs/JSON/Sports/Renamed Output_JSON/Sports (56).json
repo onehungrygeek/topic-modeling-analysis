@@ -1,0 +1,2182 @@
+[
+	{
+		"index": 1,
+		"author": "76y23",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 10:12:58 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"use a ball and try to make goals"
+		],
+		"index_quoted": null,
+		"list_replies": 76,
+		"list_votes": 110,
+		"error": ""
+	},
+	{
+		"index": 2,
+		"author": "76y23",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 10:13:13 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 4,
+		"session": 1,
+		"text": [
+			"physical fight"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 3,
+		"author": "76y23",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 10:13:54 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 3,
+		"session": 1,
+		"text": [
+			"keep an object (ball) off the ground"
+		],
+		"index_quoted": null,
+		"list_replies": 106,
+		"list_votes": 68,
+		"error": ""
+	},
+	{
+		"index": 4,
+		"author": "76y23",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 10:14:17 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 1,
+		"text": [
+			"knock down objects with another object"
+		],
+		"index_quoted": null,
+		"list_replies": [77,113],
+		"list_votes": 55,
+		"error": ""
+	},
+	{
+		"index": 5,
+		"author": "76y23",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 10:14:42 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"balance yourself on an object"
+		],
+		"index_quoted": null,
+		"list_replies": [78,117],
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 6,
+		"author": "76y23",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 10:15:07 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"battle royale"
+		],
+		"index_quoted": null,
+		"list_replies": 99,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 7,
+		"author": "76y23",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 10:15:33 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 1,
+		"session": 1,
+		"text": [
+			"balance objects on top of other objects"
+		],
+		"index_quoted": null,
+		"list_replies": 114,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 8,
+		"author": "76y23",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 10:16:16 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 1,
+		"session": 1,
+		"text": [
+			"throw objects at opponent(s) (like in dodgeball)"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 9,
+		"author": "76y23",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 10:16:35 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 1,
+		"session": 1,
+		"text": [
+			"obstacle course"
+		],
+		"index_quoted": null,
+		"list_replies": 127,
+		"list_votes": [56,62],
+		"error": ""
+	},
+	{
+		"index": 10,
+		"author": "76y23",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 10:16:43 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 1,
+		"session": 1,
+		"text": [
+			"race"
+		],
+		"index_quoted": null,
+		"list_replies": [79,91],
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 11,
+		"author": "76y23",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 10:17:06 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 1,
+		"text": [
+			"dodge flying objects"
+		],
+		"index_quoted": null,
+		"list_replies": [65,118],
+		"list_votes": 116,
+		"error": ""
+	},
+	{
+		"index": 12,
+		"author": "76y23",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 10:17:48 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 1,
+		"text": [
+			"shoot at flying objects with some type of gun\/bow and arrow\/etc"
+		],
+		"index_quoted": null,
+		"list_replies": 92,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 13,
+		"author": "76y23",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 10:18:03 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 1,
+		"session": 1,
+		"text": [
+			"shoot animals"
+		],
+		"index_quoted": null,
+		"list_replies": 80,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 14,
+		"author": "76y23",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 10:18:21 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 1,
+		"session": 1,
+		"text": [
+			"ride an animal"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 15,
+		"author": "76y23",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 10:19:29 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 1,
+		"text": [
+			"[sport setting] a pit of animals"
+		],
+		"index_quoted": null,
+		"list_replies": 63,
+		"list_votes": 57,
+		"error": ""
+	},
+	{
+		"index": 16,
+		"author": "76y23",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 10:19:40 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 4,
+		"session": 1,
+		"text": [
+			"survival"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 17,
+		"author": "76y23",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 10:21:40 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 3,
+		"session": 1,
+		"text": [
+			"hang onto something like a rope (hanging down OR held in place by other objects at each end)"
+		],
+		"index_quoted": null,
+		"list_replies": 81,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 18,
+		"author": "76y23",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 10:21:52 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 3,
+		"session": 1,
+		"text": [
+			"hang upside-down"
+		],
+		"index_quoted": null,
+		"list_replies": 51,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 19,
+		"author": "76y23",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 10:22:00 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 1,
+		"session": 1,
+		"text": [
+			"walk on hands"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 20,
+		"author": "76y23",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 10:22:45 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 1,
+		"session": 1,
+		"text": [
+			"run with hands as opposed to with feet"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 21,
+		"author": "76y23",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 10:23:22 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 3,
+		"session": 1,
+		"text": [
+			"run to a certain location without getting caught\/tagged\/tackled by opponent"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": 49,
+		"error": ""
+	},
+	{
+		"index": 22,
+		"author": "76y23",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 10:24:34 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 1,
+		"text": [
+			"steal objects from opponent to claim for your team's possession"
+		],
+		"index_quoted": null,
+		"list_replies": 67,
+		"list_votes": 58,
+		"error": ""
+	},
+	{
+		"index": 23,
+		"author": "76y23",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 10:25:55 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 3,
+		"session": 1,
+		"text": [
+			"hunger games"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 24,
+		"author": "76y23",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 10:26:40 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 4,
+		"session": 1,
+		"text": [
+			"[setting] combination of virtual\/real world"
+		],
+		"index_quoted": null,
+		"list_replies": 119,
+		"list_votes": [59,95],
+		"error": ""
+	},
+	{
+		"index": 25,
+		"author": "76y23",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 10:26:57 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 1,
+		"text": [
+			"magic powers"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 26,
+		"author": "76y23",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 10:27:44 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"[setting] lights turn on and off at random times; when off, players are blinded"
+		],
+		"index_quoted": null,
+		"list_replies": [100,121],
+		"list_votes": [48,60,96],
+		"error": ""
+	},
+	{
+		"index": 27,
+		"author": "85y74",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 11:13:16 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 3,
+		"session": 1,
+		"text": [
+			"A ball game where one person has to tag the next person to be able to move on in the game"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": 94,
+		"error": ""
+	},
+	{
+		"index": 28,
+		"author": "85y74",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 11:14:33 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 3,
+		"session": 1,
+		"text": [
+			"A sport that is played in water or mud"
+		],
+		"index_quoted": null,
+		"list_replies": 83,
+		"list_votes": 43,
+		"error": ""
+	},
+	{
+		"index": 29,
+		"author": "85y74",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 11:15:36 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 4,
+		"session": 1,
+		"text": [
+			"A bounce house like obstacle course"
+		],
+		"index_quoted": null,
+		"list_replies": [50,82],
+		"list_votes": [45,75,97],
+		"error": ""
+	},
+	{
+		"index": 30,
+		"author": "85y74",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 11:18:56 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 1,
+		"text": [
+			"Flags that will be worn around each person's waist and the opposing team members must grab their opponent's flag while in the middle of a game of..."
+		],
+		"index_quoted": null,
+		"list_replies": 101,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 31,
+		"author": "85y74",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 11:25:18 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 1,
+		"text": [
+			"The goal of this sport is to get the ball into the correct basket (there are a total of 4 baskets). The ball will be toss up into the air in the middle of the court\/field. The only way the teams can get the ball into the basket is by throwing the ball up into the air, passing it to their teammates but it has to be a different teammate each time (so you can't throw the ball to the same person twice in a row) Teammates will run towards their basket, throwing the ball to one another until someone makes it in. No one is allowed to tackle another person, intentionally push another player, etc."
+		],
+		"index_quoted": null,
+		"list_replies": 84,
+		"list_votes": 98,
+		"error": ""
+	},
+	{
+		"index": 32,
+		"author": "85y74",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 11:29:14 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 3,
+		"session": 1,
+		"text": [
+			"Ball in goal, a two team game using a velcro pad that wraps around the hand or glove or some sort of pouch and a ball that will be thrown in the air between two people. The person who gets the ball will have to stay in place until the ball is thrown to their teammate and each team will try to make the ball into their basket."
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 33,
+		"author": "92y54",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 10:44:15 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 3,
+		"session": 1,
+		"text": [
+			"field pool table were you as the person play the pool que on the field."
+		],
+		"index_quoted": null,
+		"list_replies": 85,
+		"list_votes": [61,74],
+		"error": ""
+	},
+	{
+		"index": 34,
+		"author": "92y54",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 10:47:28 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 3,
+		"session": 1,
+		"text": [
+			"game starts with first person at center southern part of the filed to kick the ball to several that are in a trinangel formation at the northern end of the filed to brake the ball set up."
+		],
+		"index_quoted": null,
+		"list_replies": [86,93],
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 35,
+		"author": "92y54",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 10:49:28 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 1,
+		"text": [
+			"if any ball hits a goal from a kick on the que ball that would color is your ball to play."
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 36,
+		"author": "92y54",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 10:53:39 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 1,
+		"text": [
+			"water pool same as table pool but goal are on four corners of pool except you must through it to a person that is positioned as the balls would be set up and person will through the ball to another person till one of two colors of balls hit the goal"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": 73,
+		"error": ""
+	},
+	{
+		"index": 37,
+		"author": "92y54",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 10:54:27 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 1,
+		"text": [
+			"tag on skates"
+		],
+		"index_quoted": null,
+		"list_replies": [87,89],
+		"list_votes": [46,70],
+		"error": ""
+	},
+	{
+		"index": 38,
+		"author": "92y54",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 10:56:59 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 1,
+		"text": [
+			"runing with wights to another team member yards away passing the wights as it gets heavier to the end of the track."
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": 47,
+		"error": ""
+	},
+	{
+		"index": 39,
+		"author": "92y54",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 10:57:43 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": [
+			"3"
+		],
+		"session": 1,
+		"text": [
+			"skate board racing."
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": 72,
+		"error": ""
+	},
+	{
+		"index": 40,
+		"author": "32y59",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 10:45:11 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 3,
+		"session": 1,
+		"text": [
+			"A sport without a ball, but not one involving a martial art. Perhaps as a team sport, as usually team sports involve a ball, a team sport without a ball would be unique."
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 41,
+		"author": "32y59",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 10:52:30 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 3,
+		"session": 1,
+		"text": [
+			"A sport with a ball could perhaps be carried. You would have to carry the ball and pass it on to teammates, all while avoiding being caught. You would only be able to pass, not throw, the ball."
+		],
+		"index_quoted": null,
+		"list_replies": [52,88,90],
+		"list_votes": [69,71],
+		"error": ""
+	},
+	{
+		"index": 42,
+		"author": "32y59",
+		"quoted_id": "",
+		"date_time": "October 11, 2013, 10:57:59 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 1,
+		"text": [
+			"Something involving skates. Something similar to basketball while skating would be challenging."
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": 44,
+		"error": ""
+	},
+	{
+		"index": 43,
+		"author": "76y23",
+		"quoted_id": "85y74",
+		"date_time": "October 18, 2013, 02:03:22 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 28,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 44,
+		"author": "76y23",
+		"quoted_id": "32y59",
+		"date_time": "October 18, 2013, 02:03:35 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 42,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 45,
+		"author": "76y23",
+		"quoted_id": "85y74",
+		"date_time": "October 18, 2013, 02:05:11 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 29,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 46,
+		"author": "76y23",
+		"quoted_id": "92y54",
+		"date_time": "October 18, 2013, 02:06:41 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 37,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 47,
+		"author": "76y23",
+		"quoted_id": "92y54",
+		"date_time": "October 18, 2013, 02:07:17 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 38,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 48,
+		"author": "76y23",
+		"quoted_id": "76y23",
+		"date_time": "October 18, 2013, 02:07:41 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 26,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "Not the same quote found "
+	},
+	{
+		"index": 49,
+		"author": "76y23",
+		"quoted_id": "76y23",
+		"date_time": "October 18, 2013, 02:07:56 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 21,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 50,
+		"author": "76y23",
+		"quoted_id": "85y74",
+		"date_time": "October 18, 2013, 02:20:54 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"all combined"
+		],
+		"index_quoted": 29,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "Not the same quote found "
+	},
+	{
+		"index": 51,
+		"author": "76y23",
+		"quoted_id": "76y23",
+		"date_time": "October 18, 2013, 02:27:06 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 2,
+		"text": [
+			"combined"
+		],
+		"index_quoted": 18,
+		"list_replies": 120,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 52,
+		"author": "76y23",
+		"quoted_id": "32y59",
+		"date_time": "October 18, 2013, 02:33:13 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"this can be played in a pool"
+		],
+		"index_quoted": 41,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 53,
+		"author": "76y23",
+		"quoted_id": "76y23",
+		"date_time": "October 18, 2013, 02:35:24 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 2,
+		"text": [
+			"combined"
+		],
+		"index_quoted": 18,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "EMPTY NEW REPLY"
+	},
+	{
+		"index": 54,
+		"author": "76y23",
+		"quoted_id": "76y23",
+		"date_time": "October 18, 2013, 02:37:26 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 2,
+		"text": [
+			"combined"
+		],
+		"index_quoted": 11,
+		"list_replies": null,
+		"list_votes": 116,
+		"error": "EMPTY NEW REPLY"
+	},
+	{
+		"index": 55,
+		"author": "85y74",
+		"quoted_id": "76y23",
+		"date_time": "October 18, 2013, 01:05:03 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 4,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 56,
+		"author": "85y74",
+		"quoted_id": "76y23",
+		"date_time": "October 18, 2013, 01:06:47 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 9,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 57,
+		"author": "85y74",
+		"quoted_id": "76y23",
+		"date_time": "October 18, 2013, 01:07:10 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 15,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 58,
+		"author": "85y74",
+		"quoted_id": "76y23",
+		"date_time": "October 18, 2013, 01:07:52 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 22,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 59,
+		"author": "85y74",
+		"quoted_id": "76y23",
+		"date_time": "October 18, 2013, 01:08:14 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 24,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 60,
+		"author": "85y74",
+		"quoted_id": "76y23",
+		"date_time": "October 18, 2013, 01:08:32 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 26,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 61,
+		"author": "85y74",
+		"quoted_id": "92y54",
+		"date_time": "October 18, 2013, 01:09:30 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 33,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 62,
+		"author": "85y74",
+		"quoted_id": "76y23",
+		"date_time": "October 18, 2013, 01:14:47 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 9,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 63,
+		"author": "85y74",
+		"quoted_id": "76y23",
+		"date_time": "October 18, 2013, 01:24:04 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"[\/quo",
+			"In this pit of pigs (40 pigs total), each pig has a different color flag wrapped around them. There are a total of four teams (red, blue, green, yellow) with 5 players. Each team will start off in their corner and once the horn blows, one member will chase after the pig with the same colored wrap\/flag and attempt to retrieve it and once they do, they must return to their post, drop the wrap\/flag into their bucket and tag the next member to run in and do the same thing. The first team to retrieve all 10 wraps\/flags of the same matching color as their team color will win.",
+			"OR have a time limit added to this game and who ever retrieve the most wraps\/flags is the winner"
+		],
+		"index_quoted": 15,
+		"list_replies": null,
+		"list_votes": 104,
+		"error": ""
+	},
+	{
+		"index": 64,
+		"author": "85y74",
+		"quoted_id": "",
+		"date_time": "October 18, 2013, 01:33:46 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"The game of Human Foosball. A total of 18 people, 2 teams (Red & Black), 6 rows with 3 people in each row and 2 goals at each end. One member from each team will meet in the middle of the field to try to take the ball once it's released but within that middle area and can not run pass the rows that are behind them (similar to basketball) who ever has the ball has to kick it to one of their teammates but everyone is not allowed to move out of their spot, they must stay within their area and kick it to other teammates and with communication and team work, they will score a point by getting the ball into their goal."
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 65,
+		"author": "85y74",
+		"quoted_id": "76y23",
+		"date_time": "October 18, 2013, 01:40:04 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 3,
+		"session": 2,
+		"text": [
+			"Use water balloons, mud balls, etc. if the players are going to be moving around. If players are to stay in one place but throw or pass the objects then plastic balls or something 3D like can be thrown (for safety reasons, don't want players tripping over balls while running)"
+		],
+		"index_quoted": 11,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 66,
+		"author": "85y74",
+		"quoted_id": "",
+		"date_time": "October 18, 2013, 01:40:57 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"A sport involving human bubble balls or sumo suits"
+		],
+		"index_quoted": null,
+		"list_replies": 124,
+		"list_votes": 108,
+		"error": ""
+	},
+	{
+		"index": 67,
+		"author": "85y74",
+		"quoted_id": "76y23",
+		"date_time": "October 18, 2013, 01:44:52 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 4,
+		"session": 2,
+		"text": [
+			"Two teams, each with a prized possession on each end. Each member will have some sort of gun launcher (shoots paint) and will have to shoot their opposing team to try to get to their enemies prize possession. Once someone gets shot they're \"frozen\" and cannot move or shot unless one of their members retag them into the game. Who ever gets the prize first, wins."
+		],
+		"index_quoted": 22,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 68,
+		"author": "92y54",
+		"quoted_id": "76y23",
+		"date_time": "October 18, 2013, 12:03:29 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [],
+		"index_quoted": 3,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 69,
+		"author": "92y54",
+		"quoted_id": "32y59",
+		"date_time": "October 18, 2013, 12:04:22 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [],
+		"index_quoted": 41,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 70,
+		"author": "92y54",
+		"quoted_id": "92y54",
+		"date_time": "October 18, 2013, 12:04:49 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 37,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 71,
+		"author": "92y54",
+		"quoted_id": "32y59",
+		"date_time": "October 18, 2013, 12:05:23 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 41,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 72,
+		"author": "92y54",
+		"quoted_id": "92y54",
+		"date_time": "October 18, 2013, 12:06:07 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 39,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 73,
+		"author": "92y54",
+		"quoted_id": "92y54",
+		"date_time": "October 18, 2013, 12:06:57 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 36,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 74,
+		"author": "92y54",
+		"quoted_id": "92y54",
+		"date_time": "October 18, 2013, 12:08:08 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 33,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 75,
+		"author": "92y54",
+		"quoted_id": "85y74",
+		"date_time": "October 18, 2013, 12:10:02 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 29,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 76,
+		"author": "92y54",
+		"quoted_id": "76y23",
+		"date_time": "October 18, 2013, 12:15:56 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"make goals but on the opposite side of the field"
+		],
+		"index_quoted": 1,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 77,
+		"author": "92y54",
+		"quoted_id": "76y23",
+		"date_time": "October 18, 2013, 12:18:10 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 3,
+		"session": 2,
+		"text": [
+			"te",
+			"only items of the other time should be knocked down indicated by color of that team"
+		],
+		"index_quoted": 4,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 78,
+		"author": "92y54",
+		"quoted_id": "76y23",
+		"date_time": "October 18, 2013, 12:19:14 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 2,
+		"text": [
+			"balancing yourself longer then the other team to score a point"
+		],
+		"index_quoted": 5,
+		"list_replies": 122,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 79,
+		"author": "92y54",
+		"quoted_id": "76y23",
+		"date_time": "October 18, 2013, 12:20:45 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"until the other person is tired"
+		],
+		"index_quoted": 10,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 80,
+		"author": "92y54",
+		"quoted_id": "76y23",
+		"date_time": "October 18, 2013, 12:22:27 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 5,
+		"session": 2,
+		"text": [
+			"shooting animals that are only plastic and not real till all are knocked down"
+		],
+		"index_quoted": 13,
+		"list_replies": 128,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 81,
+		"author": "92y54",
+		"quoted_id": "76y23",
+		"date_time": "October 18, 2013, 12:24:16 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 3,
+		"session": 2,
+		"text": [
+			"as long as you can befor your opponite"
+		],
+		"index_quoted": 17,
+		"list_replies": null,
+		"list_votes": 105,
+		"error": ""
+	},
+	{
+		"index": 82,
+		"author": "92y54",
+		"quoted_id": "85y74",
+		"date_time": "October 18, 2013, 12:26:28 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"game should be timed. the one with the least time to end is the winner"
+		],
+		"index_quoted": 29,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 83,
+		"author": "92y54",
+		"quoted_id": "85y74",
+		"date_time": "October 18, 2013, 12:28:48 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"that is timed to whom reaches the end first"
+		],
+		"index_quoted": 28,
+		"list_replies": null,
+		"list_votes": 109,
+		"error": ""
+	},
+	{
+		"index": 84,
+		"author": "92y54",
+		"quoted_id": "85y74",
+		"date_time": "October 18, 2013, 12:30:40 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 3,
+		"session": 2,
+		"text": [
+			"the time mate that handles the ball after it is passed must leave the court"
+		],
+		"index_quoted": 31,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 85,
+		"author": "92y54",
+		"quoted_id": "92y54",
+		"date_time": "October 18, 2013, 12:31:57 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"trying to get all of your colors in the goal nets"
+		],
+		"index_quoted": 33,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 86,
+		"author": "92y54",
+		"quoted_id": "92y54",
+		"date_time": "October 18, 2013, 12:34:28 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"the balls are of two colors and the first color the hit the goal is the teams color and must get all of the same color in one of four goals."
+		],
+		"index_quoted": 34,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 87,
+		"author": "92y54",
+		"quoted_id": "92y54",
+		"date_time": "October 18, 2013, 12:36:08 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"tag the opposing team color until all team mates are taged off the field"
+		],
+		"index_quoted": 37,
+		"list_replies": null,
+		"list_votes": 112,
+		"error": ""
+	},
+	{
+		"index": 88,
+		"author": "92y54",
+		"quoted_id": "32y59",
+		"date_time": "October 18, 2013, 12:38:55 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"once the ball is passed you would leave the field. the team with the last team player standing with the ball would be the team that wins"
+		],
+		"index_quoted": 41,
+		"list_replies": null,
+		"list_votes": 107,
+		"error": ""
+	},
+	{
+		"index": 89,
+		"author": "92y54",
+		"quoted_id": "92y54",
+		"date_time": "October 18, 2013, 12:40:49 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 3,
+		"session": 2,
+		"text": [
+			"if a peson is tag he must leave the field also if a team member falls they must leave the filed. the team left standing is the winner"
+		],
+		"index_quoted": 37,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 90,
+		"author": "92y54",
+		"quoted_id": "32y59",
+		"date_time": "October 18, 2013, 12:43:53 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"leaving the court when you are tagged. the team with players still standing wins"
+		],
+		"index_quoted": 41,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 91,
+		"author": "92y54",
+		"quoted_id": "76y23",
+		"date_time": "October 18, 2013, 12:44:56 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 2,
+		"text": [
+			"by handglieding"
+		],
+		"index_quoted": 10,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 92,
+		"author": "92y54",
+		"quoted_id": "76y23",
+		"date_time": "October 18, 2013, 12:46:00 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"as meny times as you can with in a given time limit"
+		],
+		"index_quoted": 12,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 93,
+		"author": "92y54",
+		"quoted_id": "92y54",
+		"date_time": "October 18, 2013, 12:47:36 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"the color that enters goal first is that team color"
+		],
+		"index_quoted": 34,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 94,
+		"author": "32y59",
+		"quoted_id": "85y74",
+		"date_time": "October 16, 2013, 10:05:55 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 27,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 95,
+		"author": "32y59",
+		"quoted_id": "76y23",
+		"date_time": "October 16, 2013, 10:07:11 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 24,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 96,
+		"author": "32y59",
+		"quoted_id": "76y23",
+		"date_time": "October 16, 2013, 10:07:33 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 26,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 97,
+		"author": "32y59",
+		"quoted_id": "85y74",
+		"date_time": "October 16, 2013, 10:08:38 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 29,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 98,
+		"author": "32y59",
+		"quoted_id": "85y74",
+		"date_time": "October 16, 2013, 10:14:19 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 31,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 99,
+		"author": "32y59",
+		"quoted_id": "76y23",
+		"date_time": "October 16, 2013, 10:21:18 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 2,
+		"text": [
+			"Battle royale without actual deaths, players are given vests with clearly marked \"kill spots\" where they can strike a player to \"kill\" that player and knock them out of the game. After the vests, the players are given a bag with random objects, food, water, and one random \"weapon\" (anything from a paper fan to a fake knife), and set out to \"survive\" for a whole day. The last one standing wins."
+		],
+		"index_quoted": 6,
+		"list_replies": 103,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 100,
+		"author": "32y59",
+		"quoted_id": "76y23",
+		"date_time": "October 16, 2013, 10:22:14 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 2,
+		"text": [
+			"Maybe when the lights are on, the world is \"real\" and seen, but when the lights shut off, players must enter a virtual world."
+		],
+		"index_quoted": 26,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 101,
+		"author": "32y59",
+		"quoted_id": "85y74",
+		"date_time": "October 16, 2013, 10:25:18 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 2,
+		"text": [
+			"Combining these three together would make a game where you have to move through a bounce house obstacle course, collecting opponents flags and trying not to get your own flags stolen. Could be played as a team or one on one. The first team\/person to get all of their opponents flags wins."
+		],
+		"index_quoted": 30,
+		"list_replies": 102,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 102,
+		"author": "32y59",
+		"quoted_id": "32y59",
+		"date_time": "October 16, 2013, 10:28:12 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 2,
+		"text": [
+			"It could even be multi-leveled if played one on one. Getting all of your opponents flags means moving onto the next opponent in a different bounce house."
+		],
+		"index_quoted": 101,
+		"list_replies": null,
+		"list_votes": 111,
+		"error": ""
+	},
+	{
+		"index": 103,
+		"author": "32y59",
+		"quoted_id": "32y59",
+		"date_time": "October 16, 2013, 10:41:18 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"When someone is \"killed\" the \"killer\" will take a badge from them - every person's badge will be unique - putting it away and keeping it as proof for at the end of the game tally of points.",
+			"There could even be two winners, one for the most kills, and one for whoever lasted the longest. So even if you survived the game the longest, you may not necessarily get the most points for lack of kills."
+		],
+		"index_quoted": 99,
+		"list_replies": null,
+		"list_votes": 115,
+		"error": ""
+	},
+	{
+		"index": 104,
+		"author": "76y23",
+		"quoted_id": "85y74",
+		"date_time": "October 25, 2013, 02:38:28 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 63,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "Not the same quote found "
+	},
+	{
+		"index": 105,
+		"author": "85y74",
+		"quoted_id": "92y54",
+		"date_time": "October 25, 2013, 02:38:43 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 81,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "Not the same quote found "
+	},
+	{
+		"index": 106,
+		"author": "92y54",
+		"quoted_id": "76y23",
+		"date_time": "October 25, 2013, 02:39:29 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 3,
+		"text": [
+			"when the ball is not caught it is a point to the other team."
+		],
+		"index_quoted": 3,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 107,
+		"author": "32y59",
+		"quoted_id": "92y54",
+		"date_time": "October 25, 2013, 02:39:44 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 88,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "Not the same quote found "
+	},
+	{
+		"index": 108,
+		"author": "76y23",
+		"quoted_id": "85y74",
+		"date_time": "October 25, 2013, 02:40:00 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 66,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 109,
+		"author": "85y74",
+		"quoted_id": "92y54",
+		"date_time": "October 25, 2013, 02:40:17 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 83,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "Not the same quote found "
+	},
+	{
+		"index": 110,
+		"author": "92y54",
+		"quoted_id": "76y23",
+		"date_time": "October 25, 2013, 02:41:07 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [],
+		"index_quoted": 1,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 111,
+		"author": "85y74",
+		"quoted_id": "32y59",
+		"date_time": "October 25, 2013, 02:41:32 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 102,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "Not the same quote found "
+	},
+	{
+		"index": 112,
+		"author": "32y59",
+		"quoted_id": "92y54",
+		"date_time": "October 25, 2013, 02:41:35 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 87,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "Not the same quote found "
+	},
+	{
+		"index": 113,
+		"author": "92y54",
+		"quoted_id": "76y23",
+		"date_time": "October 25, 2013, 02:42:39 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 3,
+		"text": [
+			"try to knock down as many objects as you can. the team with the most objects knocked down is the winner."
+		],
+		"index_quoted": 4,
+		"list_replies": 123,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 114,
+		"author": "92y54",
+		"quoted_id": "76y23",
+		"date_time": "October 25, 2013, 02:44:02 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 3,
+		"text": [
+			"as many as you can before the objects fall."
+		],
+		"index_quoted": 7,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 115,
+		"author": "76y23",
+		"quoted_id": "32y59",
+		"date_time": "October 25, 2013, 02:44:26 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 103,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "Not the same quote found "
+	},
+	{
+		"index": 116,
+		"author": "32y59",
+		"quoted_id": "76y23",
+		"date_time": "October 25, 2013, 02:44:31 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 54,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "Not the same quote found "
+	},
+	{
+		"index": 117,
+		"author": "92y54",
+		"quoted_id": "76y23",
+		"date_time": "October 25, 2013, 02:45:03 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 3,
+		"text": [
+			"for as long as you can. trying to outlast the other team mates."
+		],
+		"index_quoted": 5,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 118,
+		"author": "92y54",
+		"quoted_id": "76y23",
+		"date_time": "October 25, 2013, 02:46:06 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 3,
+		"text": [
+			"first person hit is out."
+		],
+		"index_quoted": 11,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 119,
+		"author": "92y54",
+		"quoted_id": "76y23",
+		"date_time": "October 25, 2013, 02:48:23 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 3,
+		"text": [
+			"choose whats real and whats not."
+		],
+		"index_quoted": 24,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 120,
+		"author": "85y74",
+		"quoted_id": "76y23",
+		"date_time": "October 25, 2013, 02:50:07 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 3,
+		"text": [
+			"There could be ropes hung above a pit of water\/mud and the teammates are trying to pass each other the ball\/ring\/some object to one another to get into the basket and who ever fills up with basket first or gets all the objects from the side they started on over to the end\/finish line, they're the winners."
+		],
+		"index_quoted": 51,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "Not the same quote found "
+	},
+	{
+		"index": 121,
+		"author": "92y54",
+		"quoted_id": "76y23",
+		"date_time": "October 25, 2013, 02:50:22 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": [
+			"2"
+		],
+		"session": 3,
+		"text": [
+			"and must be the first to run to a flag at the end of the track."
+		],
+		"index_quoted": 26,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 122,
+		"author": "32y59",
+		"quoted_id": "92y54",
+		"date_time": "October 25, 2013, 02:50:50 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 3,
+		"text": [
+			"balancing is made more and more difficult as time passes, weight added on you, one arm at a time."
+		],
+		"index_quoted": 78,
+		"list_replies": null,
+		"list_votes": 125,
+		"error": "Not the same quote found "
+	},
+	{
+		"index": 123,
+		"author": "85y74",
+		"quoted_id": "92y54",
+		"date_time": "October 25, 2013, 02:51:11 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 3,
+		"text": [
+			"Swinging from a rope and try to knock objects down like a \"wrecking ball\""
+		],
+		"index_quoted": 113,
+		"list_replies": null,
+		"list_votes": 126,
+		"error": ""
+	},
+	{
+		"index": 124,
+		"author": "32y59",
+		"quoted_id": "85y74",
+		"date_time": "October 25, 2013, 02:52:42 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 3,
+		"text": [
+			"tag played in human bubble balls or sumo suits. the person who's \"it\" is indicated by a stripe on the ball, or the color of the sumo suit."
+		],
+		"index_quoted": 66,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 125,
+		"author": "76y23",
+		"quoted_id": "32y59",
+		"date_time": "October 25, 2013, 02:52:48 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 122,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "error_uta"
+	},
+	{
+		"index": 126,
+		"author": "76y23",
+		"quoted_id": "85y74",
+		"date_time": "October 25, 2013, 02:53:19 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 123,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 127,
+		"author": "92y54",
+		"quoted_id": "76y23",
+		"date_time": "October 25, 2013, 02:54:33 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": [
+			"1"
+		],
+		"session": 3,
+		"text": [
+			"in water only"
+		],
+		"index_quoted": 9,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "error_uta"
+	},
+	{
+		"index": 128,
+		"author": "32y59",
+		"quoted_id": "92y54",
+		"date_time": "October 25, 2013, 02:54:47 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 3,
+		"session": 3,
+		"text": [
+			"other team members can try to knock you off of what you're balancing, throwing or shooting bean bags instead of a gun or bb gun"
+		],
+		"index_quoted": 80,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "Not the same quote found "
+	}
+]

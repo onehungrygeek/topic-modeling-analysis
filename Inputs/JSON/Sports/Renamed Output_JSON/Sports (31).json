@@ -1,0 +1,855 @@
+[
+	{
+		"index": 1,
+		"author": "47ek11",
+		"quoted_id": "",
+		"date_time": "November 04, 2013, 01:43:37 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 4,
+		"session": 1,
+		"text": [
+			"Running through an obstacle course with weights or heavy object strapped to the body."
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 2,
+		"author": "47ek11",
+		"quoted_id": "",
+		"date_time": "November 04, 2013, 01:56:27 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"A team sport where teams of two have to help each other cross walls the fastest. When the teams of two reach a wall one would have to support the other as they are climbing the wall. the team member on top would have to help the member down by the wall get up on the wall. They would then continue on. It would be like a race with multiple walls to go through. The teams would be by weight classes. The team members would have to be able to lift or carry the other member."
+		],
+		"index_quoted": null,
+		"list_replies": 24,
+		"list_votes": [20,42,47],
+		"error": ""
+	},
+	{
+		"index": 3,
+		"author": "58ek51",
+		"quoted_id": "",
+		"date_time": "November 04, 2013, 10:09:50 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"Ice archery. One team shoots a bunch of arrows with comically sized ball tips at targets on ice while the other team tries to stop them. With tackling or catches. Maybe one arrow ball that's easier to catch and that's how possession changes."
+		],
+		"index_quoted": null,
+		"list_replies": [5,29],
+		"list_votes": [17,26,41,48],
+		"error": ""
+	},
+	{
+		"index": 4,
+		"author": "58ek51",
+		"quoted_id": "",
+		"date_time": "November 04, 2013, 10:11:38 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 3,
+		"session": 1,
+		"text": [
+			"Some sort of organized parkour competition. The capture the flag game done in an organized setting with teams and obstacles."
+		],
+		"index_quoted": null,
+		"list_replies": 38,
+		"list_votes": [37,45],
+		"error": ""
+	},
+	{
+		"index": 5,
+		"author": "58ek51",
+		"quoted_id": "58ek51",
+		"date_time": "November 04, 2013, 10:12:08 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 3,
+		"session": 1,
+		"text": [
+			"Arrow catching gloves?"
+		],
+		"index_quoted": 3,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 6,
+		"author": "58ek51",
+		"quoted_id": "",
+		"date_time": "November 04, 2013, 10:22:11 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 1,
+		"text": [
+			"Underwater game. Teams wear a breather device of some kind and the entire game is played underwater. Teams are given a standard distance they have to gain much like football in order to get a hand on the opposite side from where they start to make a point."
+		],
+		"index_quoted": null,
+		"list_replies": [22,31],
+		"list_votes": [18,28,50],
+		"error": ""
+	},
+	{
+		"index": 7,
+		"author": "58ek51",
+		"quoted_id": "",
+		"date_time": "November 04, 2013, 10:23:28 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 4,
+		"session": 1,
+		"text": [
+			"Two mma fighters are tied together with a rope and have to try to fight each other down until they can drag the other to a specific point."
+		],
+		"index_quoted": null,
+		"list_replies": 25,
+		"list_votes": 21,
+		"error": ""
+	},
+	{
+		"index": 8,
+		"author": "58ek51",
+		"quoted_id": "",
+		"date_time": "November 04, 2013, 10:24:27 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"Survival game where highly trained and specialized individuals are hunted by a large number of teams in an urban environment."
+		],
+		"index_quoted": null,
+		"list_replies": 23,
+		"list_votes": 19,
+		"error": ""
+	},
+	{
+		"index": 9,
+		"author": "76ek78",
+		"quoted_id": "",
+		"date_time": "November 04, 2013, 01:12:34 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 4,
+		"session": 1,
+		"text": [
+			"Chained ball throwing on an angled bulls eye target. Closer to the center equals more points"
+		],
+		"index_quoted": null,
+		"list_replies": 39,
+		"list_votes": 36,
+		"error": ""
+	},
+	{
+		"index": 10,
+		"author": "76ek78",
+		"quoted_id": "",
+		"date_time": "November 04, 2013, 01:15:56 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 4,
+		"session": 1,
+		"text": [
+			"Bowling on a grass surface and the furthest distance rolled wins."
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": 43,
+		"error": ""
+	},
+	{
+		"index": 11,
+		"author": "76ek78",
+		"quoted_id": "",
+		"date_time": "November 04, 2013, 01:18:00 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"jumping\/wrestling on a bouncy surfaced platform until the last competitor is left on the platform."
+		],
+		"index_quoted": null,
+		"list_replies": 46,
+		"list_votes": 44,
+		"error": ""
+	},
+	{
+		"index": 12,
+		"author": "76ek78",
+		"quoted_id": "",
+		"date_time": "November 04, 2013, 01:23:05 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 3,
+		"session": 1,
+		"text": [
+			"Weight wall climbing: The athlete must go up and down the wall, picking up weights at the base and bringing them to the top of the wall. the most weights brought to the top of the wall in a certain time period wins"
+		],
+		"index_quoted": null,
+		"list_replies": 40,
+		"list_votes": 35,
+		"error": ""
+	},
+	{
+		"index": 13,
+		"author": "76ek78",
+		"quoted_id": "",
+		"date_time": "November 04, 2013, 01:26:37 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"Extreme basketball swinging: Two teams of 6 Competitors, 3 swinging over a pool of water trying to score a ball into the other teams goal while the other 3 retrieve the ball and pass it to the swinging teammates. Most points win"
+		],
+		"index_quoted": null,
+		"list_replies": 30,
+		"list_votes": [27,49],
+		"error": ""
+	},
+	{
+		"index": 14,
+		"author": "76ek78",
+		"quoted_id": "",
+		"date_time": "November 04, 2013, 01:28:52 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"Rapid running: Team of 4 players run up a stream of water with a ball while the other team throws rubber balls and try to knock them out until the other team have been swept away from the current or cannot move the ball to the top of the stream."
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 15,
+		"author": "85ek43",
+		"quoted_id": "",
+		"date_time": "November 04, 2013, 10:23:19 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 4,
+		"session": 1,
+		"text": [
+			"In this sport, the participants will be playing a game of hop-scotch while jumping on their jump ropes."
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 16,
+		"author": "85ek43",
+		"quoted_id": "",
+		"date_time": "November 04, 2013, 10:23:47 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 4,
+		"session": 1,
+		"text": [
+			"If a player misses a step, they will not be terminated from the game but will have to go into redemption where they will have to attempt to play the game backwards."
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 17,
+		"author": "58ek51",
+		"quoted_id": "58ek51",
+		"date_time": "November 05, 2013, 09:52:04 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 3,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 18,
+		"author": "58ek51",
+		"quoted_id": "58ek51",
+		"date_time": "November 05, 2013, 09:53:30 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 6,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 19,
+		"author": "58ek51",
+		"quoted_id": "58ek51",
+		"date_time": "November 05, 2013, 09:54:21 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 8,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 20,
+		"author": "58ek51",
+		"quoted_id": "47ek11",
+		"date_time": "November 05, 2013, 09:56:36 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 2,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 21,
+		"author": "58ek51",
+		"quoted_id": "58ek51",
+		"date_time": "November 05, 2013, 09:57:35 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 7,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 22,
+		"author": "58ek51",
+		"quoted_id": "58ek51",
+		"date_time": "November 05, 2013, 10:04:53 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 3,
+		"session": 2,
+		"text": [
+			"They send messages underwater to plan on their movements on the game. Each time a team scores, the team is allowed to go above the water and talk for one minute."
+		],
+		"index_quoted": 6,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 23,
+		"author": "58ek51",
+		"quoted_id": "58ek51",
+		"date_time": "November 05, 2013, 10:12:53 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"They are in groups of two, and they have to use their survival techniques to kill all the members(by marking them with a red sharpie) of all the other teams.  There is some kind of reward given every hour to help them survive, but they have to fight each other to obtain the reward because there is only. They have to fight other members for food since there is not enough food. At the end only one member can win, which means that a team will have to fight each other. The game should be played for around a day."
+		],
+		"index_quoted": 8,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 24,
+		"author": "58ek51",
+		"quoted_id": "47ek11",
+		"date_time": "November 05, 2013, 10:17:11 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 4,
+		"session": 2,
+		"text": [
+			"The team that finishes first has to ring a bell, but they have to do it together or they will have to start all over again."
+		],
+		"index_quoted": 2,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 25,
+		"author": "58ek51",
+		"quoted_id": "58ek51",
+		"date_time": "November 05, 2013, 10:22:16 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 3,
+		"session": 2,
+		"text": [
+			"They have to try to untie themselves. There will be things that they can use to untie themselves but they have to fight each other for it.  The first one that unties itself wins."
+		],
+		"index_quoted": 7,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 26,
+		"author": "76ek78",
+		"quoted_id": "58ek51",
+		"date_time": "November 07, 2013, 09:12:37 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 3,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "Not the same quote found "
+	},
+	{
+		"index": 27,
+		"author": "76ek78",
+		"quoted_id": "76ek78",
+		"date_time": "November 07, 2013, 09:14:52 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 13,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 28,
+		"author": "76ek78",
+		"quoted_id": "58ek51",
+		"date_time": "November 07, 2013, 09:17:30 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 6,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 29,
+		"author": "76ek78",
+		"quoted_id": "58ek51",
+		"date_time": "November 07, 2013, 09:24:30 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 3,
+		"session": 2,
+		"text": [
+			"The more \"arrows\" caught allows extended time for the shooting team but the amount needed for bonus time increases per bonus progression. Medium sized teams with a football sized field?"
+		],
+		"index_quoted": 3,
+		"list_replies": 32,
+		"list_votes": null,
+		"error": "Not the same quote found "
+	},
+	{
+		"index": 30,
+		"author": "76ek78",
+		"quoted_id": "76ek78",
+		"date_time": "November 07, 2013, 09:30:53 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 3,
+		"session": 2,
+		"text": [
+			"Short time game with a best three out of five win situation. Swinging players cannot move with a ball in possession and must pass to advance the ball. There are more balls moving around the arena at any given time. Swimming players can score but gain only half a score. Players swinging can gain a bonus from receiving the ball from a swimming teammate and scoring immediately afterwards(less than 3 seconds in possession)."
+		],
+		"index_quoted": 13,
+		"list_replies": 34,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 31,
+		"author": "76ek78",
+		"quoted_id": "58ek51",
+		"date_time": "November 07, 2013, 09:34:47 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"There are obstacles in the course that teams must avoid and can be deducted time for manipulating the objects."
+		],
+		"index_quoted": 6,
+		"list_replies": 33,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 32,
+		"author": "76ek78",
+		"quoted_id": "76ek78",
+		"date_time": "November 07, 2013, 09:38:37 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"Team that is trying to prevent \"arrows\" from being caught can steal points by catching the \"arrows' instead of blocking but if the \"arrow\" hit them in the back, the shooting team gets a point."
+		],
+		"index_quoted": 29,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 33,
+		"author": "76ek78",
+		"quoted_id": "76ek78",
+		"date_time": "November 07, 2013, 09:42:30 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"The course also has currents which can slow down a team from completing the course. There are also short cuts that teams must cooperate to advance further through the short cut, however; going the long way is less challenging."
+		],
+		"index_quoted": 31,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "Not the same quote found "
+	},
+	{
+		"index": 34,
+		"author": "76ek78",
+		"quoted_id": "76ek78",
+		"date_time": "November 07, 2013, 09:43:23 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 3,
+		"session": 2,
+		"text": [
+			"Points are 3, 2, and 1"
+		],
+		"index_quoted": 30,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 35,
+		"author": "85ek43",
+		"quoted_id": "76ek78",
+		"date_time": "November 11, 2013, 09:53:57 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 12,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 36,
+		"author": "85ek43",
+		"quoted_id": "76ek78",
+		"date_time": "November 11, 2013, 09:56:05 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 9,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 37,
+		"author": "85ek43",
+		"quoted_id": "58ek51",
+		"date_time": "November 11, 2013, 09:57:58 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 4,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 38,
+		"author": "85ek43",
+		"quoted_id": "58ek51",
+		"date_time": "November 11, 2013, 10:03:56 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"maybe the teams could be timed as well?"
+		],
+		"index_quoted": 4,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 39,
+		"author": "85ek43",
+		"quoted_id": "76ek78",
+		"date_time": "November 11, 2013, 10:12:15 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"Perhaps the target could be of a larger size than usual. Players could also score points on consistency."
+		],
+		"index_quoted": 9,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 40,
+		"author": "85ek43",
+		"quoted_id": "76ek78",
+		"date_time": "November 11, 2013, 10:19:18 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 3,
+		"session": 2,
+		"text": [
+			"Perhaps they could be fighting",
+			"Maybe the weights can be of different sizes? Or the objects they have to carry up the wall can be sacks of different weights that are filled by opposite team players for the short time it takes for the individual to get back to base."
+		],
+		"index_quoted": 12,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 41,
+		"author": "58ek51",
+		"quoted_id": "58ek51",
+		"date_time": "November 19, 2013, 11:07:39 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 3,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 42,
+		"author": "85ek43",
+		"quoted_id": "47ek11",
+		"date_time": "November 19, 2013, 11:08:24 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 2,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "Not the same quote found "
+	},
+	{
+		"index": 43,
+		"author": "58ek51",
+		"quoted_id": "76ek78",
+		"date_time": "November 19, 2013, 11:10:52 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 10,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 44,
+		"author": "58ek51",
+		"quoted_id": "76ek78",
+		"date_time": "November 19, 2013, 11:11:33 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 11,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 45,
+		"author": "76ek78",
+		"quoted_id": "58ek51",
+		"date_time": "November 19, 2013, 11:11:55 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 4,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "Not the same quote found "
+	},
+	{
+		"index": 46,
+		"author": "58ek51",
+		"quoted_id": "76ek78",
+		"date_time": "November 19, 2013, 11:12:34 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 3,
+		"text": [
+			"They can try to knock out each other with a big ball that will be hanging on the middle."
+		],
+		"index_quoted": 11,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 47,
+		"author": "76ek78",
+		"quoted_id": "47ek11",
+		"date_time": "November 19, 2013, 11:13:09 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": [
+			"0"
+		],
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 2,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "Not the same quote found "
+	},
+	{
+		"index": 48,
+		"author": "85ek43",
+		"quoted_id": "58ek51",
+		"date_time": "November 19, 2013, 11:13:12 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 3,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "Not the same quote found "
+	},
+	{
+		"index": 49,
+		"author": "58ek51",
+		"quoted_id": "76ek78",
+		"date_time": "November 19, 2013, 11:13:27 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 13,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 50,
+		"author": "85ek43",
+		"quoted_id": "58ek51",
+		"date_time": "November 19, 2013, 11:20:44 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 6,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "Not the same quote found "
+	}
+]

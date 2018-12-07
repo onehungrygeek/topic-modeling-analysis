@@ -1,0 +1,68 @@
+import pandas as pd
+data = pd.read_json('/home/akshay/Rest/Practice/topic-model-temp/Print Page - HealthcareA.json')
+data
+data['content']
+data['content'][0]
+data
+data.columns
+data['user']
+import names
+names
+names.get_full_name()
+names_dict = {}
+for id in data['user]:
+for id in data['user']:
+	names_dict[id] = names.get_full_name()
+names_dict
+data['user']
+data['user'].unique(
+)
+data.
+data.user.astype('category').cat.rename_categories([str(x) for x in range(1,x.name.nunique()+1)])
+data.user.astype('category').cat.rename_categories([str(x) for x in range(1,data.user.nunique()+1)])
+data['user'].unique()
+data.user = data.user.astype('category').cat.rename_categories([str(x) for x in range(1,data.user.nunique()+1)])
+data
+
+data = pd.read_json('/home/akshay/Rest/Practice/topic-model-temp/Print Page - HealthcareA.json')
+data
+data['username'] = data.user.astype('category').cat.rename_categories([names.get_full_name() for x in range(1,data.user.nunique()+1)])
+data
+data['username']
+data['username'].unique()
+import json
+list1 = open('/home/akshay/Rest/Practice/topic-model-temp/Print Page - HealthcareA.json')
+list1
+type(list1)
+list1.read()
+list1 = open('/home/akshay/Rest/Practice/topic-model-temp/Print Page - HealthcareA.json')
+list1.read()
+new = json.dumps(list1)
+with open('/home/akshay/Rest/Practice/topic-model-temp/Print Page - HealthcareA.json') as f:
+	new_json = json.loads(f.read())
+new_json
+type(new_json)
+with open('/home/akshay/Rest/Practice/topic-model-temp/Print Page - HealthcareB.json') as f:
+	new_jsonB = json.loads(f.read())
+with open('/home/akshay/Rest/Practice/topic-model-temp/Inputs/JSON/Health/Health-JSON/Print Page - HealthcareB.json') as f:
+	new_jsonB = json.loads(f.read())
+latest = {new_json + new_jsonB}
+list_new = new_json + new_jsonB
+list_new
+type(list_new)
+json_dict = dict(list_new)
+to_json = json.dumps(list_new)
+to_json
+from pprint import pprint
+pprint(to_json)
+tojson_file = open('tojson_file', 'w')
+tojson_file.write(to_json)
+new_df = pd.read_json('tojson_file')
+new_df = pd.read_json('tojson_file.json')
+new_df
+new_df.head
+new_df.head(3)
+new_df
+import ipython
+import readline
+readline.write_history_file('history.txt')

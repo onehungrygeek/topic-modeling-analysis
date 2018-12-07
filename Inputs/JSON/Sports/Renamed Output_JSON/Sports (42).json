@@ -1,0 +1,962 @@
+[
+	{
+		"index": 1,
+		"author": "8f52",
+		"quoted_id": "",
+		"date_time": "September 18, 2013, 10:43:22 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 1,
+		"text": [
+			"rock climbing"
+		],
+		"index_quoted": null,
+		"list_replies": [42,51],
+		"list_votes": 51,
+		"error": ""
+	},
+	{
+		"index": 2,
+		"author": "8f52",
+		"quoted_id": "",
+		"date_time": "September 18, 2013, 10:50:48 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 4,
+		"session": 1,
+		"text": [
+			"there should be about 3-5 teams compete with each other, each teams going to have two members, participants first run to a table, the person at the table going to count and make sure that the participants completed with 5 times turn around, the participant going to run back the the starting point and there will be an apple hang above their reach, both of participants need to do anything to get the apple as fast as possible. Which team got the apple the fastest is the winner"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 3,
+		"author": "8f52",
+		"quoted_id": "",
+		"date_time": "September 18, 2013, 10:58:39 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 3,
+		"session": 1,
+		"text": [
+			"find treasure, but in order to get to the destinations, they need to pass 2 gates, the first one going to test for their balance =>one side of the bamboo stick going to hang on a string and the other side is touch down to the ground, when they reach to the hanging side, there will be  wrappings of candy are hanging and the participant need to get one of those down and come back without failing. the second gates going to test for their durability: the participant need to push up 10 times in order to get a stamp for passing. At gates 2, the people at the table going to give them the a map of location where the treasure was hide, find it as soon as possible."
+		],
+		"index_quoted": null,
+		"list_replies": 35,
+		"list_votes": 32,
+		"error": ""
+	},
+	{
+		"index": 4,
+		"author": "36f53",
+		"quoted_id": "",
+		"date_time": "September 18, 2013, 10:14:58 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 1,
+		"text": [
+			"This sport is composed of a soccer ball in a football field. Instead of having a goalie The player must kick the ball toward the top of the y-shaped post to make a score.  the scores are unlimited. there 6 members in each team and everyone has to work in a team"
+		],
+		"index_quoted": null,
+		"list_replies": 39,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 5,
+		"author": "36f53",
+		"quoted_id": "",
+		"date_time": "September 18, 2013, 10:18:28 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 4,
+		"session": 1,
+		"text": [
+			"in this sport, there are two players. a net is set up in the middle, like a tennis court. instead of using a tennis ball the players must play with a soccer ball. the players must kick the ball back and forward without loosing balance or letting it get out of the court. This game will have a goal net. to get points the opponent must kick the soccer ball towards the goal to get a point."
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 6,
+		"author": "36f53",
+		"quoted_id": "",
+		"date_time": "September 18, 2013, 10:22:31 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": [
+			"2"
+		],
+		"session": 1,
+		"text": [
+			"This sport is played in the swimming pool. there is going to be a total of 4 players, two teams. two members in each team. The members must get on the shoulder of the other member. there will be a net up and will play with the volley ball. the purpose of this game is to balance the member on the shoulders while in the pool. the volley ball will go back and forward. to win this game the teams must make sure the person on the shoulders do not loose balance and and does not fall. whoever falls loses and the other team gets the points."
+		],
+		"index_quoted": null,
+		"list_replies": [20,22,37,40],
+		"list_votes": [19,33],
+		"error": ""
+	},
+	{
+		"index": 7,
+		"author": "36f53",
+		"quoted_id": "",
+		"date_time": "September 18, 2013, 10:26:06 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 4,
+		"session": 1,
+		"text": [
+			"In this sport, there will be two teams composed of 7 players each. There is going to be a basket on top of one of the team members head from each team. Each team member will have 3 eggs and the purpose is to get the egg in the basket without cracking it open. the person with the basket is free to run anywhere and the other teams must place the egg on the basket safely."
+		],
+		"index_quoted": null,
+		"list_replies": 36,
+		"list_votes": 34,
+		"error": ""
+	},
+	{
+		"index": 8,
+		"author": "36f53",
+		"quoted_id": "",
+		"date_time": "September 18, 2013, 10:30:21 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"This sport will require 2 team composed of 5 members each. the team must work together to get this accomplished. There will be a small ball in which each member has to balance on the top of their hand without making it fall. the purpose is to walk with this ball and get it across another team member hand without it falling only using one hand. whoever hands it off safely to all their team members will win"
+		],
+		"index_quoted": null,
+		"list_replies": 38,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 9,
+		"author": "56f55",
+		"quoted_id": "",
+		"date_time": "September 18, 2013, 12:20:09 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 1,
+		"text": [
+			"Team sports are generally funner than individual sports, since they can be more strategic. There are goals to decide who wins, such as scoring points, and rules that players have to abide by."
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 10,
+		"author": "56f55",
+		"quoted_id": "",
+		"date_time": "September 18, 2013, 12:25:10 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 1,
+		"text": [
+			"The sport should involve objects that people use to achieve a task. For example, equipment like footballs and basketballs are used to score in their respective sports. I think it would be cool to involve multiple objects in a game. That way the players would have to spread their focus across the playing field. For now the object can be a regular ball."
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 11,
+		"author": "56f55",
+		"quoted_id": "",
+		"date_time": "September 18, 2013, 12:30:17 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 1,
+		"session": 1,
+		"text": [
+			[
+				"As for the playing field, something different would be a non-rectangular field. Usually in sports, the goals are located on opposite ends of a large rectangle. It's more simple to deal with, but having a different field could add a new perspective to the game."
+			],
+			[
+				"Also, the goals could be multiple areas on the field that the objects would have to pass through to score. Teams would defend their respective goals."
+			]
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 12,
+		"author": "80f54",
+		"quoted_id": "",
+		"date_time": "September 18, 2013, 10:44:11 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 1,
+		"text": [
+			"skydiving and gliding through rings for points"
+		],
+		"index_quoted": null,
+		"list_replies": 28,
+		"list_votes": 25,
+		"error": ""
+	},
+	{
+		"index": 13,
+		"author": "80f54",
+		"quoted_id": "",
+		"date_time": "September 18, 2013, 10:44:51 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 1,
+		"text": [
+			"jumping through rings, and the smaller the ring the more points it is"
+		],
+		"index_quoted": null,
+		"list_replies": [21,45],
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 14,
+		"author": "80f54",
+		"quoted_id": "",
+		"date_time": "September 18, 2013, 10:46:05 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 3,
+		"session": 1,
+		"text": [
+			"try to hit targets for points with a ball, but you can only bounce the ball off a wall that is provided"
+		],
+		"index_quoted": null,
+		"list_replies": 30,
+		"list_votes": 27,
+		"error": ""
+	},
+	{
+		"index": 15,
+		"author": "80f54",
+		"quoted_id": "",
+		"date_time": "September 18, 2013, 10:49:17 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 4,
+		"session": 1,
+		"text": [
+			"you hit a ball and let it bounce off the ground. the further the ball goes the more points. but you also have to hit targets for more points. either way you get points but if you hit a target you produce more points in the end"
+		],
+		"index_quoted": null,
+		"list_replies": 44,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 16,
+		"author": "80f54",
+		"quoted_id": "",
+		"date_time": "September 18, 2013, 10:51:08 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 4,
+		"session": 1,
+		"text": [
+			"you are in a maze. you and 5 other people are also in the maze but in different locations. no part of the maze is more difficult than the other. first 3 people to the middle gets to move onto the next maze. then after the first 2 people get to move on. then first one to the middle gets a prize"
+		],
+		"index_quoted": null,
+		"list_replies": 29,
+		"list_votes": 26,
+		"error": ""
+	},
+	{
+		"index": 17,
+		"author": "80f54",
+		"quoted_id": "",
+		"date_time": "September 18, 2013, 10:52:31 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 4,
+		"session": 1,
+		"text": [
+			"you must throw a disc and it has to curve around a pole and hit a target behind it. there are different courses but it is like golf in a sense"
+		],
+		"index_quoted": null,
+		"list_replies": 46,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 18,
+		"author": "80f54",
+		"quoted_id": "",
+		"date_time": "September 18, 2013, 10:54:33 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 4,
+		"session": 1,
+		"text": [
+			"you and a partner must jump through different hurdles to get points. you will face another team doing the same thing"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 19,
+		"author": "8f52",
+		"quoted_id": "36f53",
+		"date_time": "September 27, 2013, 11:02:37 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 6,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 20,
+		"author": "8f52",
+		"quoted_id": "36f53",
+		"date_time": "September 27, 2013, 11:07:05 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"but i dont think this safe for participants, because tennis courts surfaces are hard and if someone fall, they will get injure immediately."
+		],
+		"index_quoted": 6,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 21,
+		"author": "8f52",
+		"quoted_id": "80f54",
+		"date_time": "September 27, 2013, 11:17:50 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 2,
+		"text": [
+			"each ring should have its own color, different color contain different point and the easiness level might increase or decrease depend on the color.  There are 5 colors: black= biggest and with 1 point>yellow= 2 points>blue=3 points>green=4 points> red=5 points. So this means even if they collect the most rings doesnt mean that they are the winner, it must depend on the color of the ring."
+		],
+		"index_quoted": 13,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 22,
+		"author": "8f52",
+		"quoted_id": "36f53",
+		"date_time": "September 27, 2013, 11:24:35 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 3,
+		"session": 2,
+		"text": [
+			"there will be a row of rings located under the water, deep down 3 feet, so so anyone that could not swim, they can participate in this game, in other to winner, the player need to take a deep breath and go down under the water go through the row of rings, who get through the row fastest is the winner, but if they come up for more air there are deductible 3 points for each time."
+		],
+		"index_quoted": 6,
+		"list_replies": [23,24],
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 23,
+		"author": "8f52",
+		"quoted_id": "8f52",
+		"date_time": "September 27, 2013, 11:31:41 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 2,
+		"text": [
+			"this game will be in the swimming pool, a team should contain 5 members, and the other opponent team will be the judges. 5 members need to take a deep breath and compete who could hold their breath the longest, who ever come up for more air will be hit by the plastic toy hammer. the time limit for this round is 4 mins. alternate to the other team. out of 5 members of each team, there will be one representative for each team which were the one who won in the first round. in this second round, those two representative going to compete with each other."
+		],
+		"index_quoted": 22,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 24,
+		"author": "8f52",
+		"quoted_id": "8f52",
+		"date_time": "September 27, 2013, 11:38:40 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"there will be two huge floating board on inside the pool that can hold up to 5 people, 2 teams going to to compete with each other, try to get the other team down, and which team survive will be the winner.",
+			"note: there will be 4 people holding on each side of  the floating board so its easier for players to complete."
+		],
+		"index_quoted": 22,
+		"list_replies": null,
+		"list_votes": 50,
+		"error": ""
+	},
+	{
+		"index": 25,
+		"author": "56f55",
+		"quoted_id": "80f54",
+		"date_time": "September 25, 2013, 01:03:47 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 12,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 26,
+		"author": "56f55",
+		"quoted_id": "80f54",
+		"date_time": "September 25, 2013, 01:05:19 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 16,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 27,
+		"author": "56f55",
+		"quoted_id": "80f54",
+		"date_time": "September 25, 2013, 01:07:54 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 14,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 28,
+		"author": "56f55",
+		"quoted_id": "80f54",
+		"date_time": "September 25, 2013, 01:15:27 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 4,
+		"session": 2,
+		"text": [
+			"For this to be an actual sport, there should be stations that have a stationary ring. Squirrel skydiving suits should be used since they allow for a good range of motion. Also, if its a 1v1 competition it would be good to introduce clock to see who's fastest to break a tie. Also it should be set over a body of water to limit injuries."
+		],
+		"index_quoted": 12,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 29,
+		"author": "56f55",
+		"quoted_id": "80f54",
+		"date_time": "September 25, 2013, 01:19:28 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 3,
+		"session": 2,
+		"text": [
+			"Something cool to add would be laser tag equipment. That way if two opposing players meet up they could either try to eliminate each other or even group up to defeat other players. It would be cool to see this kind of mind play in a sport. Also there should be a messaging system so that the players know who's left or not. For example, a scoreboard over the maze."
+		],
+		"index_quoted": 16,
+		"list_replies": null,
+		"list_votes": 54,
+		"error": ""
+	},
+	{
+		"index": 30,
+		"author": "56f55",
+		"quoted_id": "80f54",
+		"date_time": "September 25, 2013, 01:31:18 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 4,
+		"session": 2,
+		"text": [
+			"Teams with two people each. One player shoots at targets with a potato launcher. The targets are tennis racquets. The outcome should be french fries. The second team member has a basket to catch the fries. Team with the most fries in weight wins. Teams start opposite of the playing field. There are 11 targets and after each target is hit, it will retract. The game ends when all of the racquets have retracted."
+		],
+		"index_quoted": 14,
+		"list_replies": null,
+		"list_votes": [47,53],
+		"error": ""
+	},
+	{
+		"index": 31,
+		"author": "56f55",
+		"quoted_id": "",
+		"date_time": "September 25, 2013, 01:42:23 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 3,
+		"session": 2,
+		"text": [
+			"This game will involve teams of 20 players each. The teams are 25 yards apart and are separated by a 10 foot fence. The playing field is 30 yards long and at each end there are the goals 10 feet above the floor. Across from each team is their respective goal, which are 3 rings (2 medium length - 5 points, 1 small one - 10 points). The game will be 4 quarters, 5 minutes each. Each team will start with 15 footballs, which can be used to score or for defensive purposes. Winner is decided by whichever team has the most points at the end."
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": 48,
+		"error": ""
+	},
+	{
+		"index": 32,
+		"author": "80f54",
+		"quoted_id": "8f52",
+		"date_time": "September 25, 2013, 12:03:53 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 3,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 33,
+		"author": "80f54",
+		"quoted_id": "36f53",
+		"date_time": "September 25, 2013, 12:05:26 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 6,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 34,
+		"author": "80f54",
+		"quoted_id": "36f53",
+		"date_time": "September 25, 2013, 12:06:57 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 7,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 35,
+		"author": "80f54",
+		"quoted_id": "8f52",
+		"date_time": "September 25, 2013, 12:14:42 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 3,
+		"session": 2,
+		"text": [
+			"instead the gate with push ups, it should be different tasks that are equally difficult or like a riddle that you have to solve. or after second gate could be that you have to get to the third gate in a certain amount of time. instead of a deliberate treasure map, it should be a series of riddles that lead to the next until you find the treasure. This should have multiple teams doing the same thing and seeing which team can get to the treasure first."
+		],
+		"index_quoted": 3,
+		"list_replies": null,
+		"list_votes": 49,
+		"error": ""
+	},
+	{
+		"index": 36,
+		"author": "80f54",
+		"quoted_id": "36f53",
+		"date_time": "September 25, 2013, 12:18:26 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 3,
+		"session": 2,
+		"text": [
+			"instead of it being an egg, there should be a bean bag or an object that wont bounce out of the head. and there should be 4 members on each team and the goal is to get that object in the opposing teams basket which is on one of their heads. There is only one object in the whole game as oppose to everyone having 3 eggs or an object."
+		],
+		"index_quoted": 7,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 37,
+		"author": "80f54",
+		"quoted_id": "36f53",
+		"date_time": "September 25, 2013, 12:21:11 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"with that idea the court should be a lot smaller than a tennis court because kicking is not easy and over a post at that."
+		],
+		"index_quoted": 6,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 38,
+		"author": "80f54",
+		"quoted_id": "36f53",
+		"date_time": "September 25, 2013, 12:24:54 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"instead of hand it should be their head. The members of the team have to keep it on one of their team members head without it falling off and they cant hold it there. They can do this in many ways. They must get multiple balls over to the other side successfully without the ball falling and this will get you a point."
+		],
+		"index_quoted": 8,
+		"list_replies": null,
+		"list_votes": 52,
+		"error": ""
+	},
+	{
+		"index": 39,
+		"author": "80f54",
+		"quoted_id": "36f53",
+		"date_time": "September 25, 2013, 12:28:25 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"instead of soccer and kicking the ball there should be 6 members and they have to throw a ball to other members of their team to get across the field. They must get this ball into the opposing teams goal. The goal is a pole with a small hole not very large that the team must get the ball through. There is one universal ball for the whole game. The other team can intercept the ball and take it away."
+		],
+		"index_quoted": 4,
+		"list_replies": null,
+		"list_votes": 55,
+		"error": ""
+	},
+	{
+		"index": 40,
+		"author": "80f54",
+		"quoted_id": "36f53",
+		"date_time": "September 25, 2013, 12:29:41 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"instead of 4 members there should be 6 since it is harder to get around in water. The pool should be relatively big"
+		],
+		"index_quoted": 6,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 41,
+		"author": "80f54",
+		"quoted_id": "",
+		"date_time": "September 25, 2013, 12:32:15 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 3,
+		"session": 2,
+		"text": [
+			"There should be balls or targets thrown up in the air and you must shoot them for points. there will be 2 teams with 3 members on each team. you will be on two sides and if you are able to shoot the other teams targets from the location you are at then there will be bonus points awarded"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 42,
+		"author": "80f54",
+		"quoted_id": "8f52",
+		"date_time": "September 25, 2013, 12:34:46 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"there will be different checkpoints all over the wall, hard to reach spots, depending on how hard they are to get to accounts for how many points they can give you. Getting to the top only gets you some points so you must get points on the way. The person with the most points at the end of the rock climbing game will win"
+		],
+		"index_quoted": 1,
+		"list_replies": null,
+		"list_votes": 56,
+		"error": ""
+	},
+	{
+		"index": 43,
+		"author": "80f54",
+		"quoted_id": "",
+		"date_time": "September 25, 2013, 12:35:51 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"There will be a set of exercises that you must perform and there will be a number of times you must do them. If you can complete the tasks you are awarded with points. The person with the most points at the end will win."
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 44,
+		"author": "80f54",
+		"quoted_id": "80f54",
+		"date_time": "September 25, 2013, 12:38:40 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 4,
+		"session": 2,
+		"text": [
+			"instead of bouncing it you must just throw it into holes in the ground for points and there are obstacles in the way to make it harder. the harder the hole is to get to then the more points they are."
+		],
+		"index_quoted": 15,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 45,
+		"author": "80f54",
+		"quoted_id": "80f54",
+		"date_time": "September 25, 2013, 12:40:45 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"instead of jumping through them you have to throw balls through them to get more points."
+		],
+		"index_quoted": 13,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 46,
+		"author": "80f54",
+		"quoted_id": "80f54",
+		"date_time": "September 25, 2013, 12:42:36 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 4,
+		"session": 2,
+		"text": [
+			"instead of a pole there should be different obstacles that you must get through for the disc"
+		],
+		"index_quoted": 17,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 47,
+		"author": "36f53",
+		"quoted_id": "56f55",
+		"date_time": "October 11, 2013, 03:07:09 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 30,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "Not the same quote found "
+	},
+	{
+		"index": 48,
+		"author": "36f53",
+		"quoted_id": "56f55",
+		"date_time": "October 11, 2013, 03:07:36 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 31,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 49,
+		"author": "80f54",
+		"quoted_id": "80f54",
+		"date_time": "October 11, 2013, 03:13:52 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 35,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "Not the same quote found "
+	},
+	{
+		"index": 50,
+		"author": "80f54",
+		"quoted_id": "8f52",
+		"date_time": "October 11, 2013, 03:14:33 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 24,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "Not the same quote found "
+	},
+	{
+		"index": 51,
+		"author": "80f54",
+		"quoted_id": "8f52",
+		"date_time": "October 11, 2013, 03:15:05 PM",
+		"type": "vr",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			"Rock climbing will be in a swimming pool setting. There will be two members competing to see who makes it to the top without falling down. If the opponent falls they lose and fall into the swimming pool."
+		],
+		"index_quoted": 1,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "New text in vote added r to type"
+	},
+	{
+		"index": 52,
+		"author": "80f54",
+		"quoted_id": "80f54",
+		"date_time": "October 11, 2013, 03:16:06 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 38,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "Not the same quote found "
+	},
+	{
+		"index": 53,
+		"author": "80f54",
+		"quoted_id": "56f55",
+		"date_time": "October 11, 2013, 03:17:44 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 30,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "Not the same quote found "
+	},
+	{
+		"index": 54,
+		"author": "80f54",
+		"quoted_id": "56f55",
+		"date_time": "October 11, 2013, 03:18:34 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 29,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "Not the same quote found "
+	},
+	{
+		"index": 55,
+		"author": "56f55",
+		"quoted_id": "80f54",
+		"date_time": "October 11, 2013, 03:20:21 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 39,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "Not the same quote found "
+	},
+	{
+		"index": 56,
+		"author": "56f55",
+		"quoted_id": "80f54",
+		"date_time": "October 11, 2013, 03:21:51 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 42,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "Not the same quote found "
+	}
+]

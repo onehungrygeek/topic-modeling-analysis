@@ -1,5 +1,7 @@
 import warnings
 warnings.filterwarnings(action='ignore', category=UserWarning, module='gensim')
+warnings.filterwarnings(action='ignore', category=DeprecationWarning, module='gensim')
+warnings.filterwarnings(action='ignore', category=DeprecationWarning)
 warnings.filterwarnings(action='ignore', category=RuntimeWarning)
 from gensim.models import CoherenceModel
 

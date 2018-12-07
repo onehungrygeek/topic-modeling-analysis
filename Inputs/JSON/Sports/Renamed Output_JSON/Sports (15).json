@@ -1,0 +1,1538 @@
+[
+	{
+		"index": 1,
+		"author": "24at20",
+		"quoted_id": "",
+		"date_time": "April 16, 2014, 10:41:53 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"Water volleyball"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 2,
+		"author": "24at20",
+		"quoted_id": "",
+		"date_time": "April 16, 2014, 10:42:08 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 3,
+		"session": 1,
+		"text": [
+			"Underwater soccer"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 3,
+		"author": "24at20",
+		"quoted_id": "",
+		"date_time": "April 16, 2014, 10:44:26 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 1,
+		"text": [
+			"Pool basketball (playing basketball in a swimming pool)"
+		],
+		"index_quoted": null,
+		"list_replies": 63,
+		"list_votes": 44,
+		"error": ""
+	},
+	{
+		"index": 4,
+		"author": "24at20",
+		"quoted_id": "",
+		"date_time": "April 16, 2014, 10:45:12 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 1,
+		"text": [
+			"Swimming hurdles"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 5,
+		"author": "24at20",
+		"quoted_id": "",
+		"date_time": "April 16, 2014, 10:49:49 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"play football in a wheelchair"
+		],
+		"index_quoted": null,
+		"list_replies": [39,64],
+		"list_votes": [30,45,67],
+		"error": ""
+	},
+	{
+		"index": 6,
+		"author": "11at15",
+		"quoted_id": "",
+		"date_time": "April 16, 2014, 11:17:28 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"will consist of a team of 8 players. 4 males, 4 females"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": 46,
+		"error": ""
+	},
+	{
+		"index": 7,
+		"author": "11at15",
+		"quoted_id": "",
+		"date_time": "April 16, 2014, 11:20:57 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"will be conducted in different locations to prevent one team having advantage over the other"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": 47,
+		"error": ""
+	},
+	{
+		"index": 8,
+		"author": "11at15",
+		"quoted_id": "",
+		"date_time": "April 16, 2014, 11:21:26 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"locations can include forests, cities, etc."
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": 48,
+		"error": ""
+	},
+	{
+		"index": 9,
+		"author": "11at15",
+		"quoted_id": "",
+		"date_time": "April 16, 2014, 11:23:32 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 1,
+		"text": [
+			"goal of the game will be to retrieve a beacon (both teams will know the location of it before the game starts) and carry it the other teams output successfully without getting caught"
+		],
+		"index_quoted": null,
+		"list_replies": 41,
+		"list_votes": [31,49],
+		"error": ""
+	},
+	{
+		"index": 10,
+		"author": "11at15",
+		"quoted_id": "",
+		"date_time": "April 16, 2014, 11:24:53 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 1,
+		"text": [
+			"outpost will be guarded by 4-6 members depending on the teams strategy while the other remain remembers will try to steal the beacon from the other team"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": 50,
+		"error": ""
+	},
+	{
+		"index": 11,
+		"author": "11at15",
+		"quoted_id": "",
+		"date_time": "April 16, 2014, 11:25:37 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"Teams are not allowed to move in a group in of 3 or more. Only a minimum of two"
+		],
+		"index_quoted": null,
+		"list_replies": 42,
+		"list_votes": 32,
+		"error": ""
+	},
+	{
+		"index": 12,
+		"author": "11at15",
+		"quoted_id": "",
+		"date_time": "April 16, 2014, 11:26:43 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 4,
+		"session": 1,
+		"text": [
+			"Stealth tactics and physical activity with strength will be used in order to deliver the beacon to the other teams outpost"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": 51,
+		"error": ""
+	},
+	{
+		"index": 13,
+		"author": "11at15",
+		"quoted_id": "",
+		"date_time": "April 16, 2014, 11:27:55 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 1,
+		"text": [
+			"beacon must be delivered in an hour or less, if not the defending team will get a point"
+		],
+		"index_quoted": null,
+		"list_replies": 66,
+		"list_votes": 52,
+		"error": ""
+	},
+	{
+		"index": 14,
+		"author": "11at15",
+		"quoted_id": "",
+		"date_time": "April 16, 2014, 11:31:23 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 1,
+		"text": [
+			"Players that are caught can be eliminated if the opposing team manages to put a magnet into their electronic belt"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": 53,
+		"error": ""
+	},
+	{
+		"index": 15,
+		"author": "11at15",
+		"quoted_id": "",
+		"date_time": "April 16, 2014, 11:32:08 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"Each team member will have 2 magnets on team and will all be wearing electronic belts"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": 54,
+		"error": ""
+	},
+	{
+		"index": 16,
+		"author": "11at15",
+		"quoted_id": "",
+		"date_time": "April 16, 2014, 11:32:51 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"It will be conducted to in light and dark environments"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": 55,
+		"error": ""
+	},
+	{
+		"index": 17,
+		"author": "11at15",
+		"quoted_id": "",
+		"date_time": "April 16, 2014, 11:33:21 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"Both teams can choose their uniform for a better disguise"
+		],
+		"index_quoted": null,
+		"list_replies": 62,
+		"list_votes": 56,
+		"error": ""
+	},
+	{
+		"index": 18,
+		"author": "27at22",
+		"quoted_id": "",
+		"date_time": "April 16, 2014, 12:29:32 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 3,
+		"session": 1,
+		"text": [
+			[
+				"One idea is to have a new branch of a swimming sport."
+			],
+			[
+				"There would be two teams similar to what you would see in volleyball. There would also be a new in the center of the pool that would reach the bottom of the pool, ensuring that the opposing team does not cross over sides. The objective would be to hit a ball over the net without the opposing team hitting back. Basically, like volleyball. However, there would be a catch. Instead of one ball, there would be two. Instead of hitting the ball, you would catch it. When catching it, you must pass the ball to one of your team members. When catching the ball, you must wait at least one time to catch the ball again, another person must take your place or else the opposing team scores. The ball would sink slowly if it was not caught rather than floating. When this happens, you have five seconds to get the ball and re-serve it, otherwise the opposing team scores. The first team to reach 60 points wins, each score counts as 3 points. When one team scores, the other team has 1 point deducted."
+			]
+		],
+		"index_quoted": null,
+		"list_replies": 65,
+		"list_votes": [38,57],
+		"error": ""
+	},
+	{
+		"index": 19,
+		"author": "22at24",
+		"quoted_id": "",
+		"date_time": "April 16, 2014, 01:09:44 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 3,
+		"session": 1,
+		"text": [
+			"Using a Nerf gun (or similar object) to shoot moving targets in an obstacle course. Individual; based on best time and accuracy."
+		],
+		"index_quoted": null,
+		"list_replies": 40,
+		"list_votes": [33,58],
+		"error": ""
+	},
+	{
+		"index": 20,
+		"author": "22at24",
+		"quoted_id": "",
+		"date_time": "April 16, 2014, 01:16:00 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 4,
+		"session": 1,
+		"text": [
+			"Go-kart capture-the-flag: People on one team try to capture the other team's flag, but everyone is in go-karts and the flag holder essentially has to play keep-away with the flag."
+		],
+		"index_quoted": null,
+		"list_replies": 27,
+		"list_votes": [24,34,59],
+		"error": ""
+	},
+	{
+		"index": 21,
+		"author": "22at24",
+		"quoted_id": "",
+		"date_time": "April 16, 2014, 01:19:42 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 1,
+		"text": [
+			"Blindfolded Obstacle Course: The participants get three minutes to study the course. Then they are blindfolded and sent into the course. Measures spatial memory; winners determined based on best time and least amount of mistakes."
+		],
+		"index_quoted": null,
+		"list_replies": [26,43],
+		"list_votes": [25,35,60],
+		"error": ""
+	},
+	{
+		"index": 22,
+		"author": "22at24",
+		"quoted_id": "",
+		"date_time": "April 16, 2014, 01:22:16 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 1,
+		"text": [
+			"Indoors, glow-in-the-dark soccer."
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": [36,61],
+		"error": ""
+	},
+	{
+		"index": 23,
+		"author": "22at24",
+		"quoted_id": "",
+		"date_time": "April 16, 2014, 01:24:17 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 3,
+		"session": 1,
+		"text": [
+			"Must move ball across the field and into the other team's goal using only elbows, knees, and head."
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": 37,
+		"error": ""
+	},
+	{
+		"index": 24,
+		"author": "11at15",
+		"quoted_id": "22at24",
+		"date_time": "April 21, 2014, 12:39:58 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 20,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 25,
+		"author": "11at15",
+		"quoted_id": "22at24",
+		"date_time": "April 21, 2014, 12:41:58 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 21,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 26,
+		"author": "11at15",
+		"quoted_id": "22at24",
+		"date_time": "April 21, 2014, 12:47:56 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"Participants should be to have a free trial running the course without blindfolds on"
+		],
+		"index_quoted": 21,
+		"list_replies": null,
+		"list_votes": 71,
+		"error": ""
+	},
+	{
+		"index": 27,
+		"author": "11at15",
+		"quoted_id": "22at24",
+		"date_time": "April 21, 2014, 12:50:35 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 2,
+		"text": [
+			"The flag should be at a certain location giving the both teams a chance at retrieving it"
+		],
+		"index_quoted": 20,
+		"list_replies": 28,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 28,
+		"author": "11at15",
+		"quoted_id": "11at15",
+		"date_time": "April 21, 2014, 12:52:34 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 2,
+		"text": [
+			"Both teams should be allowed to set booby-traps around their flags in order to make it more difficult maneuvering the go cart"
+		],
+		"index_quoted": 27,
+		"list_replies": 29,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 29,
+		"author": "11at15",
+		"quoted_id": "11at15",
+		"date_time": "April 21, 2014, 01:00:25 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 2,
+		"text": [
+			"When the flag is taken, it should be placed at the back of the go-kart giving the other team an opportunity to retrieve it"
+		],
+		"index_quoted": 28,
+		"list_replies": null,
+		"list_votes": 79,
+		"error": ""
+	},
+	{
+		"index": 30,
+		"author": "27at22",
+		"quoted_id": "24at20",
+		"date_time": "April 23, 2014, 01:03:47 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 5,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 31,
+		"author": "27at22",
+		"quoted_id": "11at15",
+		"date_time": "April 23, 2014, 01:04:26 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 9,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 32,
+		"author": "27at22",
+		"quoted_id": "11at15",
+		"date_time": "April 23, 2014, 01:05:41 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 11,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 33,
+		"author": "27at22",
+		"quoted_id": "22at24",
+		"date_time": "April 23, 2014, 01:06:38 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 19,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 34,
+		"author": "27at22",
+		"quoted_id": "22at24",
+		"date_time": "April 23, 2014, 01:07:14 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 20,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 35,
+		"author": "27at22",
+		"quoted_id": "22at24",
+		"date_time": "April 23, 2014, 01:07:36 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 21,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 36,
+		"author": "27at22",
+		"quoted_id": "22at24",
+		"date_time": "April 23, 2014, 01:07:56 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 22,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 37,
+		"author": "27at22",
+		"quoted_id": "22at24",
+		"date_time": "April 23, 2014, 01:08:12 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 23,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 38,
+		"author": "27at22",
+		"quoted_id": "27at22",
+		"date_time": "April 23, 2014, 01:13:19 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 18,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 39,
+		"author": "27at22",
+		"quoted_id": "24at20",
+		"date_time": "April 23, 2014, 01:21:11 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 3,
+		"session": 2,
+		"text": [
+			"There would need to be a new way to \"tackle\" one another. Instead of tackling, it could just be a tag, or tap on the shoulder. In terms of having a kicker, there would be none. Rather than kicking, one could throw the ball across the field. There would need to be a pouch to put the football in to ensure that the player could be mobile with both arms, rather than turning constantly. Instead of having turf, it could be on a floor similar to what you would see in a basketball arena to ensure mobility."
+		],
+		"index_quoted": 5,
+		"list_replies": null,
+		"list_votes": [72,83,84],
+		"error": ""
+	},
+	{
+		"index": 40,
+		"author": "27at22",
+		"quoted_id": "22at24",
+		"date_time": "April 23, 2014, 01:25:36 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 3,
+		"session": 2,
+		"text": [
+			"Scoring system: The smaller the object, the more points earned. Ie. A large object will not give as many points as a smaller object. Rather than using a Nerf gun, it could be similar to laser tag. Have sensors on the objects, and use a laser gun to shoot the targets to ensure that you won't waste time with ammunition problems.",
+			"To make things interesting, the sport could take place on an obstacle course to add difficulty."
+		],
+		"index_quoted": 19,
+		"list_replies": null,
+		"list_votes": [73,90],
+		"error": ""
+	},
+	{
+		"index": 41,
+		"author": "27at22",
+		"quoted_id": "11at15",
+		"date_time": "April 23, 2014, 01:35:06 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 3,
+		"session": 2,
+		"text": [
+			"Have the sport take place in a man-made forest of sorts. This will give players help with stealth, rather than running in the open. Add obstacles to add to difficulty - if a player fails at an obstacle a siren will go off in that specific players location. He\/she will then have to hurry to move away from the location before he is found by the other players, or else he\/she will be removed for the remainder of the game. Have the score limit set to 3 so it isn't a \"sudden death\" type game, it gives fair competition."
+		],
+		"index_quoted": 9,
+		"list_replies": null,
+		"list_votes": [75,81],
+		"error": ""
+	},
+	{
+		"index": 42,
+		"author": "27at22",
+		"quoted_id": "11at15",
+		"date_time": "April 23, 2014, 01:38:52 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 3,
+		"session": 2,
+		"text": [
+			"Being that teams are allowed to travel in groups of two, we could make obstacles that require two people. Ie. There is a button that will lift a gate on each side of the gate. One team member presses the button while the other goes through the door, then the roles switch and the door is opened for the other player. Each button is timed, but too far for a player to press and run to the door, it requires two players to get through."
+		],
+		"index_quoted": 11,
+		"list_replies": null,
+		"list_votes": [77,78],
+		"error": ""
+	},
+	{
+		"index": 43,
+		"author": "27at22",
+		"quoted_id": "22at24",
+		"date_time": "April 23, 2014, 01:44:43 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 3,
+		"session": 2,
+		"text": [
+			"The rankings could be measured accurately using the best times. Allow three attempts to see who catches on faster, somewhat like what the Winter Olympics do. (ie. snowboarding, they get multiple attempts, best score is taken - this gives them time to learn the course.)"
+		],
+		"index_quoted": 21,
+		"list_replies": null,
+		"list_votes": 80,
+		"error": ""
+	},
+	{
+		"index": 44,
+		"author": "22at24",
+		"quoted_id": "24at20",
+		"date_time": "April 23, 2014, 11:05:37 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 3,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 45,
+		"author": "22at24",
+		"quoted_id": "24at20",
+		"date_time": "April 23, 2014, 11:06:20 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 5,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 46,
+		"author": "22at24",
+		"quoted_id": "11at15",
+		"date_time": "April 23, 2014, 11:08:19 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 6,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 47,
+		"author": "22at24",
+		"quoted_id": "11at15",
+		"date_time": "April 23, 2014, 11:08:41 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 7,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 48,
+		"author": "22at24",
+		"quoted_id": "11at15",
+		"date_time": "April 23, 2014, 11:08:52 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 8,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 49,
+		"author": "22at24",
+		"quoted_id": "11at15",
+		"date_time": "April 23, 2014, 11:09:08 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 9,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 50,
+		"author": "22at24",
+		"quoted_id": "11at15",
+		"date_time": "April 23, 2014, 11:09:46 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 10,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 51,
+		"author": "22at24",
+		"quoted_id": "11at15",
+		"date_time": "April 23, 2014, 11:09:58 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 12,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 52,
+		"author": "22at24",
+		"quoted_id": "11at15",
+		"date_time": "April 23, 2014, 11:10:16 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 13,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 53,
+		"author": "22at24",
+		"quoted_id": "11at15",
+		"date_time": "April 23, 2014, 11:10:31 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 14,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 54,
+		"author": "22at24",
+		"quoted_id": "11at15",
+		"date_time": "April 23, 2014, 11:10:49 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 15,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 55,
+		"author": "22at24",
+		"quoted_id": "11at15",
+		"date_time": "April 23, 2014, 11:11:03 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 16,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 56,
+		"author": "22at24",
+		"quoted_id": "11at15",
+		"date_time": "April 23, 2014, 11:11:21 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 17,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 57,
+		"author": "22at24",
+		"quoted_id": "27at22",
+		"date_time": "April 23, 2014, 11:12:49 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 18,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 58,
+		"author": "22at24",
+		"quoted_id": "22at24",
+		"date_time": "April 23, 2014, 11:13:34 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 19,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 59,
+		"author": "22at24",
+		"quoted_id": "22at24",
+		"date_time": "April 23, 2014, 11:13:45 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 20,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 60,
+		"author": "22at24",
+		"quoted_id": "22at24",
+		"date_time": "April 23, 2014, 11:13:59 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 21,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 61,
+		"author": "22at24",
+		"quoted_id": "22at24",
+		"date_time": "April 23, 2014, 11:14:11 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 22,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 62,
+		"author": "22at24",
+		"quoted_id": "11at15",
+		"date_time": "April 23, 2014, 11:18:51 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"This collective idea is good. The only change I would make is to not limit the number of people who can guard the outpost or retrieve the beacon. I think it should be up to the team to decide how defensive or offensive they want to be."
+		],
+		"index_quoted": 17,
+		"list_replies": null,
+		"list_votes": [76,82,88],
+		"error": ""
+	},
+	{
+		"index": 63,
+		"author": "22at24",
+		"quoted_id": "24at20",
+		"date_time": "April 23, 2014, 11:19:45 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 2,
+		"text": [
+			"Have to swim with the ball instead of dribbling."
+		],
+		"index_quoted": 3,
+		"list_replies": null,
+		"list_votes": 85,
+		"error": ""
+	},
+	{
+		"index": 64,
+		"author": "22at24",
+		"quoted_id": "24at20",
+		"date_time": "April 23, 2014, 11:21:31 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 2,
+		"text": [
+			"Field is made of a smooth, flat surface instead of turf for better mobility."
+		],
+		"index_quoted": 5,
+		"list_replies": null,
+		"list_votes": [68,86],
+		"error": ""
+	},
+	{
+		"index": 65,
+		"author": "22at24",
+		"quoted_id": "27at22",
+		"date_time": "April 23, 2014, 11:35:57 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 2,
+		"text": [
+			"A point should not be deducted from the opposing team when a team scores because there are two methods of scoring (meaning double the point possibilities). It would be more fair to both sides not to have this guarantee of losing points. Or perhaps the point could only be deducted when someone catches the ball when they shouldn't. Or better yet, have points given only when the other team doesn't re-serve and have a point taken only when someone catches the ball when they shouldn't."
+		],
+		"index_quoted": 18,
+		"list_replies": null,
+		"list_votes": [69,87],
+		"error": ""
+	},
+	{
+		"index": 66,
+		"author": "22at24",
+		"quoted_id": "11at15",
+		"date_time": "April 23, 2014, 11:45:55 AM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 2,
+		"text": [
+			"A different version of this could include both teams participating in offense and defense. There could be two beacons, one for each team. The teams each have to collect their respective beacon and then carry it to the other team's outpost. The team who completes this first wins. If one or both teams do not score within the hour, neither team scores and they move on to the next round."
+		],
+		"index_quoted": 13,
+		"list_replies": null,
+		"list_votes": [70,74,89],
+		"error": ""
+	},
+	{
+		"index": 67,
+		"author": "27at22",
+		"quoted_id": "24at20",
+		"date_time": "April 29, 2014, 04:05:32 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 5,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 68,
+		"author": "27at22",
+		"quoted_id": "22at24",
+		"date_time": "April 29, 2014, 04:08:42 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 64,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 69,
+		"author": "27at22",
+		"quoted_id": "22at24",
+		"date_time": "April 29, 2014, 04:09:05 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 65,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 70,
+		"author": "27at22",
+		"quoted_id": "22at24",
+		"date_time": "April 29, 2014, 04:10:22 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 66,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 71,
+		"author": "22at24",
+		"quoted_id": "11at15",
+		"date_time": "April 29, 2014, 04:11:20 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 26,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 72,
+		"author": "22at24",
+		"quoted_id": "27at22",
+		"date_time": "April 29, 2014, 04:13:11 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 39,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 73,
+		"author": "22at24",
+		"quoted_id": "27at22",
+		"date_time": "April 29, 2014, 04:13:37 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 40,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 74,
+		"author": "11at15",
+		"quoted_id": "22at24",
+		"date_time": "April 29, 2014, 04:13:47 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 66,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 75,
+		"author": "22at24",
+		"quoted_id": "27at22",
+		"date_time": "April 29, 2014, 04:14:07 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 41,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 76,
+		"author": "11at15",
+		"quoted_id": "22at24",
+		"date_time": "April 29, 2014, 04:14:19 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 62,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 77,
+		"author": "11at15",
+		"quoted_id": "27at22",
+		"date_time": "April 29, 2014, 04:15:06 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 42,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 78,
+		"author": "22at24",
+		"quoted_id": "27at22",
+		"date_time": "April 29, 2014, 04:15:13 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 42,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 79,
+		"author": "27at22",
+		"quoted_id": "11at15",
+		"date_time": "April 29, 2014, 04:15:21 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 29,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 80,
+		"author": "22at24",
+		"quoted_id": "27at22",
+		"date_time": "April 29, 2014, 04:15:30 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 43,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 81,
+		"author": "11at15",
+		"quoted_id": "27at22",
+		"date_time": "April 29, 2014, 04:15:43 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 41,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 82,
+		"author": "22at24",
+		"quoted_id": "22at24",
+		"date_time": "April 29, 2014, 04:15:58 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 62,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 83,
+		"author": "27at22",
+		"quoted_id": "27at22",
+		"date_time": "April 29, 2014, 04:16:13 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 39,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 84,
+		"author": "11at15",
+		"quoted_id": "27at22",
+		"date_time": "April 29, 2014, 04:16:21 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 39,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 85,
+		"author": "22at24",
+		"quoted_id": "22at24",
+		"date_time": "April 29, 2014, 04:16:53 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 63,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 86,
+		"author": "22at24",
+		"quoted_id": "22at24",
+		"date_time": "April 29, 2014, 04:17:15 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 64,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 87,
+		"author": "22at24",
+		"quoted_id": "22at24",
+		"date_time": "April 29, 2014, 04:17:31 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 65,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 88,
+		"author": "27at22",
+		"quoted_id": "22at24",
+		"date_time": "April 29, 2014, 04:17:35 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 62,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 89,
+		"author": "22at24",
+		"quoted_id": "22at24",
+		"date_time": "April 29, 2014, 04:17:42 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 66,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 90,
+		"author": "27at22",
+		"quoted_id": "27at22",
+		"date_time": "April 29, 2014, 04:20:56 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 40,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	}
+]

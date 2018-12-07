@@ -1,0 +1,1206 @@
+[
+	{
+		"index": 1,
+		"author": "63eh48",
+		"quoted_id": "",
+		"date_time": "November 04, 2013, 09:56:53 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 4,
+		"session": 1,
+		"text": [
+			[
+				"The name of my sport is called quick-ball. Its a 40 minute game, with a half time after 20 minutes."
+			],
+			[
+				"A team will consist of 5 members and 4 substitutes."
+			],
+			[
+				"The objective of the game is to get the ball to bounce more than once on your opponents side of the court. The court would be divided into 2 with a net in the middle. On each side of the court, the court will be sub-divided into 5 section: 2 in front, the whole middle and 2 at the back"
+			],
+			[
+				"There will be 2 team mate in front section : one on the right, the other on the left, another team mate in the middle section and the other 2 at the back section, directly behind those in front."
+			],
+			[
+				"Each section(front, middle and back) on a team is only allowed to be in possession of the ball once before its hit over to the opposing side, except the middle player who is allowed 2 possessions. So in total, each team is only allowed to be in possession 4 times before they attempt to score a point against the other team. Each score is worth 2 points, if the ball bounces more than twice on the opposing team, its an extra one point."
+			]
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": 45,
+		"error": ""
+	},
+	{
+		"index": 2,
+		"author": "66eh82",
+		"quoted_id": "",
+		"date_time": "November 04, 2013, 02:14:41 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 1,
+		"session": 1,
+		"text": [
+			"A sport very similar to volleyball; however, instead of using hands, you can only use your feet\/legs to get the ball over the net."
+		],
+		"index_quoted": null,
+		"list_replies": 39,
+		"list_votes": [31,66],
+		"error": ""
+	},
+	{
+		"index": 3,
+		"author": "66eh82",
+		"quoted_id": "",
+		"date_time": "November 04, 2013, 02:23:44 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 1,
+		"session": 1,
+		"text": [
+			"A sport similar to football, but instead of making touchdowns at the ends of the field there will be small nets in which one will have to throw the ball and make it into the net in order to score. The ball can be thrown from anywhere in the field. One team will start on the opposite side of their net, while the other will start at the side of their opponent's net. The nets will be in motion throughout the whole game, making it harder for one to score."
+		],
+		"index_quoted": null,
+		"list_replies": [38,52],
+		"list_votes": [37,51,59,62,70],
+		"error": ""
+	},
+	{
+		"index": 4,
+		"author": "68eh38",
+		"quoted_id": "",
+		"date_time": "November 04, 2013, 02:19:29 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 1,
+		"text": [
+			"It would be interesting to have a sport that involves animals as well as humans, such as dogs."
+		],
+		"index_quoted": null,
+		"list_replies": [36,50],
+		"list_votes": [44,46],
+		"error": ""
+	},
+	{
+		"index": 5,
+		"author": "80eh89",
+		"quoted_id": "",
+		"date_time": "October 31, 2013, 02:18:19 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"Jit JIt Su in the water"
+		],
+		"index_quoted": null,
+		"list_replies": 6,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 6,
+		"author": "80eh89",
+		"quoted_id": "80eh89",
+		"date_time": "October 31, 2013, 02:20:19 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 1,
+		"text": [
+			"Jit Jit Su in the water with strength training"
+		],
+		"index_quoted": 5,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 7,
+		"author": "80eh89",
+		"quoted_id": "",
+		"date_time": "October 31, 2013, 02:20:48 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"In door water cycling"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 8,
+		"author": "80eh89",
+		"quoted_id": "",
+		"date_time": "October 31, 2013, 02:21:00 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 3,
+		"session": 1,
+		"text": [
+			"Cross training in the water"
+		],
+		"index_quoted": null,
+		"list_replies": [9,35],
+		"list_votes": 49,
+		"error": ""
+	},
+	{
+		"index": 9,
+		"author": "80eh89",
+		"quoted_id": "80eh89",
+		"date_time": "October 31, 2013, 02:21:22 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 1,
+		"text": [
+			"Cross training in an indoor pool with a leveled depth"
+		],
+		"index_quoted": 8,
+		"list_replies": [25,53],
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 10,
+		"author": "80eh89",
+		"quoted_id": "",
+		"date_time": "October 31, 2013, 02:22:06 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 1,
+		"text": [
+			"Swimming short laps"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 11,
+		"author": "80eh89",
+		"quoted_id": "",
+		"date_time": "October 31, 2013, 02:22:26 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 1,
+		"session": 1,
+		"text": [
+			"High intensity swimming with a set stroke"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 12,
+		"author": "80eh89",
+		"quoted_id": "",
+		"date_time": "October 31, 2013, 02:23:01 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 1,
+		"session": 1,
+		"text": [
+			"KIck boxing in a pool outside or inside"
+		],
+		"index_quoted": null,
+		"list_replies": 13,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 13,
+		"author": "80eh89",
+		"quoted_id": "80eh89",
+		"date_time": "October 31, 2013, 02:23:19 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 1,
+		"text": [
+			"at a leveled water level"
+		],
+		"index_quoted": 12,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 14,
+		"author": "80eh89",
+		"quoted_id": "",
+		"date_time": "October 31, 2013, 02:23:54 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 2,
+		"session": 1,
+		"text": [
+			"yoga in an indoor pool"
+		],
+		"index_quoted": null,
+		"list_replies": [15,54],
+		"list_votes": [29,47],
+		"error": ""
+	},
+	{
+		"index": 15,
+		"author": "80eh89",
+		"quoted_id": "80eh89",
+		"date_time": "October 31, 2013, 02:24:28 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 1,
+		"text": [
+			"Yoga in an indoor pool at a hot water level for high stress reliever"
+		],
+		"index_quoted": 14,
+		"list_replies": 16,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 16,
+		"author": "80eh89",
+		"quoted_id": "80eh89",
+		"date_time": "October 31, 2013, 02:25:00 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 1,
+		"text": [
+			"Yoga in an indoor pool at a cold water level for a relaxing state of mind"
+		],
+		"index_quoted": 15,
+		"list_replies": null,
+		"list_votes": [57,68],
+		"error": ""
+	},
+	{
+		"index": 17,
+		"author": "80eh89",
+		"quoted_id": "",
+		"date_time": "October 31, 2013, 02:25:41 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 1,
+		"session": 1,
+		"text": [
+			"Cycling in the water"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 18,
+		"author": "80eh89",
+		"quoted_id": "",
+		"date_time": "October 31, 2013, 02:26:07 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 1,
+		"session": 1,
+		"text": [
+			"Boxing in the water"
+		],
+		"index_quoted": null,
+		"list_replies": 19,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 19,
+		"author": "80eh89",
+		"quoted_id": "80eh89",
+		"date_time": "October 31, 2013, 02:26:27 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 1,
+		"text": [
+			"boxing at high intensity for a high loss of calories"
+		],
+		"index_quoted": 18,
+		"list_replies": 20,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 20,
+		"author": "80eh89",
+		"quoted_id": "80eh89",
+		"date_time": "October 31, 2013, 02:26:48 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 1,
+		"text": [
+			"boxing for a tone\/fit physique"
+		],
+		"index_quoted": 19,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 21,
+		"author": "80eh89",
+		"quoted_id": "",
+		"date_time": "October 31, 2013, 02:28:02 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 1,
+		"session": 1,
+		"text": [
+			"Underwater soccer"
+		],
+		"index_quoted": null,
+		"list_replies": 22,
+		"list_votes": 48,
+		"error": ""
+	},
+	{
+		"index": 22,
+		"author": "80eh89",
+		"quoted_id": "80eh89",
+		"date_time": "October 31, 2013, 02:28:27 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 1,
+		"text": [
+			"playing soccer under water with a water ball"
+		],
+		"index_quoted": 21,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 23,
+		"author": "80eh89",
+		"quoted_id": "",
+		"date_time": "October 31, 2013, 02:30:43 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 3,
+		"session": 1,
+		"text": [
+			"Bike riding in mud so it can have a stronger resistance on the biker itself"
+		],
+		"index_quoted": null,
+		"list_replies": [24,40],
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 24,
+		"author": "80eh89",
+		"quoted_id": "80eh89",
+		"date_time": "October 31, 2013, 02:31:51 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 1,
+		"text": [
+			"helps biker built a stronger stamina"
+		],
+		"index_quoted": 23,
+		"list_replies": null,
+		"list_votes": 34,
+		"error": ""
+	},
+	{
+		"index": 25,
+		"author": "80eh89",
+		"quoted_id": "80eh89",
+		"date_time": "October 31, 2013, 02:33:04 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 1,
+		"text": [
+			"While cross training using different techniques so it wont hurt the participant while being in the water"
+		],
+		"index_quoted": 9,
+		"list_replies": null,
+		"list_votes": 63,
+		"error": ""
+	},
+	{
+		"index": 26,
+		"author": "80eh89",
+		"quoted_id": "",
+		"date_time": "October 31, 2013, 02:33:41 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 5,
+		"session": 1,
+		"text": [
+			"Pole dancing for a better physique for women that do not have time to go to the gym."
+		],
+		"index_quoted": null,
+		"list_replies": 27,
+		"list_votes": 30,
+		"error": ""
+	},
+	{
+		"index": 27,
+		"author": "80eh89",
+		"quoted_id": "80eh89",
+		"date_time": "October 31, 2013, 02:34:01 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 1,
+		"text": [
+			"Pole dancing can relieve stress and have a happy marriage, sometimes"
+		],
+		"index_quoted": 26,
+		"list_replies": 28,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 28,
+		"author": "80eh89",
+		"quoted_id": "80eh89",
+		"date_time": "October 31, 2013, 02:36:09 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 1,
+		"text": [
+			"It can also help in the abdominal area to tone and strengthen the arms and legs"
+		],
+		"index_quoted": 27,
+		"list_replies": null,
+		"list_votes": 61,
+		"error": ""
+	},
+	{
+		"index": 29,
+		"author": "63eh48",
+		"quoted_id": "80eh89",
+		"date_time": "November 11, 2013, 09:52:43 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 14,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 30,
+		"author": "63eh48",
+		"quoted_id": "80eh89",
+		"date_time": "November 11, 2013, 09:53:29 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 26,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 31,
+		"author": "63eh48",
+		"quoted_id": "66eh82",
+		"date_time": "November 11, 2013, 09:53:56 AM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 2,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 32,
+		"author": "63eh48",
+		"quoted_id": "",
+		"date_time": "November 11, 2013, 10:09:55 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 4,
+		"session": 2,
+		"text": [
+			"A sport similar to basketball, but the court floor will have boxes of two different colors and the team mates can go in any of the boxes but can only catch the ball if they are in the box that is assigned to their team"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": 67,
+		"error": ""
+	},
+	{
+		"index": 33,
+		"author": "63eh48",
+		"quoted_id": "",
+		"date_time": "November 11, 2013, 10:20:29 AM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 3,
+		"session": 2,
+		"text": [
+			"A sport like rope climbing, but using poles instead"
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": 65,
+		"error": ""
+	},
+	{
+		"index": 34,
+		"author": "66eh82",
+		"quoted_id": "80eh89",
+		"date_time": "November 11, 2013, 02:10:41 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 24,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "Not the same quote found "
+	},
+	{
+		"index": 35,
+		"author": "66eh82",
+		"quoted_id": "80eh89",
+		"date_time": "November 11, 2013, 02:25:52 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 2,
+		"text": [
+			"Including a large variety\/quantity of different kinds of weights for each exercise. Strap-on weights on the arms and\/or legs, making it even more difficult to move the limbs, leading to increased strength training. Timed exercises for each group of people, increasing the competition within individuals"
+		],
+		"index_quoted": 8,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 36,
+		"author": "66eh82",
+		"quoted_id": "68eh38",
+		"date_time": "November 11, 2013, 02:37:12 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 3,
+		"session": 2,
+		"text": [
+			"Perhaps the dogs\/animals can help out the humans, similar to being in a team. No competition between animals and humans however, because they are not on the same level mentally\/physically"
+		],
+		"index_quoted": 4,
+		"list_replies": null,
+		"list_votes": 55,
+		"error": ""
+	},
+	{
+		"index": 37,
+		"author": "68eh38",
+		"quoted_id": "66eh82",
+		"date_time": "November 07, 2013, 02:08:43 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 3,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 38,
+		"author": "68eh38",
+		"quoted_id": "66eh82",
+		"date_time": "November 07, 2013, 02:23:27 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"The sport could be played like ultimate frisbee, with the field being surrounded by water. Each team has a net in the body of water surrounding the field and the net moves around as the game goes on. The players must attempt to throw their ball or frisbee into their own net without it hitting the water."
+		],
+		"index_quoted": 3,
+		"list_replies": 41,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 39,
+		"author": "68eh38",
+		"quoted_id": "66eh82",
+		"date_time": "November 07, 2013, 02:26:10 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 4,
+		"session": 2,
+		"text": [
+			"The net could be shortened and the game played two on two rather than in teams."
+		],
+		"index_quoted": 2,
+		"list_replies": null,
+		"list_votes": 64,
+		"error": ""
+	},
+	{
+		"index": 40,
+		"author": "68eh38",
+		"quoted_id": "80eh89",
+		"date_time": "November 07, 2013, 02:30:39 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"a course that combines the water and mud cycling ideas."
+		],
+		"index_quoted": 23,
+		"list_replies": null,
+		"list_votes": 58,
+		"error": ""
+	},
+	{
+		"index": 41,
+		"author": "68eh38",
+		"quoted_id": "68eh38",
+		"date_time": "November 07, 2013, 02:32:41 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 2,
+		"text": [
+			"If it does happen to land in the water then the opposing team receives the point."
+		],
+		"index_quoted": 38,
+		"list_replies": 43,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 42,
+		"author": "68eh38",
+		"quoted_id": "",
+		"date_time": "November 07, 2013, 02:36:15 PM",
+		"type": "i",
+		"orig_type": "i",
+		"novelty": 1,
+		"session": 2,
+		"text": [
+			"Ultimate scuba diving... items are placed in a marked off underwater area. Teams of 3, the team who collects the most items in 20 minutes wins."
+		],
+		"index_quoted": null,
+		"list_replies": null,
+		"list_votes": [56,69],
+		"error": ""
+	},
+	{
+		"index": 43,
+		"author": "68eh38",
+		"quoted_id": "68eh38",
+		"date_time": "November 07, 2013, 02:38:23 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 1,
+		"session": 2,
+		"text": [
+			"The nets would be two different colors so the players are aware of which is their own"
+		],
+		"index_quoted": 41,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 44,
+		"author": "80eh89",
+		"quoted_id": "68eh38",
+		"date_time": "November 07, 2013, 02:08:44 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 4,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 45,
+		"author": "80eh89",
+		"quoted_id": "63eh48",
+		"date_time": "November 07, 2013, 02:09:04 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 1,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 46,
+		"author": "80eh89",
+		"quoted_id": "68eh38",
+		"date_time": "November 07, 2013, 02:09:32 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 4,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 47,
+		"author": "80eh89",
+		"quoted_id": "80eh89",
+		"date_time": "November 07, 2013, 02:10:55 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 14,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 48,
+		"author": "80eh89",
+		"quoted_id": "80eh89",
+		"date_time": "November 07, 2013, 02:11:16 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 21,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 49,
+		"author": "80eh89",
+		"quoted_id": "80eh89",
+		"date_time": "November 07, 2013, 02:11:41 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 8,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 50,
+		"author": "80eh89",
+		"quoted_id": "68eh38",
+		"date_time": "November 07, 2013, 02:17:23 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 4,
+		"session": 2,
+		"text": [
+			"this will help the pet and the owner have more time to spend with each other and get to know each other. Also help their dog be stronger and more obedient."
+		],
+		"index_quoted": 4,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 51,
+		"author": "80eh89",
+		"quoted_id": "66eh82",
+		"date_time": "November 07, 2013, 02:21:00 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 2,
+		"text": [
+			""
+		],
+		"index_quoted": 3,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 52,
+		"author": "80eh89",
+		"quoted_id": "66eh82",
+		"date_time": "November 07, 2013, 02:22:59 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"this is a great cardio exercise especially since you wouldn't be focusing at one point it would be different at different times. Which will make the player to pay more attention to see where the player would need to score."
+		],
+		"index_quoted": 3,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 53,
+		"author": "80eh89",
+		"quoted_id": "80eh89",
+		"date_time": "November 07, 2013, 02:27:59 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 2,
+		"session": 2,
+		"text": [
+			"Instead of of running to the next exersice trainees can swim and complete the activity in the water at different temperatures. People can work together in a team or individually. In every exercise each trainee will focus on a different part of their body to work on."
+		],
+		"index_quoted": 9,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "Not the same quote found "
+	},
+	{
+		"index": 54,
+		"author": "80eh89",
+		"quoted_id": "80eh89",
+		"date_time": "November 07, 2013, 02:37:36 PM",
+		"type": "r",
+		"orig_type": "r",
+		"novelty": 3,
+		"session": 2,
+		"text": [
+			"As yoga is already helps people relax, being in water can be more soothing for the individual. Obviously it wouldn't be as quiet as it would be if people were in a room but it can help everyone relax overall. Though the water level shouldnt be as high, maybe below the waist line."
+		],
+		"index_quoted": 14,
+		"list_replies": null,
+		"list_votes": 60,
+		"error": ""
+	},
+	{
+		"index": 55,
+		"author": "80eh89",
+		"quoted_id": "68eh38",
+		"date_time": "November 18, 2013, 02:42:24 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 36,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "New text in vote added r to type"
+	},
+	{
+		"index": 56,
+		"author": "80eh89",
+		"quoted_id": "68eh38",
+		"date_time": "November 18, 2013, 02:42:39 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 42,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 57,
+		"author": "63eh48",
+		"quoted_id": "80eh89",
+		"date_time": "November 18, 2013, 02:42:40 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 16,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "Not the same quote found "
+	},
+	{
+		"index": 58,
+		"author": "80eh89",
+		"quoted_id": "68eh38",
+		"date_time": "November 18, 2013, 02:43:24 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 40,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "Not the same quote found "
+	},
+	{
+		"index": 59,
+		"author": "63eh48",
+		"quoted_id": "66eh82",
+		"date_time": "November 18, 2013, 02:43:39 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 3,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "Not the same quote found "
+	},
+	{
+		"index": 60,
+		"author": "63eh48",
+		"quoted_id": "80eh89",
+		"date_time": "November 18, 2013, 02:44:50 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 54,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "Not the same quote found "
+	},
+	{
+		"index": 61,
+		"author": "63eh48",
+		"quoted_id": "80eh89",
+		"date_time": "November 18, 2013, 02:45:36 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 28,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "Not the same quote found "
+	},
+	{
+		"index": 62,
+		"author": "80eh89",
+		"quoted_id": "66eh82",
+		"date_time": "November 18, 2013, 02:46:14 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 3,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "Not the same quote found "
+	},
+	{
+		"index": 63,
+		"author": "80eh89",
+		"quoted_id": "80eh89",
+		"date_time": "November 18, 2013, 02:47:16 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 25,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "Not the same quote found "
+	},
+	{
+		"index": 64,
+		"author": "80eh89",
+		"quoted_id": "68eh38",
+		"date_time": "November 18, 2013, 02:47:41 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 39,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "Not the same quote found "
+	},
+	{
+		"index": 65,
+		"author": "66eh82",
+		"quoted_id": "63eh48",
+		"date_time": "November 18, 2013, 02:49:23 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 33,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 66,
+		"author": "80eh89",
+		"quoted_id": "66eh82",
+		"date_time": "November 18, 2013, 02:51:05 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 2,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 67,
+		"author": "80eh89",
+		"quoted_id": "63eh48",
+		"date_time": "November 18, 2013, 02:53:36 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 32,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 68,
+		"author": "68eh38",
+		"quoted_id": "80eh89",
+		"date_time": "November 18, 2013, 02:54:53 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 16,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "Not the same quote found "
+	},
+	{
+		"index": 69,
+		"author": "66eh82",
+		"quoted_id": "68eh38",
+		"date_time": "November 18, 2013, 02:55:25 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 42,
+		"list_replies": null,
+		"list_votes": null,
+		"error": ""
+	},
+	{
+		"index": 70,
+		"author": "68eh38",
+		"quoted_id": "66eh82",
+		"date_time": "November 18, 2013, 02:55:52 PM",
+		"type": "v",
+		"orig_type": "v",
+		"novelty": 0,
+		"session": 3,
+		"text": [
+			""
+		],
+		"index_quoted": 3,
+		"list_replies": null,
+		"list_votes": null,
+		"error": "Not the same quote found "
+	}
+]

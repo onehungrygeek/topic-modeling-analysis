@@ -96,7 +96,7 @@ def run_topic_model():
     print()
 
     # Run analysis to find coherence scores for different models with increasing num of topics
-    max_topics = 35
+    max_topics = 50
 
     notifier('scores', 'Analyzing various coherence scores for upto ' + str(max_topics) +
              ' topics...', 'Sit back and relax as this analysis may take several minutes to complete.')

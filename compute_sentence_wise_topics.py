@@ -86,7 +86,7 @@ def compute_sentence_wise_topics(modelname, model, corpus, file_name, time_strin
     dominant_sentence_in_topics.reset_index(drop=True, inplace=True)
 
     dominant_sentence_in_topics.columns = [
-        'Topic_Number', "Sentence_Percentage_Contribution", "Sentences", "Topic_Keywords"]
+        'Topic_Number', "Sentence_Percentage_Contribution", "Topic_Keywords", "SentencesTopic_Keywords"]
 
     # dominant_sentence_in_topics['Sentence_Percentage_Contribution'] = round(
         # (dominant_sentence_in_topics.Sentence_Percentage_Contribution * 100), 2).astype(str) + ' %'

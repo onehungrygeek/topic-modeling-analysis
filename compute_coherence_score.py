@@ -13,4 +13,4 @@ def compute_coherence(model, texts, dictionary, measure):
                                      coherence=measure)
     coherence_score = coherence_model.get_coherence()
 
-    return coherence_model, coherence_score
+    return coherence_score

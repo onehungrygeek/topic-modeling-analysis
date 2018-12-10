@@ -96,5 +96,3 @@ def compute_sentence_wise_topics(modelname, model, corpus, file_name, time_strin
           output_dir + dominant_file_name)
     dominant_sentence_in_topics.to_csv(
         output_dir + dominant_file_name, encoding='utf-8')
-
-    return df_output, dominant_sentence_in_topics

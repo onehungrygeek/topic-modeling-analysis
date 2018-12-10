@@ -1,7 +1,8 @@
 # Library imports
 import warnings
 warnings.filterwarnings(action='ignore', category=UserWarning, module='gensim')
-warnings.filterwarnings(action='ignore', category=DeprecationWarning, module='gensim')
+warnings.filterwarnings(
+    action='ignore', category=DeprecationWarning, module='gensim')
 warnings.filterwarnings(action='ignore', category=DeprecationWarning)
 warnings.filterwarnings(action='ignore', category=RuntimeWarning)
 import time
@@ -76,13 +77,10 @@ def run_topic_model():
              str(num_topics) + ' topics saved to Output_Files directory.')
 
     # Compute coherence for above developed models
-    lsi_coherence, lsi_score = compute_coherence(
-        lsimodel, data_lemmatized, id2word, 'c_v')
-    hdp_coherence, hdp_score = compute_coherence(
-        hdpmodel, data_lemmatized, id2word, 'c_v')
-    lda_coherence, lda_score = compute_coherence(
-        ldamodel, data_lemmatized, id2word, 'c_v')
-    ldamallet_coherence, ldamallet_score = compute_coherence(
+    lsi_score = compute_coherence(lsimodel, data_lemmatized, id2word, 'c_v')
+    hdp_score = compute_coherence(hdpmodel, data_lemmatized, id2word, 'c_v')
+    lda_score = compute_coherence(ldamodel, data_lemmatized, id2word, 'c_v')
+    ldamallet_score = compute_coherence(
         ldamallet, data_lemmatized, id2word, 'c_v')
 
     notifier('scores', 'Coherence scores determined!',
@@ -162,12 +160,15 @@ def run_topic_model():
              'Check Output_Files directory for saved graphs.')
 
     # Place senteces from input file to their respective topics and save to .csv file
-    df_lda_sentence_wise_topics, dominant_sentence_in_topics_lda = compute_sentence_wise_topics(
-        modelname='LDA', model=ldamodel, corpus=corpus, file_name=file_name, time_string=time_string)
-    df_lsi_sentence_wise_topics, dominant_sentence_in_topics_lsi = compute_sentence_wise_topics(
-        modelname='LSI', model=lsimodel, corpus=corpus, file_name=file_name, time_string=time_string)
-    df_ldamallet_sentence_wise_topics, dominant_sentence_in_topics_ldamdallet = compute_sentence_wise_topics(
-        modelname='LDAMallet', model=ldamallet, corpus=corpus, file_name=file_name, time_string=time_string)
+    # LDA
+    compute_sentence_wise_topics(modelname='LDA', model=ldamodel,
+                                 corpus=corpus, file_name=file_name, time_string=time_string)
+    # LSI
+    compute_sentence_wise_topics(modelname='LSI', model=lsimodel,
+                                 corpus=corpus, file_name=file_name, time_string=time_string)
+    # LDAMallet
+    compute_sentence_wise_topics(modelname='LDAMallet', model=ldamallet,
+                                 corpus=corpus, file_name=file_name, time_string=time_string)
 
     notifier('complete', 'Topic model analysis complete!',
              'Check Output_Files directory for saved csv files.')

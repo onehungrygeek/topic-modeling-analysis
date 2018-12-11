@@ -14,7 +14,7 @@ def compute_coherence(model, texts, dictionary, measure):
     This module computes coherence score for a given model
 
     Arguments:
-        model {gensim.models.MODEL} -- Name of the input model
+        model {gensim.models.MODEL} -- Input gensim model
         texts {list} -- List of preprocessed input words
         dictionary {Dictionary} -- Dictionary of ids with mapped words
         measure {str} -- Name of the coherence measure you want to use. Possible measures: c_v, c_uci, c_npmi, u_mass

@@ -10,7 +10,7 @@ def build_graph(model_name, scores, measure, file_name, limit, time_string, star
         model {str} -- Model name
         scores {list} -- List of all computed coherence scores
         measure {str} -- Name of the coherence measure used. Possible measures: c_v, c_uci, c_npmi, u_mass
-        file_name {str} -- Inputer file name
+        file_name {str} -- Input file name
         limit {int} -- Maximum number of topics used in computing various coherence scores
         time_string {str} -- Timestamp when code started (for appending to output files)
 

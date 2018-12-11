@@ -1,11 +1,16 @@
 # Library imports
 # warnings module to surpress all UserWarnings, DeprecationWarnings and RuntimeWarnings
 import warnings
-warnings.filterwarnings(action='ignore', category=UserWarning, module='gensim')
-warnings.filterwarnings(
-    action='ignore', category=DeprecationWarning, module='gensim')
-warnings.filterwarnings(action='ignore', category=DeprecationWarning)
-warnings.filterwarnings(action='ignore', category=RuntimeWarning)
+warnings.filterwarnings(action='ignore',
+                        category=UserWarning,
+                        module='gensim')
+warnings.filterwarnings(action='ignore',
+                        category=DeprecationWarning,
+                        module='gensim')
+warnings.filterwarnings(action='ignore',
+                        category=DeprecationWarning)
+warnings.filterwarnings(action='ignore',
+                        category=RuntimeWarning)
 import gensim.corpora as corpora
 import gensim
 import spacy
@@ -15,6 +20,7 @@ from nltk.corpus import stopwords
 from gensim.utils import simple_preprocess
 
 # List of English stop words from NLTK library
+nltk.download('stopwords')
 nltk_stop_words = stopwords.words('english')
 # List of English stop words from MALLET
 with open('mallet_stopwords.txt') as f:

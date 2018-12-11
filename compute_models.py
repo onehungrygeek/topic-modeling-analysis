@@ -26,7 +26,8 @@ mallet_path = '/home/akshay/mallet/bin/mallet'
 
 def compute_model(model_name, corpus, id2word, num_topics=5):
     """
-    This module computes various topic models from the gensim library.
+    This module takes in a corpus and a word dictionary and
+    computes various topic models from the gensim library.
 
     Arguments:
         model_name {str} -- Name of the model
@@ -70,7 +71,7 @@ def compute_model(model_name, corpus, id2word, num_topics=5):
                                                 per_word_topics=True)
         topics = model.show_topics(formatted=False)
     # LDAMallet Model and Topics
-    elif model_name == 'LdaMallet' or model_name == 'ldamallet' or model_name == 'ldamallet':
+    elif model_name == 'LdaMallet' or model_name == 'ldamallet':
         print('\nLDA Mallet Model Started\n')
         model = gensim.models.wrappers.LdaMallet(mallet_path,
                                                  corpus=corpus,

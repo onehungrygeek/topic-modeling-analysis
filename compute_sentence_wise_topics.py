@@ -5,8 +5,23 @@ import time
 
 
 def compute_sentence_wise_topics(modelname, model, corpus, file_name, time_string):
+    """
+    This module corresponds sentences from the input file to their dominant topics from the model analysis.
+
+    Arguments:
+        modelname {str} -- Name of the model
+        model {gensim.models.MODEL} -- Input gensim model
+        corpus {list} -- List of corpus created from preprocessed texts
+        file_name {} -- Input file name
+        time_string {str} -- Timestamp when code started (for appending to output files)
+    """
+
+    # Create a pandas dataframe
     df_output = pd.DataFrame()
 
+    # Rearrange rows from gensim model dictionary according to the topic
+    # dominance to get dominant topic in each sentence, get respective
+    # keywords and topic number and append it to the df_output dataframe.
     for i, row in enumerate(model[corpus]):
         try:
             row = sorted(row[0], key=lambda x: (x[1]), reverse=True)
@@ -16,8 +31,10 @@ def compute_sentence_wise_topics(modelname, model, corpus, file_name, time_strin
             if j == 0:
                 wp = model.show_topic(topic_num)
                 topic_keywords = ", ".join([word for word, prop in wp])
-                df_output = df_output.append(
-                    pd.Series([int(topic_num), round(prop_topic * 100, 2), topic_keywords]), ignore_index=True)
+                df_output = df_output.append(pd.Series([int(topic_num),
+                                                        round(prop_topic * 100, 2),
+                                                        topic_keywords]),
+                                             ignore_index=True)
             else:
                 break
 
@@ -52,10 +69,9 @@ def compute_sentence_wise_topics(modelname, model, corpus, file_name, time_strin
     df_output['Dominant_Topic_Number'] = df_output['Dominant_Topic_Number'].astype(
         np.int64)
 
-    # time_string = time.strftime("%m-%d-%Y_%H-%M-%S")
-
     # Normal Save
-    # Save pandas dataframe to a csv file in Output_Files directory (Please create if not exists)
+    # Save pandas dataframe to a csv file in Output_Files directory
+    # Note: Please create this directory if it does not exist
     output_dir = os.getcwd() + '/Output_Files/'
     csv_file_name = file_name.split('.')[0] + '_' + \
         modelname + '_' + time_string + '.csv'
@@ -87,9 +103,6 @@ def compute_sentence_wise_topics(modelname, model, corpus, file_name, time_strin
 
     dominant_sentence_in_topics.columns = [
         'Topic_Number', "Sentence_Percentage_Contribution", "Topic_Keywords", "Sentences"]
-
-    # dominant_sentence_in_topics['Sentence_Percentage_Contribution'] = round(
-        # (dominant_sentence_in_topics.Sentence_Percentage_Contribution * 100), 2).astype(str) + ' %'
 
     dominant_file_name = 'dominant_sentences_' + csv_file_name
     print('\nSaving dominant sentence per topic csv file to: ',

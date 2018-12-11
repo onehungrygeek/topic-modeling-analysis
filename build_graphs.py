@@ -3,36 +3,54 @@ import matplotlib.pyplot as plt
 
 
 def build_graph(model, scores, measure, file_name, limit, time_string, start=5, step=5):
-    if model == 'LsiModel' or model == 'lsimodel':
-        print('LSI Model Detected. Generating graph...\n')
-        title = file_name.split('.')[0] + '_LSI'
-    elif model == 'LdaModel' or model == 'ldamodel':
-        print('LDA Model Detected. Generating graph...\n')
-        title = file_name.split('.')[0] + '_LDA'
-    elif model == 'LdaMallet' or model == 'ldamallet':
-        print('LDA Mallet Model Detected. Generating graph...\n')
-        title = file_name.split('.')[0] + '_LDA_MALLET'
+    """
+    This module builds graph for all the coherence scores.
+
+    Arguments:
+        model {str} -- Model name
+        scores {list} -- List of all computed coherence scores
+        measure {str} -- Name of the coherence measure used. Possible measures: c_v, c_uci, c_npmi, u_mass
+        file_name {str} -- Inputer file name
+        limit {int} -- Maximum number of topics used in computing various coherence scores
+        time_string {str} -- Timestamp when code started (for appending to output files)
+
+    Keyword Arguments:
+        start {int} -- Start value for x-axis values (default: {5})
+        step {int} -- Steps for values on x-axis (default: {5})
+    """
+
+    # Get name of dataset by splitting it with .txt extension
+    dataset = file_name.split('.')[0]
+
+    # List of all possible model names
+    modelname_list = ['LsiModel', 'lsimodel',
+                      'LdaModel', 'ldamodel',
+                      'LdaMallet', 'ldamallet',
+                      'LSI', 'LDA', 'LDAMALLET']
+    # Set plot title
+    if model in modelname_list:
+        print(model + ' Detected. Generating graph...\n')
+        title = dataset + '_' + model
     else:
         print('Invalid Model!')
-        title = 'ERROR_GRAPH'
+        title = 'ERROR_Graph'
 
-    if measure == 'c_v':
-        coh_label = 'c_v'
-    elif measure == 'c_uci':
-        coh_label = 'c_uci'
-    elif measure == 'c_npmi':
-        coh_label = 'c_npmi'
-    elif measure == 'u_mass':
-        coh_label = 'u_mass'
+    # List of all possible coherence score names
+    coherence_labels = ['c_v', 'c_uci', 'c_npmi', 'u_mass']
+
+    # Set plot label
+    if measure in coherence_labels:
+        coh_label = measure
     else:
         coh_label = 'ERROR_LABEL'
 
+    # Plot graph
     x = range(start, limit + 1, step)
     plt.plot(x, scores, label=coh_label)
     plt.title(title + ' ' + coh_label + '\n')
     plt.xlabel("Number of topics")
     plt.ylabel("Coherence score")
-    # plt.legend(model, loc='upper right')
+    # Get current working directory and set output directory
     output_dir = os.getcwd() + '/Output_Files/'
     fig_title = title + '_' + coh_label + '_' + str(limit) + '.png'
     plt.savefig(output_dir + fig_title)

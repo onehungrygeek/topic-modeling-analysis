@@ -4,7 +4,8 @@ from pprint import pprint
 
 def print_optimal_topics(model_list, all_scores):
     """
-    This module selects a model for the list with maximum coherence score and prints the topics for that model.
+    This module selects a model from the list with maximum
+    coherence score and prints the topics for that model.
 
     Arguments:
         model_list {list} -- List of computed models

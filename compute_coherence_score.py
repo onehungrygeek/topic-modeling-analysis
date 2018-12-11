@@ -1,11 +1,16 @@
 # Library imports
 # warnings module to surpress all UserWarnings, DeprecationWarnings and RuntimeWarnings
 import warnings
-warnings.filterwarnings(action='ignore', category=UserWarning, module='gensim')
-warnings.filterwarnings(
-    action='ignore', category=DeprecationWarning, module='gensim')
-warnings.filterwarnings(action='ignore', category=DeprecationWarning)
-warnings.filterwarnings(action='ignore', category=RuntimeWarning)
+warnings.filterwarnings(action='ignore',
+                        category=UserWarning,
+                        module='gensim')
+warnings.filterwarnings(action='ignore',
+                        category=DeprecationWarning,
+                        module='gensim')
+warnings.filterwarnings(action='ignore',
+                        category=DeprecationWarning)
+warnings.filterwarnings(action='ignore',
+                        category=RuntimeWarning)
 from gensim.models import CoherenceModel
 
 

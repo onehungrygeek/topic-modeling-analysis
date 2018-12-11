@@ -2,9 +2,9 @@ import os
 import matplotlib.pyplot as plt
 
 
-def build_graph(model, scores, measure, file_name, limit, time_string, start=5, step=5):
+def build_graph(model_name, scores, measure, file_name, limit, time_string, start=5, step=5):
     """
-    This module builds graph for all the coherence scores.
+    This module plots all coherence scores on a graph.
 
     Arguments:
         model {str} -- Model name
@@ -28,9 +28,9 @@ def build_graph(model, scores, measure, file_name, limit, time_string, start=5, 
                       'LdaMallet', 'ldamallet',
                       'LSI', 'LDA', 'LDAMALLET']
     # Set plot title
-    if model in modelname_list:
-        print(model + ' Detected. Generating graph...\n')
-        title = dataset + '_' + model
+    if model_name in modelname_list:
+        print(model_name + ' Detected. Generating graph...\n')
+        title = dataset + '_' + model_name
     else:
         print('Invalid Model!')
         title = 'ERROR_Graph'

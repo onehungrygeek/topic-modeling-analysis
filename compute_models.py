@@ -1,11 +1,16 @@
 # Library imports
 # warnings module to surpress all UserWarnings, DeprecationWarnings and RuntimeWarnings
 import warnings
-warnings.filterwarnings(action='ignore', category=UserWarning, module='gensim')
-warnings.filterwarnings(
-    action='ignore', category=DeprecationWarning, module='gensim')
-warnings.filterwarnings(action='ignore', category=DeprecationWarning)
-warnings.filterwarnings(action='ignore', category=RuntimeWarning)
+warnings.filterwarnings(action='ignore',
+                        category=UserWarning,
+                        module='gensim')
+warnings.filterwarnings(action='ignore',
+                        category=DeprecationWarning,
+                        module='gensim')
+warnings.filterwarnings(action='ignore',
+                        category=DeprecationWarning)
+warnings.filterwarnings(action='ignore',
+                        category=RuntimeWarning)
 import os
 import gensim
 
@@ -24,7 +29,7 @@ def compute_model(model_name, corpus, id2word, num_topics=5):
     This module computes various topic models from the gensim library.
 
     Arguments:
-        model {str} -- Name of the model
+        model_name {str} -- Name of the model
         corpus {list} -- List of corpus created from preprocessed texts
         id2word {Dictionary} -- Dictionary of ids with mapped words
 

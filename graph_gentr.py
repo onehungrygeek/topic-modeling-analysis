@@ -89,7 +89,7 @@ Topic = ["Finance", "Education", "Quality", "Affordability", "HealthCare", "Prev
 
 
 cat = []
-for i in xrange(nodes):
+for i in range(nodes):
     cat.append(random.choice(Topic))
     
   

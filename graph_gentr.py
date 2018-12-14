@@ -6,7 +6,6 @@ import random
 import json
 import time
 from pprint import pprint
-from networkx import geometric
 
 
 

@@ -178,4 +178,4 @@ fig = go.Figure(data=[edge_trace, node_trace],
 
 
 
-py.plot(fig, filename='networkx12')
+py.plot(fig, filename='networkx14')

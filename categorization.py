@@ -46,8 +46,8 @@ def calculate_overlapping(keywords, data):
         
 #         for idx, file in enumerate(files):
 #             print(idx, file)
-        
-        file_num = 10 #input('Enter file number for analysis:\t')
+        # print(files[5])
+        file_num = 5 #input('Enter file number for analysis:\t')
         
         time_string =  ""#time.strftime("%m-%d-%Y_%H-%M-%S")
                 

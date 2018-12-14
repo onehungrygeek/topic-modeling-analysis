@@ -1,4 +1,5 @@
 # Library imports
+<<<<<<< HEAD
 
 import sys
 
@@ -15,9 +16,24 @@ warnings.filterwarnings(action='ignore', category=UserWarning, module='gensim')
 warnings.filterwarnings(action='ignore', category=DeprecationWarning, module='gensim')
 warnings.filterwarnings(action='ignore', category=DeprecationWarning)
 warnings.filterwarnings(action='ignore', category=RuntimeWarning)
+=======
+# warnings module to surpress all UserWarnings, DeprecationWarnings and RuntimeWarnings
+import warnings
+warnings.filterwarnings(action='ignore',
+                        category=UserWarning,
+                        module='gensim')
+warnings.filterwarnings(action='ignore',
+                        category=DeprecationWarning,
+                        module='gensim')
+warnings.filterwarnings(action='ignore',
+                        category=DeprecationWarning)
+warnings.filterwarnings(action='ignore',
+                        category=RuntimeWarning)
+import os
+>>>>>>> f9f22f1479d4515571d8dfd0220f9ae64f5fd61d
 import time
-import pandas as pd
 import numpy as np
+import pandas as pd
 import gensim.corpora as corpora
 from subprocess import Popen as notifyThis
 from pprint import pprint
@@ -33,72 +49,140 @@ from build_graphs import build_graph
 from compute_sentence_wise_topics import compute_sentence_wise_topics
 
 
-def run_topic_model():
+def analyze_topic_models():
+    """
+    Topic Modeling Module
+
+    Arguments:
+        None
+
+    Returns:
+        None
+    """
+
+    # Get current timestamp to add it to all the output file names
     time_string = time.strftime("%m-%d-%Y_%H-%M-%S")
 
-    # Notification system for Ubuntu 18.04
     def notifier(icon, title, message=''):
+        """
+        My custom notification system for Ubuntu 18.04
+        * Ignore this if you have any other system than Ubuntu 18.04 *
+
+        Arguments:
+            icon {str} -- Icon file name saved in notify-icons directory (without .png extension)
+            title {str} -- Title for the notification
+
+        Keyword Arguments:
+            message {str} -- Message body for the notification (default: {''})
+        """
         try:
-            notifyThis(
-                ['notify-send',
-                 '--icon=/home/akshay/Rest/Practice/topic-model-temp/notify-icons/' + icon + '.png',
-                 title,
-                 message])
+            current_dir = os.getcwd()
+            notifyThis(['notify-send',
+                        '--icon=' + current_dir + '/notify-icons/' + icon + '.png',
+                        title,
+                        message])
         except:
             pass
 
-    notifier('analysis', 'Starting topic model analysis...',
-             'Please enter input text file name in console.')
-    # Preprocess input text file
+    # Notification: Topic modeling started
+    notifier(icon='analysis',
+             title='Starting topic model analysis...',
+             message='Please enter input text file name in console.')
+
+    # Receive input for file name
     file_name = input('Enter text file name for analysis:\t')
+    # Preprocess the input text file
     data_lemmatized = process_texts(file_name)
+    # Compute id2word dictionary from gensim's corpora module
     id2word = corpora.Dictionary(data_lemmatized)
+    # Create copy of data_lemmatized so that we can keep the original
     texts = data_lemmatized
+    # To develop all models, create a corpus by converting documents from texts to bag of words
     corpus = [id2word.doc2bow(text) for text in texts]
 
-    notifier('preprocess', 'Text preprocessing complete!')
+    # Notification: Preprocessing complete
+    notifier(icon='preprocess',
+             title='Text preprocessing complete!')
 
-    num_topics = 5
     # Develop all models and respective topics
-    lsimodel, lsitopics = compute_model(
-        'lsimodel', corpus, id2word, num_topics=num_topics)
+    # Declare how many topics do you want the models to compute
+    # Note: HDP does not require num_topics because it computes all possible number of topics in given input
+    num_topics = 5
+    # LSI Model and Topics
+    lsimodel, lsitopics = compute_model(model_name='lsi',
+                                        corpus=corpus,
+                                        id2word=id2word,
+                                        num_topics=num_topics)
     print('\nLSI Topics\n')
     pprint(lsitopics)
 
-    hdpmodel, hdptopics = compute_model(
-        'hdpmodel', corpus, id2word, num_topics=num_topics)
+    # HDP Model and Topics
+    hdpmodel, hdptopics = compute_model(model_name='hdp',
+                                        corpus=corpus,
+                                        id2word=id2word,
+                                        num_topics=num_topics)
     print('\nHDP Topics\n')
     pprint(hdptopics)
 
-    ldamodel, ldatopics = compute_model(
-        'ldamodel', corpus, id2word, num_topics=num_topics)
+    # LDA Model and Topics
+    ldamodel, ldatopics = compute_model(model_name='lda',
+                                        corpus=corpus,
+                                        id2word=id2word,
+                                        num_topics=num_topics)
     print('\nLDA Topics\n')
     pprint(ldatopics)
 
-    ldamallet, ldamallettopics = compute_model(
-        'ldamallet', corpus, id2word, num_topics=num_topics)
+    # LDAMallet Model and Topics
+    ldamallet, ldamallettopics = compute_model(model_name='ldamallet',
+                                               corpus=corpus,
+                                               id2word=id2word,
+                                               num_topics=num_topics)
     print('\nLDA MALLET Topics\n')
     pprint(ldamallettopics)
 
-    # Visualize LDA model and save as .html file
-    visualize(ldamodel, corpus, id2word, time_string)
+    # Visualize LDA model and save as .html file to Output_Files directory
+    # Note: Only LDA model can be visualized using pyLDAvis library.
+    visualize(model=ldamodel,
+              corpus=corpus,
+              id2word=id2word,
+              time_string=time_string)
 
-    notifier('models', 'All models developed successfully!', 'LDA visualization HTML for ' +
-             str(num_topics) + ' topics saved to Output_Files directory.')
+    # Notification: Models developed
+    notifier(icon='models',
+             title='All models developed successfully!',
+             message='LDA visualization HTML for ' + str(num_topics) + ' topics saved to Output_Files directory.')
 
-    # Compute coherence for above developed models
-    lsi_coherence, lsi_score = compute_coherence(
-        lsimodel, data_lemmatized, id2word, 'c_v')
-    hdp_coherence, hdp_score = compute_coherence(
-        hdpmodel, data_lemmatized, id2word, 'c_v')
-    lda_coherence, lda_score = compute_coherence(
-        ldamodel, data_lemmatized, id2word, 'c_v')
-    ldamallet_coherence, ldamallet_score = compute_coherence(
-        ldamallet, data_lemmatized, id2word, 'c_v')
+    # Compute coherence score for above developed models
+    # LSI Coherence Score
+    lsi_score = compute_coherence(model=lsimodel,
+                                  texts=data_lemmatized,
+                                  dictionary=id2word,
+                                  measure='c_v')
 
-    notifier('scores', 'Coherence scores determined!',
-             'Check console for model coherence scores.')
+    # HDP Coherence Score (Irrelevant)
+    hdp_score = compute_coherence(model=hdpmodel,
+                                  texts=data_lemmatized,
+                                  dictionary=id2word,
+                                  measure='c_v')
 
+    # LDA Coherence Score
+    lda_score = compute_coherence(model=ldamodel,
+                                  texts=data_lemmatized,
+                                  dictionary=id2word,
+                                  measure='c_v')
+
+    # LDAMallet Coherence Score
+    ldamallet_score = compute_coherence(model=ldamallet,
+                                        texts=data_lemmatized,
+                                        dictionary=id2word,
+                                        measure='c_v')
+
+    # Notification: Computed coherence scores
+    notifier(icon='scores',
+             title='Coherence scores determined!',
+             message='Check console for model coherence scores.')
+
+    # Print computed coherence scores
     print('\nLSI Coherence Score:', lsi_score)
     print('\nHDP Coherence Score:', hdp_score)
     print('\nLDA Coherence Score:', lda_score)
@@ -107,82 +191,110 @@ def run_topic_model():
     print()
 
     # Run analysis to find coherence scores for different models with increasing num of topics
+    # Note: Cannot run this analysis for HDP because it does not accept num_topics parameter
     max_topics = 50
 
-    notifier('scores', 'Analyzing various coherence scores for upto ' + str(max_topics) +
-             ' topics...', 'Sit back and relax as this analysis may take several minutes to complete.')
+    # Notification: Coherence score analysis started
+    notifier(icon='scores',
+             title='Analyzing various coherence scores for upto ' + str(max_topics) +
+             ' topics...',
+             message='Sit back and relax as this analysis may take several minutes to complete.')
 
-    lsi_list, lsi_all_scores = compute_all_scores(modelname='lsimodel',
+    # Optimal LSI Topics
+    print('\nOptimal LSI Topics\n')
+    lsi_list, lsi_all_scores = compute_all_scores(model_name='lsimodel',
                                                   corpus=corpus,
                                                   id2word=id2word,
                                                   texts=data_lemmatized,
                                                   measure='c_v',
-                                                  limit=max_topics)
-    print('\nOptimal LSI Topics\n')
+                                                  max_topics=max_topics)
     print_optimal_topics(model_list=lsi_list,
                          all_scores=lsi_all_scores)
 
-    lda_list, lda_all_scores = compute_all_scores(modelname='ldamodel',
+    # Optimal LDA Topics
+    print('\nOptimal LDA Topics\n')
+    lda_list, lda_all_scores = compute_all_scores(model_name='ldamodel',
                                                   corpus=corpus,
                                                   id2word=id2word,
                                                   texts=data_lemmatized,
                                                   measure='c_v',
-                                                  limit=max_topics)
-    print('\nOptimal LDA Topics\n')
+                                                  max_topics=max_topics)
     print_optimal_topics(model_list=lda_list,
                          all_scores=lda_all_scores)
 
-    ldamallet_list, ldamallet_all_scores = compute_all_scores(modelname='ldamallet',
+    # Optimal LDAMallet Topics
+    print('\nOptimal LDA MALLET Topics\n')
+    ldamallet_list, ldamallet_all_scores = compute_all_scores(model_name='ldamallet',
                                                               corpus=corpus,
                                                               id2word=id2word,
                                                               texts=data_lemmatized,
                                                               measure='c_v',
-                                                              limit=max_topics)
-    print('\nOptimal LDA MALLET Topics\n')
+                                                              max_topics=max_topics)
     print_optimal_topics(model_list=ldamallet_list,
                          all_scores=ldamallet_all_scores)
 
     print()
 
-    notifier('scores', 'Coherence score analysis complete!',
-             'Check console to find optimal model topics.')
+    # Notification: Coherence score analysis complete
+    notifier(icon='scores',
+             title='Coherence score analysis complete!',
+             message='Check console to find optimal model topics.')
 
-    # Build graphs using above calculated coherence scores
-    build_graph(model='lsimodel',
+    # Build plots using above calculated coherence scores
+    # LSI Graph
+    build_graph(model_name='LSI',
                 scores=lsi_all_scores,
                 measure='c_v',
                 file_name=file_name,
                 limit=max_topics,
                 time_string=time_string)
 
-    build_graph(model='ldamodel',
+    # LDA Graph
+    build_graph(model_name='LDA',
                 scores=lda_all_scores,
                 measure='c_v',
                 file_name=file_name,
                 limit=max_topics,
                 time_string=time_string)
 
-    build_graph(model='ldamallet',
+    # LDAMallet Graph
+    build_graph(model_name='LDAMALLET',
                 scores=ldamallet_all_scores,
                 measure='c_v',
                 file_name=file_name,
                 limit=max_topics,
                 time_string=time_string)
 
-    notifier('graphs', 'Graphs built successfully!',
-             'Check Output_Files directory for saved graphs.')
+    # Notification: Graphs built
+    notifier(icon='graphs',
+             title='Graphs built successfully!',
+             message='Check Output_Files directory for saved graphs.')
 
-    # Place senteces from input file to their respective topics and save to .csv file
-    df_lda_sentence_wise_topics, dominant_sentence_in_topics_lda = compute_sentence_wise_topics(
-        modelname='LDA', model=ldamodel, corpus=corpus, file_name=file_name, time_string=time_string)
-    df_lsi_sentence_wise_topics, dominant_sentence_in_topics_lsi = compute_sentence_wise_topics(
-        modelname='LSI', model=lsimodel, corpus=corpus, file_name=file_name, time_string=time_string)
-    df_ldamallet_sentence_wise_topics, dominant_sentence_in_topics_ldamdallet = compute_sentence_wise_topics(
-        modelname='LDAMallet', model=ldamallet, corpus=corpus, file_name=file_name, time_string=time_string)
+    # Correspond input sentences to their dominant topics and save outputs as .csv files
+    # LSI
+    compute_sentence_wise_topics(model_name='LSI',
+                                 model=lsimodel,
+                                 corpus=corpus,
+                                 file_name=file_name,
+                                 time_string=time_string)
+    # LDA
+    compute_sentence_wise_topics(model_name='LDA',
+                                 model=ldamodel,
+                                 corpus=corpus,
+                                 file_name=file_name,
+                                 time_string=time_string)
+    # LDAMallet
+    compute_sentence_wise_topics(model_name='LDAMallet',
+                                 model=ldamallet,
+                                 corpus=corpus,
+                                 file_name=file_name,
+                                 time_string=time_string)
 
-    notifier('complete', 'Topic model analysis complete!',
-             'Check Output_Files directory for saved csv files.')
+    # Notification: Topic modeling ended
+    notifier(icon='complete',
+             title='Topic model analysis complete!',
+             message='Check Output_Files directory for saved csv files.')
 
 
 if __name__ == '__main__':
-    run_topic_model()
+    analyze_topic_models()

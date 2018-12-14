@@ -63,7 +63,7 @@ G.add_nodes_from(list(range(nodes)))
 # for i in xrange(1, nodes-1):
 #     G.add_edge(i, i+1)
 # 
-G.add_edges_from( [(1,2) , (3, 4)]) 
+G.add_edges_from( [(1,5) , (2, 4)]) 
 
 # 
 edge_trace = go.Scatter(

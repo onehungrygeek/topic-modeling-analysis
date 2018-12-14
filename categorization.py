@@ -14,6 +14,8 @@ import sys
 import pandas
 
 
+CATEGORY_SIZE = 200
+
 def readlabels():
     """ read descriptive files for labels ad keywords
     """
@@ -42,8 +44,8 @@ def calculate_overlapping(keywords, data):
         files = os.listdir(path)
         files = [file for file in files if file.endswith(".csv")]
         
-        for idx, file in enumerate(files):
-            print(idx, file)
+#         for idx, file in enumerate(files):
+#             print(idx, file)
         
         file_num = 10 #input('Enter file number for analysis:\t')
         
@@ -55,6 +57,9 @@ def calculate_overlapping(keywords, data):
         csvwriter.writerow(["Keywords"] + categories + ["Category"])
         
         df = pandas.read_csv(os.path.join(os.getcwd(), "Output_Files",files[int(file_num)]))
+        
+        dominator = {}
+        
         
         for index, row in df.iterrows():
             keywords = row['Keywords_In_Dominant_Topic'].replace(" ", "").split(",")
@@ -71,6 +76,17 @@ def calculate_overlapping(keywords, data):
                 row.append(overlap_count_percent)
             
             row.append(max_category)
+            
+            if index % CATEGORY_SIZE == 0 and index != 0 :
+               
+                freq = ""
+                for category in categories:
+                    freq +=  category + ":" + str(dominator.get(category, 0)) + ", "
+                print(freq)
+                dominator = {}    
+            else:
+                dominator[max_category] = dominator.get(max_category, 0) + 1
+                
             csvwriter.writerow(row)
             
         
@@ -78,7 +94,7 @@ def calculate_overlapping(keywords, data):
 #         
         print("file name : " , os.path.join(os.getcwd(), "Output_Files",files[int(file_num)]))
         print("out name : " , os.path.join(os.getcwd(), "Output_Files","category.csv"))
-        print(sys.version)
+       
         
         
 
@@ -89,9 +105,6 @@ def main(keywords = None):
     calculate_overlapping(keywords, data)
     
     
-    
-
-
 if __name__ == "__main__":
     main()
     

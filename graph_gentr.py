@@ -6,7 +6,6 @@ import random
 import json
 import time
 from pprint import pprint
-from networkx import geometric
 
 
 
@@ -90,7 +89,7 @@ Topic = ["Finance", "Education", "Quality", "Affordability", "HealthCare", "Prev
 
 
 cat = []
-for i in xrange(nodes):
+for i in range(nodes):
     cat.append(random.choice(Topic))
     
   

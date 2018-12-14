@@ -1,3 +1,4 @@
 *.pyc
 out.txt
 .vscode/
+*.swp

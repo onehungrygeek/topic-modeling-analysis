@@ -3,3 +3,4 @@ out.txt
 .vscode/
 *.swp
 __pycache__/
+Experiment/

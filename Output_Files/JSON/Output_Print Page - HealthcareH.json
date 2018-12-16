@@ -1,0 +1,2144 @@
+[
+    {
+        "index": 0,
+        "timeCode": "April 03, 2013, 09:23:30 AM",
+        "reply": -1,
+        "user": "2hj61",
+        "content": "Our health care system must provide coverage to all people. It currently lacks the ability to do so.",
+        "dominant_topic": "Healthcare",
+        "keywords": "people, health, care, afford, drug, medicine, issue, type, place, mental",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 1,
+        "timeCode": "April 03, 2013, 09:25:37 AM",
+        "reply": -1,
+        "user": "2hj61",
+        "content": "The health care system must be affordable to all its users.",
+        "dominant_topic": "Healthcare",
+        "keywords": "people, health, care, afford, drug, medicine, issue, type, place, mental",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 2,
+        "timeCode": "April 03, 2013, 09:34:03 AM",
+        "reply": -1,
+        "user": "2hj61",
+        "content": "Emergency rooms should have the ability to attend all of its patients in a fast and productive way. It has been from experience that I have seen people wait hours before they are attended.",
+        "dominant_topic": "Financing",
+        "keywords": "insurance, pay, money, work, free, company, service, high, family, price",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 3,
+        "timeCode": "April 03, 2013, 09:42:07 AM",
+        "reply": 1,
+        "user": "2hj61",
+        "content": "A possible way to make insurance more affordable is by having regulation over private insurance companies. Prices and coverage should be fair and regulated. This way it can prevent companies putting profits before their people.",
+        "dominant_topic": "Financing",
+        "keywords": "insurance, pay, money, work, free, company, service, high, family, price",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 4,
+        "timeCode": "April 03, 2013, 09:45:42 AM",
+        "reply": -1,
+        "user": "2hj61",
+        "content": "Health insurance to our elderly should be guaranteed.",
+        "dominant_topic": "Financing",
+        "keywords": "insurance, pay, money, work, free, company, service, high, family, price",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 5,
+        "timeCode": "April 03, 2013, 09:50:55 AM",
+        "reply": 4,
+        "user": "2hj61",
+        "content": "Their has been many cases where elderly have been miss treated our abused by their care keepers or even relatives. The people taking care of the elderly should be completely trained. Not only that, but the elderly should have an easy way of reporting these kinds of abuses.\u00a0",
+        "dominant_topic": "Healthcare",
+        "keywords": "healthcare, system, cost, government, education, provide, problem, good, person, medication",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 6,
+        "timeCode": "April 03, 2013, 10:26:14 AM",
+        "reply": -1,
+        "user": "8hj62",
+        "content": "Emergency room visit it took 3 hours before being seen. They need to have faster service. It is called an emergency room for a reason.",
+        "dominant_topic": "Financing",
+        "keywords": "insurance, pay, money, work, free, company, service, high, family, price",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 7,
+        "timeCode": "April 03, 2013, 10:28:29 AM",
+        "reply": -1,
+        "user": "8hj62",
+        "content": "Technology needs to be updated as quickly as possible it also needs to be ready at hand. Maybe each nurse can have a handheld device with the the notes instead of a chart that can be misplaced.",
+        "dominant_topic": "Healthcare",
+        "keywords": "people, health, care, afford, drug, medicine, issue, type, place, mental",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 8,
+        "timeCode": "April 03, 2013, 10:30:34 AM",
+        "reply": -1,
+        "user": "8hj62",
+        "content": "high schools should have like a life prep class about the things you encounter including life insurance. Kids come out of high school not knowing how to handle these situations",
+        "dominant_topic": "Healthcare",
+        "keywords": "people, health, care, afford, drug, medicine, issue, type, place, mental",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 9,
+        "timeCode": "April 03, 2013, 10:34:24 AM",
+        "reply": -1,
+        "user": "8hj62",
+        "content": "Certain labs and tests are too expensive for some people there need to be fairly equivalent alternatives for those who can't afford those labs and tests",
+        "dominant_topic": "Healthcare",
+        "keywords": "people, health, care, afford, drug, medicine, issue, type, place, mental",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 10,
+        "timeCode": "April 03, 2013, 10:37:54 AM",
+        "reply": -1,
+        "user": "8hj62",
+        "content": "I think long-term care such as nursing homes for the elderly is a good thing is most cases. As long as the health care providers take caution and know how to care for them. Being in a social environment is a good thing for those people in them.",
+        "dominant_topic": "Healthcare",
+        "keywords": "doctor, patient, hospital, school, make, medical, nurse, student, technology, emergency_room",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 11,
+        "timeCode": "April 03, 2013, 10:39:02 AM",
+        "reply": -1,
+        "user": "8hj62",
+        "content": "Doctors should advise you which daily vitamins you should be taking to go along with the preventive care",
+        "dominant_topic": "Healthcare",
+        "keywords": "healthcare, system, cost, government, education, provide, problem, good, person, medication",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 12,
+        "timeCode": "April 03, 2013, 10:43:27 AM",
+        "reply": -1,
+        "user": "8hj62",
+        "content": "In the emergency room there are too many people that come in and ask the same initial questions over and over when they could have spent less time asking those multiple times and looked at your chart or handheld device that could be updated efficiently it would take less time",
+        "dominant_topic": "Financing",
+        "keywords": "insurance, pay, money, work, free, company, service, high, family, price",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 13,
+        "timeCode": "April 03, 2013, 10:47:32 AM",
+        "reply": -1,
+        "user": "8hj62",
+        "content": "The front desk staff could communicate for effectively with the patients on wait times and things like that so that they wouldn't get so frustrated with how long they have been sitting there. Maybe keep a screen with the waiting line if there is a more important case then it jumps. Have certain colors that identify which is more serious and needs attention sooner rather than later. I think the main issue about waiting is people want to be in the know about what is going on",
+        "dominant_topic": "Healthcare",
+        "keywords": "people, health, care, afford, drug, medicine, issue, type, place, mental",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 14,
+        "timeCode": "April 03, 2013, 10:50:15 AM",
+        "reply": -1,
+        "user": "8hj62",
+        "content": "Hospitals or late night clinics should have a pharmacy that is accessible to the patients so you can get the medicine while you are there for the visit and not have to go the pharmacy after waiting, getting examined, and then waiting to be released.",
+        "dominant_topic": "Healthcare",
+        "keywords": "healthcare, system, cost, government, education, provide, problem, good, person, medication",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 15,
+        "timeCode": "April 03, 2013, 10:55:03 AM",
+        "reply": -1,
+        "user": "8hj62",
+        "content": "Maybe doctors that have a private practice should be required to spend one night a month in a hospital if we are short on doctors",
+        "dominant_topic": "Healthcare",
+        "keywords": "people, health, care, afford, drug, medicine, issue, type, place, mental",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 16,
+        "timeCode": "April 03, 2013, 11:30:42 AM",
+        "reply": -1,
+        "user": "96h63",
+        "content": "There should be better payment plans in place to encourage people to pay their medical bills.",
+        "dominant_topic": "Healthcare",
+        "keywords": "people, health, care, afford, drug, medicine, issue, type, place, mental",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 17,
+        "timeCode": "April 03, 2013, 11:31:09 AM",
+        "reply": -1,
+        "user": "96h63",
+        "content": "Before being allowed on Medicare or Medicaid, a class on the healthcare system should be required",
+        "dominant_topic": "Healthcare",
+        "keywords": "healthcare, system, cost, government, education, provide, problem, good, person, medication",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 18,
+        "timeCode": "April 03, 2013, 11:33:28 AM",
+        "reply": -1,
+        "user": "96h63",
+        "content": "This should be an option towards their accreditation and license approval",
+        "dominant_topic": "Healthcare",
+        "keywords": "doctor, patient, hospital, school, make, medical, nurse, student, technology, emergency_room",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 19,
+        "timeCode": "April 03, 2013, 11:33:49 AM",
+        "reply": -1,
+        "user": "96h63",
+        "content": "There should be more volunteer opportunities and internship.",
+        "dominant_topic": "Healthcare",
+        "keywords": "healthcare, system, cost, government, education, provide, problem, good, person, medication",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 20,
+        "timeCode": "April 03, 2013, 11:34:54 AM",
+        "reply": -1,
+        "user": "96h63",
+        "content": "Insurance companies should work with individuals better on knowing what their plans provide",
+        "dominant_topic": "Healthcare",
+        "keywords": "healthcare, system, cost, government, education, provide, problem, good, person, medication",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 21,
+        "timeCode": "April 03, 2013, 11:35:46 AM",
+        "reply": -1,
+        "user": "96h63",
+        "content": "Urgent care facilities should not have a general starting visit rate above $100",
+        "dominant_topic": "Healthcare",
+        "keywords": "make, time, healthy, thing, agree, food, child, lot, cheap, live",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 22,
+        "timeCode": "April 03, 2013, 11:36:20 AM",
+        "reply": -1,
+        "user": "96h63",
+        "content": "Medical education should be more affordable for all ages.",
+        "dominant_topic": "Financing",
+        "keywords": "insurance, pay, money, work, free, company, service, high, family, price",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 23,
+        "timeCode": "April 03, 2013, 11:37:46 AM",
+        "reply": -1,
+        "user": "96h63",
+        "content": "There shouldn't be such a difference in earned income between hospital physicians and private practice physicians",
+        "dominant_topic": "Healthcare",
+        "keywords": "people, health, care, afford, drug, medicine, issue, type, place, mental",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 24,
+        "timeCode": "April 03, 2013, 11:38:26 AM",
+        "reply": -1,
+        "user": "96h63",
+        "content": "Maybe better access to health care for those who don't have or can't afford medical insurance",
+        "dominant_topic": "Healthcare",
+        "keywords": "people, health, care, afford, drug, medicine, issue, type, place, mental",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 25,
+        "timeCode": "April 03, 2013, 11:38:59 AM",
+        "reply": -1,
+        "user": "96h63",
+        "content": "Insurance companies should require a health care class and not just a yearly physical",
+        "dominant_topic": "Healthcare",
+        "keywords": "people, health, care, afford, drug, medicine, issue, type, place, mental",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 26,
+        "timeCode": "April 03, 2013, 11:39:39 AM",
+        "reply": -1,
+        "user": "96h63",
+        "content": "If Medicaid or Medicare is going to be denied to someone, other options should be suggested or offered",
+        "dominant_topic": "Healthcare",
+        "keywords": "healthcare, system, cost, government, education, provide, problem, good, person, medication",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 27,
+        "timeCode": "April 03, 2013, 11:40:08 AM",
+        "reply": -1,
+        "user": "96h63",
+        "content": "There should be a development of better health care programs for low to middle income families",
+        "dominant_topic": "Healthcare",
+        "keywords": "make, time, healthy, thing, agree, food, child, lot, cheap, live",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 28,
+        "timeCode": "April 03, 2013, 11:41:19 AM",
+        "reply": -1,
+        "user": "96h63",
+        "content": "People with higher education should have better consideration for health care than denial off their income.",
+        "dominant_topic": "Healthcare",
+        "keywords": "doctor, patient, hospital, school, make, medical, nurse, student, technology, emergency_room",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 29,
+        "timeCode": "April 03, 2013, 11:42:21 AM",
+        "reply": 2,
+        "user": "96h63",
+        "content": "There should be two groups of nurses on staff, one for life threatening and another for minor injuries",
+        "dominant_topic": "Financing",
+        "keywords": "insurance, pay, money, work, free, company, service, high, family, price",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 30,
+        "timeCode": "April 03, 2013, 11:43:07 AM",
+        "reply": 4,
+        "user": "96h63",
+        "content": "And should not be limited to an exam or treatment but their prescriptions as well",
+        "dominant_topic": "Healthcare",
+        "keywords": "healthcare, system, cost, government, education, provide, problem, good, person, medication",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 31,
+        "timeCode": "April 03, 2013, 11:45:08 AM",
+        "reply": 7,
+        "user": "96h63",
+        "content": "There needs to be better budgets in place and money raising ideas for funding of the technology, rather than denial because funding for technology is not available.",
+        "dominant_topic": "Healthcare",
+        "keywords": "people, health, care, afford, drug, medicine, issue, type, place, mental",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 32,
+        "timeCode": "April 03, 2013, 11:46:21 AM",
+        "reply": -1,
+        "user": "96h63",
+        "content": "Would have to be HIPPA approved to avoid leaking personal information",
+        "dominant_topic": "Financing",
+        "keywords": "insurance, pay, money, work, free, company, service, high, family, price",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 33,
+        "timeCode": "April 03, 2013, 11:48:32 AM",
+        "reply": -1,
+        "user": "96h63",
+        "content": "Pharmacies should notify the patient before using an alternative to their prescription. ie using a generic instead of the original",
+        "dominant_topic": "Healthcare",
+        "keywords": "healthcare, system, cost, government, education, provide, problem, good, person, medication",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 34,
+        "timeCode": "April 03, 2013, 11:48:52 AM",
+        "reply": -1,
+        "user": "96h63",
+        "content": "There should be better follow up care instructions and guidelines",
+        "dominant_topic": "Financing",
+        "keywords": "insurance, pay, money, work, free, company, service, high, family, price",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 35,
+        "timeCode": "April 03, 2013, 11:49:56 AM",
+        "reply": -1,
+        "user": "96h63",
+        "content": "long term care facilities should be better accommodated to feel like a home and not a temporary hospital",
+        "dominant_topic": "Healthcare",
+        "keywords": "healthcare, system, cost, government, education, provide, problem, good, person, medication",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 36,
+        "timeCode": "April 03, 2013, 11:50:39 AM",
+        "reply": -1,
+        "user": "96h63",
+        "content": "Hospitals should have more health care information days.",
+        "dominant_topic": "Healthcare",
+        "keywords": "people, health, care, afford, drug, medicine, issue, type, place, mental",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 37,
+        "timeCode": "April 03, 2013, 11:51:28 AM",
+        "reply": -1,
+        "user": "96h63",
+        "content": "Hospitals should be required by a federal law program to have up to date check in, check out, and on going care technology.",
+        "dominant_topic": "Healthcare",
+        "keywords": "make, time, healthy, thing, agree, food, child, lot, cheap, live",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 38,
+        "timeCode": "April 03, 2013, 11:52:04 AM",
+        "reply": -1,
+        "user": "96h63",
+        "content": "There should be better identification programs in place there is the ability to differentiate between adult twin medical records.",
+        "dominant_topic": "Healthcare",
+        "keywords": "healthcare, system, cost, government, education, provide, problem, good, person, medication",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 39,
+        "timeCode": "April 03, 2013, 11:52:24 AM",
+        "reply": -1,
+        "user": "96h63",
+        "content": "people should have better access to their own medical records.",
+        "dominant_topic": "Healthcare",
+        "keywords": "healthcare, system, cost, government, education, provide, problem, good, person, medication",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 40,
+        "timeCode": "April 03, 2013, 11:53:04 AM",
+        "reply": -1,
+        "user": "96h63",
+        "content": "Health care providers should be more open minded to patients questions and more prepared to answer.",
+        "dominant_topic": "Healthcare",
+        "keywords": "people, health, care, afford, drug, medicine, issue, type, place, mental",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 41,
+        "timeCode": "April 03, 2013, 11:54:57 AM",
+        "reply": 6,
+        "user": "96h63",
+        "content": "This would mean there is better rotation programs and more understanding of human ability. A nurse who has 5 patients or more at once is only one person trying to assist one doctor who may be seeing 15 patients at that time.",
+        "dominant_topic": "Healthcare",
+        "keywords": "people, health, care, afford, drug, medicine, issue, type, place, mental",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 42,
+        "timeCode": "April 03, 2013, 11:55:25 AM",
+        "reply": -1,
+        "user": "96h63",
+        "content": "Education programs should more state linked than diverse from state to state.",
+        "dominant_topic": "Healthcare",
+        "keywords": "make, time, healthy, thing, agree, food, child, lot, cheap, live",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 43,
+        "timeCode": "April 03, 2013, 11:57:28 AM",
+        "reply": 8,
+        "user": "96h63",
+        "content": "This is a class that should teach about all aspects of the healthcare system. From insurance, to not qualifying for insurance and other options, preventative care for long term, health care programs to help for any situation",
+        "dominant_topic": "Healthcare",
+        "keywords": "make, time, healthy, thing, agree, food, child, lot, cheap, live",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 44,
+        "timeCode": "April 03, 2013, 11:59:20 AM",
+        "reply": -1,
+        "user": "96h63",
+        "content": "there should be less restriction on income requirements for state provided healthcare",
+        "dominant_topic": "Healthcare",
+        "keywords": "make, time, healthy, thing, agree, food, child, lot, cheap, live",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 45,
+        "timeCode": "April 03, 2013, 12:00:07 PM",
+        "reply": -1,
+        "user": "96h63",
+        "content": "A universal health care system should be on back up so when a person checks into a hospital while on vacation, there isn't a stack of paperwork to fill out every time.",
+        "dominant_topic": "Healthcare",
+        "keywords": "healthcare, system, cost, government, education, provide, problem, good, person, medication",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 46,
+        "timeCode": "April 03, 2013, 12:00:42 PM",
+        "reply": 38,
+        "user": "96h63",
+        "content": "the same is for people with the same names",
+        "dominant_topic": "Healthcare",
+        "keywords": "healthcare, system, cost, government, education, provide, problem, good, person, medication",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 47,
+        "timeCode": "April 03, 2013, 12:24:33 PM",
+        "reply": 4,
+        "user": "67h64",
+        "content": "It must also be affordable to our elders",
+        "dominant_topic": "Healthcare",
+        "keywords": "people, health, care, afford, drug, medicine, issue, type, place, mental",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 48,
+        "timeCode": "April 03, 2013, 12:26:03 PM",
+        "reply": -1,
+        "user": "67h64",
+        "content": "There should be more doctors and nurses on duty so the ER functions quicker",
+        "dominant_topic": "Healthcare",
+        "keywords": "people, health, care, afford, drug, medicine, issue, type, place, mental",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 49,
+        "timeCode": "April 03, 2013, 12:26:33 PM",
+        "reply": -1,
+        "user": "67h64",
+        "content": "Make more generic brands for medications that are too expensive",
+        "dominant_topic": "Healthcare",
+        "keywords": "make, time, healthy, thing, agree, food, child, lot, cheap, live",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 50,
+        "timeCode": "April 03, 2013, 12:36:03 PM",
+        "reply": -1,
+        "user": "67h64",
+        "content": "Medical schools should offer more scholarships. Most students don't further their career in the medical field due to the fact that it costs too much money",
+        "dominant_topic": "Healthcare",
+        "keywords": "healthcare, system, cost, government, education, provide, problem, good, person, medication",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 51,
+        "timeCode": "April 03, 2013, 12:45:38 PM",
+        "reply": -1,
+        "user": "67h64",
+        "content": "Doctors should spend a little more time and advise their patients on preventative care",
+        "dominant_topic": "Healthcare",
+        "keywords": "doctor, patient, hospital, school, make, medical, nurse, student, technology, emergency_room",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 52,
+        "timeCode": "April 03, 2013, 01:25:24 PM",
+        "reply": -1,
+        "user": "52h65",
+        "content": "price gouging has become a problem with healthcare",
+        "dominant_topic": "Healthcare",
+        "keywords": "doctor, patient, hospital, school, make, medical, nurse, student, technology, emergency_room",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 53,
+        "timeCode": "April 03, 2013, 01:26:16 PM",
+        "reply": -1,
+        "user": "52h65",
+        "content": "doctors only care about the money and not the patients",
+        "dominant_topic": "Healthcare",
+        "keywords": "make, time, healthy, thing, agree, food, child, lot, cheap, live",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 54,
+        "timeCode": "April 03, 2013, 01:26:52 PM",
+        "reply": -1,
+        "user": "52h65",
+        "content": "medications are too expensive",
+        "dominant_topic": "Healthcare",
+        "keywords": "healthcare, system, cost, government, education, provide, problem, good, person, medication",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 55,
+        "timeCode": "April 03, 2013, 01:31:59 PM",
+        "reply": 26,
+        "user": "52h65",
+        "content": "I agree everyone is not fortunate enough to buy their own insurance",
+        "dominant_topic": "Healthcare",
+        "keywords": "people, health, care, afford, drug, medicine, issue, type, place, mental",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 56,
+        "timeCode": "April 03, 2013, 01:39:32 PM",
+        "reply": -1,
+        "user": "52h65",
+        "content": "everyone gets sick the same and\u00a0 bleed the same therefore healthcare should be affordable for everyone not just the people who can afford it at the time",
+        "dominant_topic": "Healthcare",
+        "keywords": "healthcare, system, cost, government, education, provide, problem, good, person, medication",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 57,
+        "timeCode": "April 03, 2013, 01:43:59 PM",
+        "reply": -1,
+        "user": "52h65",
+        "content": "more research needs to happen before\u00a0 the healthcare system can change",
+        "dominant_topic": "Healthcare",
+        "keywords": "healthcare, system, cost, government, education, provide, problem, good, person, medication",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 58,
+        "timeCode": "April 03, 2013, 01:48:29 PM",
+        "reply": -1,
+        "user": "52h65",
+        "content": "there should be a time limit on waiting in the Emergency rooms",
+        "dominant_topic": "Financing",
+        "keywords": "insurance, pay, money, work, free, company, service, high, family, price",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 59,
+        "timeCode": "April 03, 2013, 01:54:31 PM",
+        "reply": -1,
+        "user": "52h65",
+        "content": "keeping accurate medical records should be mandatory",
+        "dominant_topic": "Financing",
+        "keywords": "insurance, pay, money, work, free, company, service, high, family, price",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 60,
+        "timeCode": "April 10, 2013, 09:12:22 AM",
+        "reply": -1,
+        "user": "2hj61",
+        "content": "It will also help if emergency rooms were completely staffed, some hospitals only have the minimal amount of doctors working during certain times in order to reduce cost.",
+        "dominant_topic": "Healthcare",
+        "keywords": "make, time, healthy, thing, agree, food, child, lot, cheap, live",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 61,
+        "timeCode": "April 10, 2013, 09:15:37 AM",
+        "reply": 16,
+        "user": "2hj61",
+        "content": "What if people are cant afford to pay? For example a low income family that has a member suffering from cancer, while you could help by providing smaller payments, but the costs are still going to be the same and the family is still going to be in debt.",
+        "dominant_topic": "Healthcare",
+        "keywords": "healthcare, system, cost, government, education, provide, problem, good, person, medication",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 62,
+        "timeCode": "April 10, 2013, 09:16:12 AM",
+        "reply": 59,
+        "user": "8hj62",
+        "content": "Anyone can go to a new hospital where they don't have your previous medical records. There needs to be a program that all medical physicians use so that your medical records are accessible no matter where you go",
+        "dominant_topic": "Healthcare",
+        "keywords": "people, health, care, afford, drug, medicine, issue, type, place, mental",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 63,
+        "timeCode": "April 10, 2013, 09:19:48 AM",
+        "reply": 33,
+        "user": "8hj62",
+        "content": "Having them notify you would just delay the process that much longer",
+        "dominant_topic": "Healthcare",
+        "keywords": "healthcare, system, cost, government, education, provide, problem, good, person, medication",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 64,
+        "timeCode": "April 10, 2013, 09:20:12 AM",
+        "reply": 18,
+        "user": "2hj61",
+        "content": "We could also just better staff the hospital, it`ll be more expensive for the hospital and overwhelming for the doctor if we keep them overnight.",
+        "dominant_topic": "Financing",
+        "keywords": "insurance, pay, money, work, free, company, service, high, family, price",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 65,
+        "timeCode": "April 10, 2013, 09:22:39 AM",
+        "reply": 32,
+        "user": "8hj62",
+        "content": "That's why you would have colors to identify which case is more serious and you would use a number system to identify each patient. It would be the same as when they call out your name to take you back to your room",
+        "dominant_topic": "Healthcare",
+        "keywords": "make, time, healthy, thing, agree, food, child, lot, cheap, live",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 66,
+        "timeCode": "April 10, 2013, 09:23:29 AM",
+        "reply": 62,
+        "user": "2hj61",
+        "content": "This is true, i have probably received 3 of the same shoots because the new hospitals I visited did not have my records. Patients are supposed to keep their own record, but these can be easily lost or misplaced.",
+        "dominant_topic": "Healthcare",
+        "keywords": "make, time, healthy, thing, agree, food, child, lot, cheap, live",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 67,
+        "timeCode": "April 10, 2013, 09:26:09 AM",
+        "reply": -1,
+        "user": "8hj62",
+        "content": "I think they need to stop cutting back on staff for budget cuts and saving costs but take phone out of offices or go paperless. They need to cut the small things before they cut the major things",
+        "dominant_topic": "Healthcare",
+        "keywords": "healthcare, system, cost, government, education, provide, problem, good, person, medication",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 68,
+        "timeCode": "April 10, 2013, 12:02:50 PM",
+        "reply": -1,
+        "user": "67h64",
+        "content": "Hospitals should have more staffs",
+        "dominant_topic": "Healthcare",
+        "keywords": "make, time, healthy, thing, agree, food, child, lot, cheap, live",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 69,
+        "timeCode": "April 10, 2013, 12:03:27 PM",
+        "reply": -1,
+        "user": "67h64",
+        "content": "They also shouldn't assign 10 patients to one nurse",
+        "dominant_topic": "Healthcare",
+        "keywords": "healthcare, system, cost, government, education, provide, problem, good, person, medication",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 70,
+        "timeCode": "April 10, 2013, 12:06:15 PM",
+        "reply": -1,
+        "user": "67h64",
+        "content": "there should be alternatives of payment to patients who come from low income families",
+        "dominant_topic": "Healthcare",
+        "keywords": "healthcare, system, cost, government, education, provide, problem, good, person, medication",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 71,
+        "timeCode": "April 10, 2013, 12:06:37 PM",
+        "reply": -1,
+        "user": "67h64",
+        "content": "improve their installment plans",
+        "dominant_topic": "Healthcare",
+        "keywords": "doctor, patient, hospital, school, make, medical, nurse, student, technology, emergency_room",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 72,
+        "timeCode": "April 10, 2013, 12:07:40 PM",
+        "reply": -1,
+        "user": "67h64",
+        "content": "A hospital should have more doctors in the floor so the waiting time isn't as long",
+        "dominant_topic": "Healthcare",
+        "keywords": "people, health, care, afford, drug, medicine, issue, type, place, mental",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 73,
+        "timeCode": "April 10, 2013, 12:10:08 PM",
+        "reply": -1,
+        "user": "67h64",
+        "content": "Make some generics more affordable. I've had to pay $200 for a generic medication once\u00a0",
+        "dominant_topic": "Healthcare",
+        "keywords": "healthcare, system, cost, government, education, provide, problem, good, person, medication",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 74,
+        "timeCode": "April 10, 2013, 12:15:14 PM",
+        "reply": -1,
+        "user": "67h64",
+        "content": "The elderly should have well trained certified care givers in order to be sure that they are not mistreated or abused",
+        "dominant_topic": "Financing",
+        "keywords": "insurance, pay, money, work, free, company, service, high, family, price",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 75,
+        "timeCode": "April 10, 2013, 12:19:55 PM",
+        "reply": -1,
+        "user": "67h64",
+        "content": "There should be a sharing type system that allows your new doctor to view your medical records from your old doctor",
+        "dominant_topic": "Financing",
+        "keywords": "insurance, pay, money, work, free, company, service, high, family, price",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 76,
+        "timeCode": "April 10, 2013, 01:04:37 PM",
+        "reply": -1,
+        "user": "52h65",
+        "content": "they could create a program to train hospital staff like every 3-6 months to make sure they know what they're doing",
+        "dominant_topic": "Healthcare",
+        "keywords": "healthcare, system, cost, government, education, provide, problem, good, person, medication",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 77,
+        "timeCode": "April 10, 2013, 01:07:13 PM",
+        "reply": -1,
+        "user": "52h65",
+        "content": "we actually have one of the worst healthcare systems but we can improve if everyone can come together to focus on more effective ways to make the system better",
+        "dominant_topic": "Healthcare",
+        "keywords": "people, health, care, afford, drug, medicine, issue, type, place, mental",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 78,
+        "timeCode": "April 10, 2013, 01:08:19 PM",
+        "reply": -1,
+        "user": "52h65",
+        "content": "the health of the patients should be the top priority and not how much money one can make off the pateint",
+        "dominant_topic": "Healthcare",
+        "keywords": "people, health, care, afford, drug, medicine, issue, type, place, mental",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 79,
+        "timeCode": "April 10, 2013, 01:10:12 PM",
+        "reply": -1,
+        "user": "52h65",
+        "content": "some people may feel not having insurance is better than actually having insurance these days because of the high cost",
+        "dominant_topic": "Healthcare",
+        "keywords": "people, health, care, afford, drug, medicine, issue, type, place, mental",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 80,
+        "timeCode": "April 10, 2013, 01:17:33 PM",
+        "reply": -1,
+        "user": "52h65",
+        "content": "all birth control should be free. $50 dollars a month for a college-student or non college student is alot",
+        "dominant_topic": "Healthcare",
+        "keywords": "healthcare, system, cost, government, education, provide, problem, good, person, medication",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 81,
+        "timeCode": "April 10, 2013, 01:19:27 PM",
+        "reply": -1,
+        "user": "52h65",
+        "content": "there should be health classes offered on how to eat right and exercise",
+        "dominant_topic": "Healthcare",
+        "keywords": "people, health, care, afford, drug, medicine, issue, type, place, mental",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 82,
+        "timeCode": "April 12, 2013, 02:09:31 PM",
+        "reply": 50,
+        "user": "96h63",
+        "content": "Or make better payment options through hospitals to help pay off their schooling.",
+        "dominant_topic": "Financing",
+        "keywords": "insurance, pay, money, work, free, company, service, high, family, price",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 83,
+        "timeCode": "April 12, 2013, 02:11:01 PM",
+        "reply": 79,
+        "user": "96h63",
+        "content": "This is also a problem because not having insurance also means people aren't paying for medical bills that can't be avoided. This creates higher premiums thru the hospitals and insurance companies.",
+        "dominant_topic": "Healthcare",
+        "keywords": "people, health, care, afford, drug, medicine, issue, type, place, mental",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 84,
+        "timeCode": "April 12, 2013, 02:11:52 PM",
+        "reply": -1,
+        "user": "96h63",
+        "content": "People who don't have insurance should be able to claim their medical in a more itemized way on their taxes.",
+        "dominant_topic": "Healthcare",
+        "keywords": "healthcare, system, cost, government, education, provide, problem, good, person, medication",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 85,
+        "timeCode": "April 12, 2013, 02:15:39 PM",
+        "reply": -1,
+        "user": "96h63",
+        "content": "Most hospitals and physicians offices are more technologically advanced in being paperless but in order to be fully paperless would mean a reduction in hackers for identity theft and fraud purposes. A lot of hospitals don't cut the small cost because these costs don't add up the way the large budget cuts do.\u00a0",
+        "dominant_topic": "Healthcare",
+        "keywords": "healthcare, system, cost, government, education, provide, problem, good, person, medication",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 86,
+        "timeCode": "April 12, 2013, 02:17:17 PM",
+        "reply": 68,
+        "user": "96h63",
+        "content": "That is not always possible with single parents, special needs families, other personal conflicts, and also just lack of properly trained personnel to hire to fill the positions.",
+        "dominant_topic": "Healthcare",
+        "keywords": "healthcare, system, cost, government, education, provide, problem, good, person, medication",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 87,
+        "timeCode": "April 12, 2013, 02:19:17 PM",
+        "reply": 53,
+        "user": "96h63",
+        "content": "This is not entirely true due to the universal health care system that Obama is putting into place a lot of doctors were forced to enter that program because they do not make enough for their private services to survive.",
+        "dominant_topic": "Financing",
+        "keywords": "insurance, pay, money, work, free, company, service, high, family, price",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 88,
+        "timeCode": "April 12, 2013, 02:20:35 PM",
+        "reply": -1,
+        "user": "96h63",
+        "content": "When a patient makes an appointment and then must wait for an hour or more for service that then should reduce their cost for medical expenses. They have other things going on besides sitting in a doctor's office all day. Its wasting their opportunity to earn money while the doctor is taking money.",
+        "dominant_topic": "Healthcare",
+        "keywords": "make, time, healthy, thing, agree, food, child, lot, cheap, live",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 89,
+        "timeCode": "April 12, 2013, 02:24:55 PM",
+        "reply": -1,
+        "user": "96h63",
+        "content": "There needs to be more focus on teaching about preventative care and motivation for preventative care before problems arise rather than after an incident.",
+        "dominant_topic": "Financing",
+        "keywords": "insurance, pay, money, work, free, company, service, high, family, price",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 90,
+        "timeCode": "April 12, 2013, 02:27:31 PM",
+        "reply": -1,
+        "user": "96h63",
+        "content": "There needs to be more education on testing and cost of testing sexually transmitted infections and diseases.Or even where it can be done if a person doesn't have insurance for testing.",
+        "dominant_topic": "Financing",
+        "keywords": "insurance, pay, money, work, free, company, service, high, family, price",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 91,
+        "timeCode": "April 12, 2013, 02:28:50 PM",
+        "reply": -1,
+        "user": "96h63",
+        "content": "There should be more motivational incentives to help keep people eating healthy and working out regularly to stay in good shape.",
+        "dominant_topic": "Financing",
+        "keywords": "insurance, pay, money, work, free, company, service, high, family, price",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 92,
+        "timeCode": "April 17, 2013, 09:52:56 AM",
+        "reply": -1,
+        "user": "2hj61",
+        "content": "maybe a good one would be having a universal system for every hospital where all of the patient`s information is stored and use only that one system or program.",
+        "dominant_topic": "Financing",
+        "keywords": "insurance, pay, money, work, free, company, service, high, family, price",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 93,
+        "timeCode": "April 17, 2013, 09:57:25 AM",
+        "reply": -1,
+        "user": "2hj61",
+        "content": "I don`t believe taking phones out of hospitals or clinics would be a good idea. There is still a considerable amount of people that don`t have access to computers. But i do agree their is small things that should be cut.",
+        "dominant_topic": "Healthcare",
+        "keywords": "people, health, care, afford, drug, medicine, issue, type, place, mental",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 94,
+        "timeCode": "April 17, 2013, 10:36:00 AM",
+        "reply": 76,
+        "user": "8hj62",
+        "content": "I'm pretty positive they have to do continuing education to keep their license up to date which would be almost the same thing",
+        "dominant_topic": "Healthcare",
+        "keywords": "doctor, patient, hospital, school, make, medical, nurse, student, technology, emergency_room",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 95,
+        "timeCode": "April 17, 2013, 10:36:48 AM",
+        "reply": 80,
+        "user": "8hj62",
+        "content": "Kroger offers two different types of Birth Control that are $9",
+        "dominant_topic": "Healthcare",
+        "keywords": "doctor, patient, hospital, school, make, medical, nurse, student, technology, emergency_room",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 96,
+        "timeCode": "April 17, 2013, 10:42:06 AM",
+        "reply": -1,
+        "user": "8hj62",
+        "content": "As far a medicine is concerned there is always a different and cheaper option most people just don't take the time nor do they want to spend the effort to figure it out. Most medicine that is more expensive takes less time to take effect and kills whatever you have faster. People can't be so lazy when it comes to stuff like that",
+        "dominant_topic": "Healthcare",
+        "keywords": "doctor, patient, hospital, school, make, medical, nurse, student, technology, emergency_room",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 97,
+        "timeCode": "April 17, 2013, 10:44:17 AM",
+        "reply": 91,
+        "user": "8hj62",
+        "content": "How could they keep up with this? And where would the budget come from to be able to pay for those incentives?",
+        "dominant_topic": "Financing",
+        "keywords": "insurance, pay, money, work, free, company, service, high, family, price",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 98,
+        "timeCode": "April 17, 2013, 10:46:11 AM",
+        "reply": -1,
+        "user": "8hj62",
+        "content": "I agree with this 100% but when would we start teaching these types of things to people? I think the younger they are the better because then they don't start making bad habits. Habits are hard to break especially bad ones and if you are waiting till college to start them then it would be next to impossible to do anything about it.",
+        "dominant_topic": "Healthcare",
+        "keywords": "make, time, healthy, thing, agree, food, child, lot, cheap, live",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 99,
+        "timeCode": "April 17, 2013, 10:48:02 AM",
+        "reply": -1,
+        "user": "8hj62",
+        "content": "I think the main problem with a lot of things is that we don't teach the kids at a younger age. We don't teach them about insurance, medical bills, health preventative care and more and we need to or it may not ever get any better.",
+        "dominant_topic": "Financing",
+        "keywords": "insurance, pay, money, work, free, company, service, high, family, price",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 100,
+        "timeCode": "April 17, 2013, 10:50:58 AM",
+        "reply": 70,
+        "user": "8hj62",
+        "content": "From personal experience you can just the bare minimum on a medical bill. If you die before the medical bill is taken care of it goes to the next person in the family line. My grandmother paid $5 every month for years before it was passed down to my mom.",
+        "dominant_topic": "Financing",
+        "keywords": "insurance, pay, money, work, free, company, service, high, family, price",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 101,
+        "timeCode": "April 17, 2013, 10:53:43 AM",
+        "reply": -1,
+        "user": "8hj62",
+        "content": "Personally I think that people think the rest of the world is out to get them. Just like with the whole not being able to pay your monthly medical bill. You don't have to pay a ton of money on it each month as long as you are paying something.\u00a0 The world isn't out to get everyone they just need to educate themselves a little better and figure out what all of their options are. Not only do they need educate themselves but the health care system needs to offer better ways for people to educate themselves.",
+        "dominant_topic": "Financing",
+        "keywords": "insurance, pay, money, work, free, company, service, high, family, price",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 102,
+        "timeCode": "April 17, 2013, 10:54:44 AM",
+        "reply": -1,
+        "user": "8hj62",
+        "content": "Not only should nurses and doctors have to pass all of their nursing exams I think they should have to pass a personality test to see what types of patients they should be allowed to work with",
+        "dominant_topic": "Healthcare",
+        "keywords": "people, health, care, afford, drug, medicine, issue, type, place, mental",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 103,
+        "timeCode": "April 17, 2013, 11:15:32 AM",
+        "reply": -1,
+        "user": "67h64",
+        "content": "kids should be informed and taught about insurance",
+        "dominant_topic": "Healthcare",
+        "keywords": "doctor, patient, hospital, school, make, medical, nurse, student, technology, emergency_room",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 104,
+        "timeCode": "April 17, 2013, 11:16:59 AM",
+        "reply": -1,
+        "user": "67h64",
+        "content": "We should take measures on how to lower the percentage of teen pregnancy",
+        "dominant_topic": "Financing",
+        "keywords": "insurance, pay, money, work, free, company, service, high, family, price",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 105,
+        "timeCode": "April 17, 2013, 11:17:38 AM",
+        "reply": -1,
+        "user": "67h64",
+        "content": "lower the cost of birth control",
+        "dominant_topic": "Healthcare",
+        "keywords": "doctor, patient, hospital, school, make, medical, nurse, student, technology, emergency_room",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 106,
+        "timeCode": "April 17, 2013, 11:19:00 AM",
+        "reply": -1,
+        "user": "67h64",
+        "content": "Everyone should have access to Plan B. Maybe this can reduce the amount of teen pregnancy",
+        "dominant_topic": "Financing",
+        "keywords": "insurance, pay, money, work, free, company, service, high, family, price",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 107,
+        "timeCode": "April 17, 2013, 11:23:47 AM",
+        "reply": -1,
+        "user": "67h64",
+        "content": "Children should be educated more about health and diets. If they practice a healthy diet at a young age, childhood obesity can be prevented.",
+        "dominant_topic": "Healthcare",
+        "keywords": "people, health, care, afford, drug, medicine, issue, type, place, mental",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 108,
+        "timeCode": "April 17, 2013, 11:26:38 AM",
+        "reply": -1,
+        "user": "67h64",
+        "content": "doctors should spend more time with their patients",
+        "dominant_topic": "Healthcare",
+        "keywords": "healthcare, system, cost, government, education, provide, problem, good, person, medication",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 109,
+        "timeCode": "April 17, 2013, 01:16:49 PM",
+        "reply": 107,
+        "user": "52h65",
+        "content": "I agree this is a great idea",
+        "dominant_topic": "Healthcare",
+        "keywords": "healthcare, system, cost, government, education, provide, problem, good, person, medication",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 110,
+        "timeCode": "April 17, 2013, 01:18:02 PM",
+        "reply": 105,
+        "user": "52h65",
+        "content": "I also agree with this statement, and it can also be free",
+        "dominant_topic": "Financing",
+        "keywords": "insurance, pay, money, work, free, company, service, high, family, price",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 111,
+        "timeCode": "April 17, 2013, 01:19:48 PM",
+        "reply": 106,
+        "user": "52h65",
+        "content": "I agree, kids are engaging in sexual activity alot younger these days",
+        "dominant_topic": "Healthcare",
+        "keywords": "doctor, patient, hospital, school, make, medical, nurse, student, technology, emergency_room",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 112,
+        "timeCode": "April 17, 2013, 01:25:57 PM",
+        "reply": -1,
+        "user": "52h65",
+        "content": "I agree, there should be more facilities that provide that option for STI's and etc.",
+        "dominant_topic": "Healthcare",
+        "keywords": "make, time, healthy, thing, agree, food, child, lot, cheap, live",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 113,
+        "timeCode": "April 17, 2013, 01:32:54 PM",
+        "reply": -1,
+        "user": "52h65",
+        "content": "there should also be some type of over the counter yeast infections pills in case the items on the shelf do not cure the problem",
+        "dominant_topic": "Healthcare",
+        "keywords": "doctor, patient, hospital, school, make, medical, nurse, student, technology, emergency_room",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 114,
+        "timeCode": "April 19, 2013, 02:16:09 PM",
+        "reply": -1,
+        "user": "96h63",
+        "content": "This would be great if you could get the teenagers more involved who are at more risk of it.",
+        "dominant_topic": "Healthcare",
+        "keywords": "people, health, care, afford, drug, medicine, issue, type, place, mental",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 115,
+        "timeCode": "April 19, 2013, 02:17:23 PM",
+        "reply": 111,
+        "user": "96h63",
+        "content": "That may actually promote more teens to have sex because they know there is a back up in case a pregnancy may happen.",
+        "dominant_topic": "Healthcare",
+        "keywords": "healthcare, system, cost, government, education, provide, problem, good, person, medication",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 116,
+        "timeCode": "April 19, 2013, 02:18:27 PM",
+        "reply": 109,
+        "user": "96h63",
+        "content": "This would also be a great way to get more professional athletes involved to help kids understand that the healthy eating isn't a bad thing rather something to go along with the sports.",
+        "dominant_topic": "Financing",
+        "keywords": "insurance, pay, money, work, free, company, service, high, family, price",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 117,
+        "timeCode": "April 19, 2013, 02:20:10 PM",
+        "reply": -1,
+        "user": "96h63",
+        "content": "Pharmacies should have payments plans in place for those who can't afford medication because they have no insurance.",
+        "dominant_topic": "Financing",
+        "keywords": "insurance, pay, money, work, free, company, service, high, family, price",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 118,
+        "timeCode": "April 19, 2013, 02:21:18 PM",
+        "reply": -1,
+        "user": "96h63",
+        "content": "The community should come together more and rally for more rural clinics to help those who don't live within city limits.",
+        "dominant_topic": "Healthcare",
+        "keywords": "doctor, patient, hospital, school, make, medical, nurse, student, technology, emergency_room",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 119,
+        "timeCode": "April 19, 2013, 02:21:57 PM",
+        "reply": -1,
+        "user": "96h63",
+        "content": "Medical care such as Care Flight and ambulance care should not be as expensive as the actually hospital visit itself.",
+        "dominant_topic": "Healthcare",
+        "keywords": "healthcare, system, cost, government, education, provide, problem, good, person, medication",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 120,
+        "timeCode": "April 19, 2013, 02:23:31 PM",
+        "reply": -1,
+        "user": "96h63",
+        "content": "Bigger cities should have more health fairs, as in maybe 1 every 6 months, in order to help the lower income and or homeless to receive any medical attention they may be denied to income.",
+        "dominant_topic": "Financing",
+        "keywords": "insurance, pay, money, work, free, company, service, high, family, price",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 121,
+        "timeCode": "April 19, 2013, 02:27:58 PM",
+        "reply": 97,
+        "user": "96h63",
+        "content": "This is where some of tax dollars need to be going to, not only that but get the students more old school games. Also, get families involved in doing sports together such as family soccer games against other families. Do things that used to go on in the 80's and 90's where schools, churches, and communities came together to do sports and activities together for the bettering of the children.",
+        "dominant_topic": "Healthcare",
+        "keywords": "people, health, care, afford, drug, medicine, issue, type, place, mental",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 122,
+        "timeCode": "April 19, 2013, 02:30:12 PM",
+        "reply": 99,
+        "user": "96h63",
+        "content": "This though may promote more stress on a child. Why do children need to understand at 9 and under about bills? I think this would possibly create more mental health problems for those children though it could also be a good way to keep them on the right path of working hard so they do not struggle like their parents do.",
+        "dominant_topic": "Healthcare",
+        "keywords": "people, health, care, afford, drug, medicine, issue, type, place, mental",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 123,
+        "timeCode": "April 19, 2013, 02:31:22 PM",
+        "reply": -1,
+        "user": "96h63",
+        "content": "The only thing with this is some medical bills show a minimum payment and some months that minimum payment may be money they just don't have.",
+        "dominant_topic": "Healthcare",
+        "keywords": "people, health, care, afford, drug, medicine, issue, type, place, mental",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 124,
+        "timeCode": "April 19, 2013, 02:32:46 PM",
+        "reply": 102,
+        "user": "96h63",
+        "content": "Unfortunately, a lot of times there are personality tests given to nurses and doctors but in time of crisis how can you say no you can't work with that patient because your personality will clash with theirs when you don't even have the time to evaluate the patient?",
+        "dominant_topic": "Healthcare",
+        "keywords": "healthcare, system, cost, government, education, provide, problem, good, person, medication",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    },
+    {
+        "index": 125,
+        "timeCode": "April 19, 2013, 02:35:05 PM",
+        "reply": -1,
+        "user": "96h63",
+        "content": "Hospital waiting rooms and information desk should offer monthly newsletters for the people of the hospital to see more of what is going on with in their hospital, such as new technology, new doctors, and or modification to hospitals policies or areas of the hospital",
+        "dominant_topic": "Healthcare",
+        "keywords": "healthcare, system, cost, government, education, provide, problem, good, person, medication",
+        "topic_probablities": {
+            "Affordability": "20.0 %",
+            "Education": "10.0 %",
+            "Financing": "20.0 %",
+            "Healthcare": "40.0 %",
+            "Prevention": "20.0 %",
+            "Quality": "30.0 %"
+        }
+    }
+]

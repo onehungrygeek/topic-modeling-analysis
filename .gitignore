@@ -4,3 +4,4 @@ out.txt
 *.swp
 __pycache__/
 Experiment/
+*.out

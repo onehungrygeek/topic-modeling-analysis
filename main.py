@@ -1,22 +1,4 @@
 # Library imports
-<<<<<<< HEAD
-
-import sys
-
-
-print(sys.version)
-print(sys.version_info)
-
-
-
-import warnings
-
-
-warnings.filterwarnings(action='ignore', category=UserWarning, module='gensim')
-warnings.filterwarnings(action='ignore', category=DeprecationWarning, module='gensim')
-warnings.filterwarnings(action='ignore', category=DeprecationWarning)
-warnings.filterwarnings(action='ignore', category=RuntimeWarning)
-=======
 # warnings module to surpress all UserWarnings, DeprecationWarnings and RuntimeWarnings
 import warnings
 warnings.filterwarnings(action='ignore',
@@ -30,7 +12,6 @@ warnings.filterwarnings(action='ignore',
 warnings.filterwarnings(action='ignore',
                         category=RuntimeWarning)
 import os
->>>>>>> f9f22f1479d4515571d8dfd0220f9ae64f5fd61d
 import time
 import numpy as np
 import pandas as pd
@@ -294,6 +275,21 @@ def analyze_topic_models():
     notifier(icon='complete',
              title='Topic model analysis complete!',
              message='Check Output_Files directory for saved csv files.')
+
+    with open('/Output_Files/topics_keywords_scores_' + time_string + '.txt', 'w') as file:
+        write_this_to_file = ['LSI Topics', lsitopics,
+                              'HSP Topics', hdptopics,
+                              'LDA Topics', ldatopics,
+                              'LDA MALLET Topics', ldamallettopics,
+                              'LSI Coherence Score:', lsi_score,
+                              'HDP Coherence Score:', hdp_score,
+                              'LDA Coherence Score:', lda_score,
+                              'LDA Mallet Coherence Score:', ldamallet_score]
+        for string in write_this_to_file:
+            pprint(string, file)
+
+        print('\nSaving topics, keywords and coherences scores for computed models with ' + str(num_topics) +
+              ' topics to Output_Files directory as: ' + 'topics_keywords_scores_' + time_string + '\n')
 
 
 if __name__ == '__main__':

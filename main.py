@@ -12,6 +12,7 @@ warnings.filterwarnings(action='ignore',
 warnings.filterwarnings(action='ignore',
                         category=RuntimeWarning)
 import os
+import json
 import time
 import numpy as np
 import pandas as pd
@@ -85,15 +86,31 @@ def analyze_topic_models():
     notifier(icon='preprocess',
              title='Text preprocessing complete!')
 
+    # Config parameter extraction
+    with open('config_file.json', 'r') as f:
+        config = json.load(f)
+
+    num_topics = config['num_topics']                   # Default: 5
+    num_words = config['num_words']                     # Default: 10
+    max_topics = config['max_topics']                   # Default: 50
+    measure = config['measure']                         # Default: 'c_v'
+    random_state = config['random_state']               # Default: 100
+    update_every = config['update_every']               # Default: 1
+    chunksize = config['chunksize']                     # Default: 100
+    passes = config['passes']                           # Default: 10
+    alpha = config['alpha']                             # Default: 'auto'
+    per_word_topics = bool(config['per_word_topics'])   # Default: True
+
     # Develop all models and respective topics
-    # Declare how many topics do you want the models to compute
+    # Declare how many topics do you want the models to compute. Default is 5
     # Note: HDP does not require num_topics because it computes all possible number of topics in given input
-    num_topics = 5
     # LSI Model and Topics
     lsimodel, lsitopics = compute_model(model_name='lsi',
                                         corpus=corpus,
                                         id2word=id2word,
-                                        num_topics=num_topics)
+                                        num_topics=num_topics,
+                                        num_words=num_words,
+                                        chunksize=chunksize)
     print('\nLSI Topics\n')
     pprint(lsitopics)
 
@@ -101,7 +118,8 @@ def analyze_topic_models():
     hdpmodel, hdptopics = compute_model(model_name='hdp',
                                         corpus=corpus,
                                         id2word=id2word,
-                                        num_topics=num_topics)
+                                        num_topics=num_topics,
+                                        chunksize=chunksize)
     print('\nHDP Topics\n')
     pprint(hdptopics)
 
@@ -109,15 +127,23 @@ def analyze_topic_models():
     ldamodel, ldatopics = compute_model(model_name='lda',
                                         corpus=corpus,
                                         id2word=id2word,
-                                        num_topics=num_topics)
+                                        num_topics=num_topics,
+                                        random_state=random_state,
+                                        update_every=update_every,
+                                        chunksize=chunksize,
+                                        passes=passes,
+                                        alpha=alpha,
+                                        per_word_topics=per_word_topics,
+                                        num_words=num_words)
     print('\nLDA Topics\n')
     pprint(ldatopics)
 
     # LDAMallet Model and Topics
     ldamallet, ldamallettopics = compute_model(model_name='ldamallet',
                                                corpus=corpus,
+                                               num_topics=num_topics,
                                                id2word=id2word,
-                                               num_topics=num_topics)
+                                               num_words=num_words)
     print('\nLDA MALLET Topics\n')
     pprint(ldamallettopics)
 
@@ -138,25 +164,25 @@ def analyze_topic_models():
     lsi_score = compute_coherence(model=lsimodel,
                                   texts=data_lemmatized,
                                   dictionary=id2word,
-                                  measure='c_v')
+                                  measure=measure)
 
     # HDP Coherence Score (Irrelevant)
     hdp_score = compute_coherence(model=hdpmodel,
                                   texts=data_lemmatized,
                                   dictionary=id2word,
-                                  measure='c_v')
+                                  measure=measure)
 
     # LDA Coherence Score
     lda_score = compute_coherence(model=ldamodel,
                                   texts=data_lemmatized,
                                   dictionary=id2word,
-                                  measure='c_v')
+                                  measure=measure)
 
     # LDAMallet Coherence Score
     ldamallet_score = compute_coherence(model=ldamallet,
                                         texts=data_lemmatized,
                                         dictionary=id2word,
-                                        measure='c_v')
+                                        measure=measure)
 
     # Notification: Computed coherence scores
     notifier(icon='scores',
@@ -171,9 +197,8 @@ def analyze_topic_models():
 
     print()
 
-    # Run analysis to find coherence scores for different models with increasing num of topics
+    # Run analysis to find coherence scores for different models with increasing num of topics. Default is 50
     # Note: Cannot run this analysis for HDP because it does not accept num_topics parameter
-    max_topics = 50
 
     # Notification: Coherence score analysis started
     notifier(icon='scores',
@@ -187,8 +212,9 @@ def analyze_topic_models():
                                                   corpus=corpus,
                                                   id2word=id2word,
                                                   texts=data_lemmatized,
-                                                  measure='c_v',
-                                                  max_topics=max_topics)
+                                                  measure=measure,
+                                                  max_topics=max_topics,
+                                                  chunksize=chunksize)
     print_optimal_topics(model_list=lsi_list,
                          all_scores=lsi_all_scores)
 
@@ -198,7 +224,13 @@ def analyze_topic_models():
                                                   corpus=corpus,
                                                   id2word=id2word,
                                                   texts=data_lemmatized,
-                                                  measure='c_v',
+                                                  measure=measure,
+                                                  random_state=random_state,
+                                                  update_every=update_every,
+                                                  chunksize=chunksize,
+                                                  passes=passes,
+                                                  alpha=alpha,
+                                                  per_word_topics=per_word_topics,
                                                   max_topics=max_topics)
     print_optimal_topics(model_list=lda_list,
                          all_scores=lda_all_scores)
@@ -209,7 +241,7 @@ def analyze_topic_models():
                                                               corpus=corpus,
                                                               id2word=id2word,
                                                               texts=data_lemmatized,
-                                                              measure='c_v',
+                                                              measure=measure,
                                                               max_topics=max_topics)
     print_optimal_topics(model_list=ldamallet_list,
                          all_scores=ldamallet_all_scores)
@@ -225,7 +257,7 @@ def analyze_topic_models():
     # LSI Graph
     build_graph(model_name='LSI',
                 scores=lsi_all_scores,
-                measure='c_v',
+                measure=measure,
                 file_name=file_name,
                 limit=max_topics,
                 time_string=time_string)
@@ -233,7 +265,7 @@ def analyze_topic_models():
     # LDA Graph
     build_graph(model_name='LDA',
                 scores=lda_all_scores,
-                measure='c_v',
+                measure=measure,
                 file_name=file_name,
                 limit=max_topics,
                 time_string=time_string)
@@ -241,7 +273,7 @@ def analyze_topic_models():
     # LDAMallet Graph
     build_graph(model_name='LDAMALLET',
                 scores=ldamallet_all_scores,
-                measure='c_v',
+                measure=measure,
                 file_name=file_name,
                 limit=max_topics,
                 time_string=time_string)
@@ -275,8 +307,10 @@ def analyze_topic_models():
     notifier(icon='complete',
              title='Topic model analysis complete!',
              message='Check Output_Files directory for saved csv files.')
-
-    with open('/Output_Files/topics_keywords_scores_' + time_string + '.txt', 'w') as file:
+    # Output file for saving topic, keywords and coherence scores
+    topics_keywords_scores_file_name = os.getcwd() + '/Output_Files/topics_keywords_scores_' + time_string + '.txt'
+    
+    with open(topics_keywords_scores_file_name, 'w') as file:
         write_this_to_file = ['LSI Topics', lsitopics,
                               'HSP Topics', hdptopics,
                               'LDA Topics', ldatopics,
@@ -289,7 +323,7 @@ def analyze_topic_models():
             pprint(string, file)
 
         print('\nSaving topics, keywords and coherences scores for computed models with ' + str(num_topics) +
-              ' topics to Output_Files directory as: ' + 'topics_keywords_scores_' + time_string + '\n')
+              ' topics to: ' + topics_keywords_scores_file_name + '\n')
 
 
 if __name__ == '__main__':

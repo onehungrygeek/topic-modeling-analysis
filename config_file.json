@@ -1,7 +1,7 @@
 {
     "num_topics": 5,
     "num_words": 10,
-    "max_topics": 5,
+    "max_topics": 50,
     "measure": "c_v",
     "random_state": 100,
     "update_every": 1,

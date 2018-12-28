@@ -37,11 +37,12 @@ The topic modeling analysis Github repository is located [at this link](https://
 3. Input dataset requirements:
 Format: `.txt`
 The input dataset for this program requires to be in a specific format. The dataset must contain the responses/paragraphs in one single line as one document i.e. one document on each line. One document can be just a few words, a single line or a few lines that form a paragraph. Such one document needs to be on one line.
-<br>
+
 4. Download mallet and set mallet path:
 Download the mallet model from [this link](http://mallet.cs.umass.edu/download.php) and unzip it to some directory. You then need to update mallet path and environment variable so that LdaMallet model in gensim works properly.
-Mallet path for **Windows 10**
-Suppose you extracted the mallet zip to `C:/mallet/` directory then provide respective paths as shown below in `compute_models.py` and `compute_all_coherence_scores.py` files.
+
+    Mallet path for **Windows 10**
+    Suppose you extracted the mallet zip to `C:/mallet/` directory then provide respective paths as shown below in `compute_models.py` and `compute_all_coherence_scores.py` files.
     ```python
     os.environ.update({'MALLET_HOME': r'c:/mallet/'})
     mallet_path = 'c:\\mallet\\bin\\mallet'

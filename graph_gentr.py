@@ -5,9 +5,23 @@ import networkx as nx
 import random
 import json
 import time
+
 from pprint import pprint
+from collections import defaultdict
 
+def fullJustify(words, maxWidth):
+    res, cur, num_of_letters = [], [], 0
+    for w in words:
+        if num_of_letters + len(w) + len(cur) > maxWidth:
+            for i in range(maxWidth - num_of_letters):
+                cur[i % (len(cur)-1 or 1)] += ' '
+            res.append(''.join(cur))
+            cur, num_of_letters = [], 0
+        cur += [w]
+        num_of_letters += len(w)
+    return res + [' '.join(cur).ljust(maxWidth)]
 
+fakenames = ["Austin", "Jessica", "Noah", "David", "Bill", "James"]
 plt.tools.set_credentials_file(
     username='akshay1994', api_key='ieUGzhNg4U33RPn74RXi')
 
@@ -21,8 +35,8 @@ with open('new.json') as f:
 vertical_size = 80
 cord = range(10, 100*vertical_size*2, vertical_size)
 userscord = {user: cord[i] for i, user in enumerate(users)}
-
-
+usercolor = {user: random.randint(0, 100) for i, user in enumerate(users)}
+username = {user: fakenames[i] for i, user in enumerate(users)}
 print(len(users)*vertical_size + vertical_size*4,)
 
 G = nx.DiGraph()
@@ -38,25 +52,39 @@ x = []
 y = list(range(1, (nodes + 1)*stepsize*2, stepsize))
 topic_list = []
 
-for comment in comments:
+
+prevdata = defaultdict(int)
+cat = []
+for idx, comment in  enumerate(comments):
     x.append(userscord[comment['user']])
-    topic_list.append("<br>".join(comment['keywords'].split()))
+
+    info = "User : " + username[comment['user']] + "<br>"
+    info += "Content  : " 
+    data = fullJustify(comment['content'].split(" "), 100)
+    for d in data:
+        info +=  d + "<br>"
+    
+    
+    info +=  "Detail : " 
+    for key, value in prevdata.items():
+        info +=  key + " : " + str(value) + " , "
+    info += " <br>"
+
+    prevdata[comment['dominant_topic'].capitalize()] += 1
+    
+    info += "Keywords : " + comment['keywords'] + "<br>"
+    info += "Time : " + comment['timeCode'] + "<br>"
+    
+    topic_list.append(info)
+    cat.append(comment['dominant_topic'].capitalize())
+    if comment['reply'] != -1:
+        G.add_edge(idx, comment['reply'])
 
 
 print(len(y), len(set(y)))
 
 G.add_nodes_from(list(range(nodes)))
-# If no positions are provided, choose uniformly random vectors in
-# Euclidean space of the specified dimension.
 
-#pos = {v: [v/divi if i == 0 else v%divi for i in range(2)] for v in xrange(nodes)}
-#nx.set_node_attributes(G, pos, 'pos')
-
-for i in range(1, nodes-1):
-    G.add_edge(i, i+1)
-
-
-#
 edge_trace = go.Scatter(
     x=[],
     y=[],
@@ -76,17 +104,6 @@ Topic = ["Finance", "Education", "Quality",
          "Affordability", "HealthCare", "Prevention"]
 
 
-cat = []
-for i in range(nodes):
-    cat.append(random.choice(Topic))
-
-
-# mode='lines+markers+text',
-#     name='Lines, Markers and Text',
-#     text=['Text A', 'Text B', 'Text C'],
-#     textposition='top center'
-# Any combination of ['x', 'y', 'z', 'text', 'name'] joined with '+' characters
-
 node_trace = go.Scatter(
     x=x,
     y=y,
@@ -97,69 +114,34 @@ node_trace = go.Scatter(
     hoverinfo="text",
     marker=dict(
         showscale=False,
-        # colorscale options
-        # 'Greys' | 'YlGnBu' | 'Greens' | 'YlOrRd' | 'Bluered' | 'RdBu' |
-        # 'Reds' | 'Blues' | 'Picnic' | 'Rainbow' | 'Portland' | 'Jet' |
-        # 'Hot' | 'Blackbody' | 'Earth' | 'Electric' | 'Viridis' |
         colorscale='YlGnBu',
         reversescale=True,
         color=[],
         size=10,
-        #         colorbar=dict(
-        #             thickness=15,
-        #             title='Node Connections',
-        #             xanchor='right',
-        #             titleside='right'
-        #         ),
-        #textfont = dict(color="white"),
+       
         line=dict(width=2)))
 
-# i = 0
-# for node in G.nodes():
-#     #x, y = G.node[node]['pos']
 
-#     node_trace['x'] += tuple([x[i]])
-#     node_trace['y'] += tuple([y[i]])
-#     i += 1
-
-
-keywords = ["Hello, namaste, aaa", "bbbbb  ccccc", "ddddd ffff"]
 i = 0
 
 for node, adjacencies in enumerate(G.adjacency()):
-
-    node_trace['marker']['color'] += tuple([random.randint(0, 100)])
-    # of connections: '+str(len(adjacencies[1]))
-    node_info = random.choice(Topic)
-
-    # node_trace['text']+=tuple([keywords[i%(len(keywords))]])
+    node_trace['marker']['color'] += tuple([usercolor[comments[i]['user']]])
     i += 1
 
 
 fig = go.Figure(data=[edge_trace, node_trace],
                 layout=go.Layout(
                 autosize=False,
-                width=len(users)*vertical_size + vertical_size*3,
-                height=nodes*stepsize + stepsize*4,
+                width=len(users)*vertical_size + vertical_size*6,
+                height=nodes*stepsize + stepsize*5,
                 title='<br>Network graph made with Python',
                 titlefont=dict(size=16),
                 showlegend=False,
                 hovermode='closest',
-                margin=dict(b=20, l=5, r=5, t=40),
-                #                 annotations=[ dict(
-                #                                     x=2,
-                #                                     y=5,
-                #                                     xref='x',
-                #                                     yref='y',
-                #                                     text='dict Text',
-                #                                     showarrow=False,
-                #                                     arrowhead=7,
-                #                                     ax=0,
-                #                                     ay=-40
-                #                                 ), ],
-                xaxis=dict(showgrid=False, zeroline=False,
+                margin=dict(b=20, l=10, r=10, t=40),
+                xaxis=dict( showgrid=False, zeroline=False,
                            showticklabels=False),
-                yaxis=dict(showgrid=False, zeroline=False, showticklabels=False)))
+                yaxis=dict(autorange="reversed", showgrid=False, zeroline=False, showticklabels=False)))
 
 
 py.plot(fig, filename='networkx14')

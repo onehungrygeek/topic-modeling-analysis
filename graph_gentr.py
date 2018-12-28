@@ -52,10 +52,9 @@ G.add_nodes_from(list(range(nodes)))
 #pos = {v: [v/divi if i == 0 else v%divi for i in range(2)] for v in xrange(nodes)}
 #nx.set_node_attributes(G, pos, 'pos')
 
-# for i in xrange(1, nodes-1):
-#     G.add_edge(i, i+1)
-#
-G.add_edges_from([(1, 5), (2, 4)])
+for i in range(1, nodes-1):
+    G.add_edge(i, i+1)
+
 
 #
 edge_trace = go.Scatter(
@@ -66,11 +65,11 @@ edge_trace = go.Scatter(
     mode='lines')
 
 
-# for edge in G.edges():
-#     x0, y0 = G.node[edge[0]]['pos']
-#     x1, y1 = G.node[edge[1]]['pos']
-#     edge_trace['x'] += tuple([x0, x1, None])
-#     edge_trace['y'] += tuple([y0, y1, None])
+for edge in G.edges():
+    x0, y0 = x[edge[0]], y[edge[0]]
+    x1, y1 = x[edge[1]], y[edge[1]]
+    edge_trace['x'] += tuple([x0, x1, None])
+    edge_trace['y'] += tuple([y0, y1, None])
 
 
 Topic = ["Finance", "Education", "Quality",
@@ -118,7 +117,7 @@ node_trace = go.Scatter(
 # i = 0
 # for node in G.nodes():
 #     #x, y = G.node[node]['pos']
-#
+
 #     node_trace['x'] += tuple([x[i]])
 #     node_trace['y'] += tuple([y[i]])
 #     i += 1

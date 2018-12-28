@@ -2,11 +2,13 @@
 [![Python Version](https://img.shields.io/badge/Python-v3.6.6-blue.svg)](https://www.python.org/downloads/release/python-366/) &nbsp; ![](https://img.shields.io/badge/Algorithms-LSI%2C%20HDP%2C%20LDA%2C%20LDAMallet-red.svg) &nbsp; [![Operating System Tested](https://img.shields.io/badge/Tested%20on-Ubuntu%2018.10-yellow.svg)](https://www.ubuntu.com/#download)
 ### Setup:
 1. Requirements:
-a. Python
-   * Download and install **Python 3.6.6** by visiting [this download link](https://www.python.org/downloads/release/python-366/)
-   * Set environment variable for above installed Python. Check how to do the same for [Windows here](https://superuser.com/questions/143119/how-do-i-add-python-to-the-windows-path) or [Linux here](https://stackoverflow.com/questions/3671837/setup-python-variable-environment-on-ubuntu)
 
-    b. Important Python Libraries
+    a. Python:
+    * Download and install **Python 3.6.6** by visiting [this download link](https://www.python.org/downloads/release/python-366/)
+    * Set environment variable for above installed Python. Check how to do the same for [Windows here](https://superuser.com/questions/143119/how-do-i-add-python-to-the-windows-path) or [Linux here](https://stackoverflow.com/questions/3671837/setup-python-variable-environment-on-ubuntu)
+
+    b. Important Python Libraries:
+    
     Install below mentioned libraries. Click on the library names to open the installation manual for each.
       * [Gensim (v3.6.0)](https://radimrehurek.com/gensim/install.html)
       * [Matplotlib (v3.0.1)](https://matplotlib.org/users/installing.html)
@@ -29,7 +31,8 @@ a. Python
     ```
 
 2. Clone the Github repository:
-The topic modeling analysis Github repository is located [at this link](https://github.com/onehungrygeek/topic-modeling-analysis). You can either download the repository zip and uncompress it or type the command below in the terminal/command prompt:
+
+    The topic modeling analysis Github repository is located [at this link](https://github.com/onehungrygeek/topic-modeling-analysis). You can either download the repository zip and uncompress it or type the command below in the terminal/command prompt:
     ```sh
     git clone https://github.com/onehungrygeek/topic-modeling-analysis.git
     ```
@@ -40,7 +43,8 @@ The topic modeling analysis Github repository is located [at this link](https://
     The input dataset for this program requires to be in a specific format. The dataset must contain the responses/paragraphs in one single line as one document i.e. one document on each line. One document can be just a few words, a single line or a few lines that form a paragraph. Such one document needs to be on one line.
 
 4. Download mallet and set mallet path:
-Download the mallet model from [this link](http://mallet.cs.umass.edu/download.php) and unzip it to some directory. You then need to update mallet path and environment variable so that LdaMallet model in gensim works properly.
+
+    Download the mallet model from [this link](http://mallet.cs.umass.edu/download.php) and unzip it to some directory. You then need to update mallet path and environment variable so that LdaMallet model in gensim works properly.
 
     Mallet path for **Windows 10**
     Suppose you extracted the mallet zip to `C:/mallet/` directory then provide respective paths as shown below in `compute_models.py` and `compute_all_coherence_scores.py` files.

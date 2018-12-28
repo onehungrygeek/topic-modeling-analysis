@@ -40,16 +40,14 @@ The input dataset for this program requires to be in a specific format. The data
 <br>
 4. Download mallet and set mallet path:
 Download the mallet model from [this link](http://mallet.cs.umass.edu/download.php) and unzip it to some directory. You then need to update mallet path and environment variable so that LdaMallet model in gensim works properly.
-<br>Mallet path for **Windows 10**
+Mallet path for **Windows 10**
 Suppose you extracted the mallet zip to `C:/mallet/` directory then provide respective paths as shown below in `compute_models.py` and `compute_all_coherence_scores.py` files.
-    <br>
     ```python
     os.environ.update({'MALLET_HOME': r'c:/mallet/'})
     mallet_path = 'c:\\mallet\\bin\\mallet'
     ```
     Mallet path for **Ubuntu 18.10**
     Suppose you extracted the mallet zip to `/home/username/mallet` directory then provide respective paths as shown below in `compute_models.py` and `compute_all_coherence_scores.py` files.
-    <br>
     ```python
     os.environ.update({'MALLET_HOME': r'/home/username/mallet/'})
     mallet_path = '/home/username/mallet/bin/mallet'

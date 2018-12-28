@@ -24,7 +24,7 @@ os.environ.update({'MALLET_HOME': r'/home/akshay/mallet/'})
 mallet_path = '/home/akshay/mallet/bin/mallet'
 
 
-def compute_model(model_name, corpus, id2word, num_topics=5):
+def compute_model(model_name, corpus, id2word, num_topics=5, num_words=10, random_state=100, update_every=1, chunksize=100, passes=10, alpha='auto', per_word_topics=True):
     """
     This module takes in a corpus and a word dictionary and
     computes various topic models from the gensim library.
@@ -47,15 +47,15 @@ def compute_model(model_name, corpus, id2word, num_topics=5):
         model = gensim.models.lsimodel.LsiModel(corpus=corpus,
                                                 num_topics=num_topics,
                                                 id2word=id2word,
-                                                chunksize=100)
-        topics = model.show_topics(formatted=False)
+                                                chunksize=chunksize)
+        topics = model.show_topics(formatted=False, num_words=num_words)
     # HDP Model and Topics
     elif model_name == 'HdpModel' or model_name == 'hdpmodel' or model_name == 'hdp':
         print('\nHDP Model Started\n')
         model = gensim.models.hdpmodel.HdpModel(corpus=corpus,
                                                 id2word=id2word,
-                                                random_state=100,
-                                                chunksize=100)
+                                                random_state=random_state,
+                                                chunksize=chunksize)
         topics = model.show_topics(formatted=False)
     # LDA Model and Topics
     elif model_name == 'LdaModel' or model_name == 'ldamodel' or model_name == 'lda':
@@ -63,13 +63,13 @@ def compute_model(model_name, corpus, id2word, num_topics=5):
         model = gensim.models.ldamodel.LdaModel(corpus=corpus,
                                                 id2word=id2word,
                                                 num_topics=num_topics,
-                                                random_state=100,
-                                                update_every=1,
-                                                chunksize=100,
-                                                passes=10,
-                                                alpha='auto',
-                                                per_word_topics=True)
-        topics = model.show_topics(formatted=False)
+                                                random_state=random_state,
+                                                update_every=update_every,
+                                                chunksize=chunksize,
+                                                passes=passes,
+                                                alpha=alpha,
+                                                per_word_topics=per_word_topics)
+        topics = model.show_topics(formatted=False, num_words=num_words)
     # LDAMallet Model and Topics
     elif model_name == 'LdaMallet' or model_name == 'ldamallet':
         print('\nLDA Mallet Model Started\n')
@@ -77,7 +77,7 @@ def compute_model(model_name, corpus, id2word, num_topics=5):
                                                  corpus=corpus,
                                                  num_topics=num_topics,
                                                  id2word=id2word)
-        topics = model.show_topics(formatted=False)
+        topics = model.show_topics(formatted=False, num_words=num_words)
     else:
         print('Invalid model!')
         return None, None

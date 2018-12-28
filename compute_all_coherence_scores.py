@@ -25,7 +25,7 @@ os.environ.update({'MALLET_HOME': r'/home/akshay/mallet/'})
 mallet_path = '/home/akshay/mallet/bin/mallet'
 
 
-def compute_all_scores(model_name, corpus, id2word, texts, measure, max_topics, start=5, step=5):
+def compute_all_scores(model_name, corpus, id2word, texts, measure, max_topics, start=5, step=5, random_state=100, update_every=1, chunksize=100, passes=10, alpha='auto', per_word_topics=True):
     """
     This module computes coherence scores for increasing number of topics.
 
@@ -66,18 +66,18 @@ def compute_all_scores(model_name, corpus, id2word, texts, measure, max_topics, 
             model = gensim.models.lsimodel.LsiModel(corpus=corpus,
                                                     num_topics=num_topics,
                                                     id2word=id2word,
-                                                    chunksize=100)
+                                                    chunksize=chunksize)
         # LDA Model
         elif model_name == 'LdaModel' or model_name == 'ldamodel' or model_name == 'lda':
             model = gensim.models.ldamodel.LdaModel(corpus=corpus,
                                                     id2word=id2word,
                                                     num_topics=num_topics,
-                                                    random_state=100,
-                                                    update_every=1,
-                                                    chunksize=100,
-                                                    passes=10,
-                                                    alpha='auto',
-                                                    per_word_topics=True)
+                                                    random_state=random_state,
+                                                    update_every=update_every,
+                                                    chunksize=chunksize,
+                                                    passes=passes,
+                                                    alpha=alpha,
+                                                    per_word_topics=per_word_topics)
         # LDAMallet Model
         elif model_name == 'LdaMallet' or model_name == 'ldamallet' or model_name == 'ldamallet':
             model = gensim.models.wrappers.LdaMallet(mallet_path,

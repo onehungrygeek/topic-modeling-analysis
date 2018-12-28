@@ -52,7 +52,6 @@ G.add_nodes_from(list(range(nodes)))
 #pos = {v: [v/divi if i == 0 else v%divi for i in range(2)] for v in xrange(nodes)}
 #nx.set_node_attributes(G, pos, 'pos')
 
-
 # for i in xrange(1, nodes-1):
 #     G.add_edge(i, i+1)
 #

@@ -17,10 +17,6 @@ with open('new.json') as f:
     data = {}
     for comment in comments:
         users.add(comment['user'])
-#         epochtime =time.mktime(time.strptime(comment['timeCode'],"%B %d, %Y, %I:%M:%S PM"))
-#         data[epochtime] = {'user': comment['user'], "keywords": comment['']}
-#
-#
 
 vertical_size = 80
 cord = range(10, 100*vertical_size*2, vertical_size)

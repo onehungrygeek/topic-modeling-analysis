@@ -35,8 +35,9 @@ The topic modeling analysis Github repository is located [at this link](https://
     ```
 
 3. Input dataset requirements:
-Format: `.txt`
-The input dataset for this program requires to be in a specific format. The dataset must contain the responses/paragraphs in one single line as one document i.e. one document on each line. One document can be just a few words, a single line or a few lines that form a paragraph. Such one document needs to be on one line.
+
+    Format: `.txt`
+    The input dataset for this program requires to be in a specific format. The dataset must contain the responses/paragraphs in one single line as one document i.e. one document on each line. One document can be just a few words, a single line or a few lines that form a paragraph. Such one document needs to be on one line.
 
 4. Download mallet and set mallet path:
 Download the mallet model from [this link](http://mallet.cs.umass.edu/download.php) and unzip it to some directory. You then need to update mallet path and environment variable so that LdaMallet model in gensim works properly.

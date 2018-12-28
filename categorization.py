@@ -53,12 +53,12 @@ def calculate_overlapping(keywords, data):
         files = os.listdir(path)
         files = [file for file in files if file.endswith(".csv")]
 
-#         for idx, file in enumerate(files):
-#             print(idx, file)
+        for idx, file in enumerate(files):
+            print(idx, file)
         # print(files[5])
-        file_num = 5  # input('Enter file number for analysis:\t')
+        file_num = 43 #input('Enter file number for analysis:\t')
 
-        time_string = ""  # time.strftime("%m-%d-%Y_%H-%M-%S")
+        #time_string = ""  # time.strftime("%m-%d-%Y_%H-%M-%S")
 
         outcsv = open(os.path.join(
             os.getcwd(), "Output_Files", "new.csv"), 'w')
@@ -67,6 +67,8 @@ def calculate_overlapping(keywords, data):
         categories = sorted(data.keys())
         csvwriter.writerow(["Keywords"] + categories + ["Category"])
 
+        print("read file : {}".format(os.path.join(
+            os.getcwd(), "Output_Files", files[int(file_num)])))
         df = pandas.read_csv(os.path.join(
             os.getcwd(), "Output_Files", files[int(file_num)]))
 
@@ -77,7 +79,7 @@ def calculate_overlapping(keywords, data):
                 " ", "").split(",")
             max_val = 0
             max_category = "Cannot determine"
-            total_keywords = len(keywords)
+            #total_keywords = len(keywords)
             row = [" ".join(keywords)]
             for category in categories:
                 overlap_keywords = set(data[category].keys()) & set(keywords)

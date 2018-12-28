@@ -20,8 +20,8 @@ def readlabels():
     """ read descriptive files for labels ad keywords
     """
     
-    files = ['prevention.txt',  'education.txt', "quality.txt", "financing.txt", "healthcare.txt", "affordability.txt"]
-    labels = ['prevention',  'education', "quality", "financing", "healthcare", "affordability"]
+    files = ['prevention.txt',  'education.txt', "quality.txt", "financing.txt",  "affordability.txt"]
+    labels = ['prevention',  'education', "quality", "financing", "affordability"]
    
     data = {}
     for idx,file in enumerate(files):
@@ -51,7 +51,7 @@ def calculate_overlapping(keywords, data):
         
         time_string =  ""#time.strftime("%m-%d-%Y_%H-%M-%S")
                 
-        outcsv = open(os.path.join(os.getcwd(), "Output_Files","category.csv"), 'w')
+        outcsv = open(os.path.join(os.getcwd(), "Output_Files","new.csv"), 'w')
         csvwriter = csv.writer(outcsv, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
         categories = sorted(data.keys())
         csvwriter.writerow(["Keywords"] + categories + ["Category"])
@@ -93,7 +93,7 @@ def calculate_overlapping(keywords, data):
         outcsv.close()   
 #         
         print("file name : " , os.path.join(os.getcwd(), "Output_Files",files[int(file_num)]))
-        print("out name : " , os.path.join(os.getcwd(), "Output_Files","category.csv"))
+        print("out name : " , os.path.join(os.getcwd(), "Output_Files","new.csv"))
        
         
         

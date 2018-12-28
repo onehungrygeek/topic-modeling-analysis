@@ -33,7 +33,7 @@ def json_generator():
             all_data.append(json.load(read_file))
 
     # Open category.csv file and read it to a list
-    with open(input_files_directory + 'category.csv') as csv_file:
+    with open(input_files_directory + 'new.csv') as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
         category_list = []
         for row in csv_reader:
@@ -48,11 +48,11 @@ def json_generator():
         # Dictionary to store probabilities for all topics
         prob_dict = {}
         for j in range(1, len(all_data[i]) + 1):
-            topics.append(category_list[j][7].capitalize())
+            topics.append(category_list[j][6].capitalize())
             seperated_keywords = ", ".join(
                 word for word in category_list[j][0].split())
             keywords.append(seperated_keywords)
-            for k in range(1, 7):
+            for k in range(1, 6):
                 prob_dict[category_list[0]
                           [k].capitalize()] = category_list[j][k] + ' %'
             probablities.append(prob_dict)
@@ -71,7 +71,7 @@ def json_generator():
     # Set the output directory for saving .json files
     # Note: Create 'JSON' directory if it does not exist
     output_files_directory = os.getcwd() + '/Output_Files/JSON/'
-    generic_output_file_name = output_files_directory + 'Output_'
+    generic_output_file_name = output_files_directory + 'Output_new_'
     output_file_names = [generic_output_file_name +
                          current_file for current_file in input_file_names]
 

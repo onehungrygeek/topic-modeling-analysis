@@ -89,7 +89,7 @@ def graph_gen(filename):
         tp = [[label, float(value.split(" ")[0])]
             for label, value in comment['topic_probablities'].items()]
 
-        tp.sort(key=lambda x: x[1], reverse=True)
+        tp.sort(key=lambda x:( x[1]), reverse=True)
 
         cat.append(comment['dominant_topic'].capitalize() + ", " + tp[1][0])
         if comment['reply'] != -1:
@@ -157,11 +157,12 @@ def graph_gen(filename):
                     yaxis=dict(autorange="reversed", showgrid=False, zeroline=False, showticklabels=False)))
 
 
-    py.plot(fig, filename=os.path.basename(filename))
+    py.plot(fig, filename=os.path.basename(filename), auto_open=False)
 
 if __name__ == "__main__":
     for root, dirs, files in os.walk(os.path.join(os.getcwd(), "Output_Files/JSON")):
         for file in files:
             if "new" in file and ".json" in file:
                 print(os.path.join(root, file))
-                graph_gen(os.path.join(root, file))    
+                graph_gen(os.path.join(root, file))
+                   

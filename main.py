@@ -21,6 +21,7 @@ from subprocess import Popen as notifyThis
 from pprint import pprint
 
 # My module imports
+import config
 from preprocess import process_texts
 from compute_models import compute_model
 from visualize_ldamodel import visualize
@@ -86,20 +87,17 @@ def analyze_topic_models():
     notifier(icon='preprocess',
              title='Text preprocessing complete!')
 
-    # Config parameter extraction
-    with open('config_file.json', 'r') as f:
-        config = json.load(f)
-
-    num_topics = config['num_topics']                   # Default: 5
-    num_words = config['num_words']                     # Default: 10
-    max_topics = config['max_topics']                   # Default: 50
-    measure = config['measure']                         # Default: 'c_v'
-    random_state = config['random_state']               # Default: 100
-    update_every = config['update_every']               # Default: 1
-    chunksize = config['chunksize']                     # Default: 100
-    passes = config['passes']                           # Default: 10
-    alpha = config['alpha']                             # Default: 'auto'
-    per_word_topics = bool(config['per_word_topics'])   # Default: True
+    # Config file parameters
+    num_topics = config.num_topics                   # Default: 5
+    num_words = config.num_words                     # Default: 10
+    max_topics = config.max_topics                   # Default: 50
+    measure = config.measure                         # Default: 'c_v'
+    random_state = config.random_state               # Default: 100
+    update_every = config.update_every               # Default: 1
+    chunksize = config.chunksize                     # Default: 100
+    passes = config.passes                           # Default: 10
+    alpha = config.alpha                             # Default: 'auto'
+    per_word_topics = config.per_word_topics	     # Default: True
 
     # Develop all models and respective topics
     # Declare how many topics do you want the models to compute. Default is 5
@@ -309,7 +307,7 @@ def analyze_topic_models():
              message='Check Output_Files directory for saved csv files.')
     # Output file for saving topic, keywords and coherence scores
     topics_keywords_scores_file_name = os.getcwd() + '/Output_Files/topics_keywords_scores_' + time_string + '.txt'
-    
+
     with open(topics_keywords_scores_file_name, 'w') as file:
         write_this_to_file = ['LSI Topics', lsitopics,
                               'HSP Topics', hdptopics,

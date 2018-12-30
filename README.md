@@ -62,7 +62,8 @@
     mallet_path = '/home/username/mallet/bin/mallet'
     ```
 5. Create account on Plotly:
-Sign up for Plotly using [this link](https://plot.ly/Auth/login/) and grab an API key using [this link.](https://plot.ly/settings/api) This is required to generate graphs and view them on your system's default internet browser. The free tier account on Plotly allows creation of 100 graphs per day and storage of 25 unique graphs on Plotly's online file storage. This username and API key needs to be updated in the `config.py` file. Generally, the plots are located at the web address like this `https://plot.ly/~YOUR_USER_NAME_HERE`
+
+    Sign up for Plotly using [this link](https://plot.ly/Auth/login/) and grab an API key using [this link.](https://plot.ly/settings/api) This is required to generate graphs and view them on your system's default internet browser. The free tier account on Plotly allows creation of 100 graphs per day and storage of 25 unique graphs on Plotly's online file storage. This username and API key needs to be updated in the `config.py` file. Generally, the plots are located at the web address like this `https://plot.ly/~YOUR_USER_NAME_HERE`
 
 ***
 

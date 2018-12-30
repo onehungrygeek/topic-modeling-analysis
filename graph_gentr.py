@@ -1,14 +1,16 @@
+import os
+import json
+import time
+import random
 import plotly.plotly as py
 import plotly.graph_objs as go
 import plotly as plt
 import networkx as nx
-import random
-import json
-import time
-import os
 
 from pprint import pprint
 from collections import defaultdict
+
+import config
 
 
 def fullJustify(words, maxWidth):
@@ -26,9 +28,10 @@ def fullJustify(words, maxWidth):
 
 fakenames = ["Austin", "Jessica", "Noah", "David", "Bill", "James"]
 
+
 def graph_gen(filename):
     plt.tools.set_credentials_file(
-        username='akshay1994', api_key='ieUGzhNg4U33RPn74RXi')
+        username=config.username, api_key=config.api_key)
 
     users = set()
     with open(filename) as f:
@@ -43,20 +46,16 @@ def graph_gen(filename):
     usercolor = {user: colors[i] for i, user in enumerate(users)}
     username = {user: fakenames[i] for i, user in enumerate(users)}
 
-
     G = nx.DiGraph()
-
 
     nodes = len(comments)
     columns = len(users)
 
     stepsize = 50
 
-
     x = []
     y = list(range(1, (nodes + 1)*stepsize*2, stepsize))
     topic_list = []
-
 
     prevdata = defaultdict(int)
     cat = []
@@ -87,14 +86,13 @@ def graph_gen(filename):
         topic_list.append(info)
 
         tp = [[label, float(value.split(" ")[0])]
-            for label, value in comment['topic_probablities'].items()]
+              for label, value in comment['topic_probablities'].items()]
 
-        tp.sort(key=lambda x:( x[1]), reverse=True)
+        tp.sort(key=lambda x: (x[1]), reverse=True)
 
         cat.append(comment['dominant_topic'].capitalize() + ", " + tp[1][0])
         if comment['reply'] != -1:
             G.add_edge(idx, comment['reply'])
-
 
     G.add_nodes_from(list(range(nodes)))
 
@@ -105,7 +103,6 @@ def graph_gen(filename):
         hoverinfo='none',
         mode='lines')
 
-
     for edge in G.edges():
         x0, y0 = x[edge[0]], y[edge[0]]
         x1, y1 = x[edge[1]], y[edge[1]]
@@ -114,8 +111,7 @@ def graph_gen(filename):
         edge_trace['marker']['color'] = random.choice(colors)
 
     Topic = ["Finance", "Education", "Quality",
-            "Affordability", "HealthCare", "Prevention"]
-
+             "Affordability", "HealthCare", "Prevention"]
 
     node_trace = go.Scatter(
         x=x,
@@ -134,13 +130,12 @@ def graph_gen(filename):
 
             line=dict(width=2)))
 
-
     i = 0
 
     for node, adjacencies in enumerate(G.adjacency()):
-        node_trace['marker']['color'] += tuple([usercolor[comments[i]['user']]])
+        node_trace['marker']['color'] += tuple(
+            [usercolor[comments[i]['user']]])
         i += 1
-
 
     fig = go.Figure(data=[edge_trace, node_trace],
                     layout=go.Layout(
@@ -153,11 +148,11 @@ def graph_gen(filename):
                     hovermode='closest',
                     margin=dict(b=20, l=10, r=10, t=40),
                     xaxis=dict(showgrid=False, zeroline=False,
-                            showticklabels=False),
+                               showticklabels=False),
                     yaxis=dict(autorange="reversed", showgrid=False, zeroline=False, showticklabels=False)))
 
-
     py.plot(fig, filename=os.path.basename(filename), auto_open=False)
+
 
 if __name__ == "__main__":
     for root, dirs, files in os.walk(os.path.join(os.getcwd(), "Output_Files/JSON")):
@@ -165,4 +160,3 @@ if __name__ == "__main__":
             if "new" in file and ".json" in file:
                 print(os.path.join(root, file))
                 graph_gen(os.path.join(root, file))
-                   

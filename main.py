@@ -1,3 +1,13 @@
+__author__ = "Akshay Kulkarni, Vishal Jasrotia"
+__copyright__ = ""
+__credits__ = ["Akshay Kulkarni", "Vishal Jasrotia"]
+__license__ = "GPL"
+__version__ = "1.0.1"
+__maintainer__ = "Akshay Kulkarni"
+__email__ = "akshaykulkarni19081994@gmail.com"
+__status__ = "Production"
+
+
 # Library imports
 # warnings module to surpress all UserWarnings, DeprecationWarnings and RuntimeWarnings
 import warnings

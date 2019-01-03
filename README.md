@@ -85,7 +85,7 @@ Below are a few of the important parameters that you can tweak as per your needs
 
 Open the `config.py` file in your favorite editor and feel free to tweak the parameters. A detailed description for each one of them is mentioned down below.
 
-![](https://user-images.githubusercontent.com/19870554/50666467-db3ec580-0f82-11e9-82cd-5b0b71c77819.png)
+![](https://user-images.githubusercontent.com/19870554/50666782-4b018000-0f84-11e9-9030-b11aeddd4bcc.png)
 
 1. `num_topics`:
    * *Note*: Only LSI, LDA and LDA Mallet

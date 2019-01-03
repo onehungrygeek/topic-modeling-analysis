@@ -83,7 +83,10 @@ topic-modeling-analysis
 ### Parameters to tweak:
 Below are a few of the important parameters that you can tweak as per your needs. But, you can find a complete list of available parameters for all gensim models here: [LSI Model Parameters](https://radimrehurek.com/gensim/models/lsimodel.html), [HDP Model Parameters](https://radimrehurek.com/gensim/models/hdpmodel.html), [LDA Model Parameters](https://radimrehurek.com/gensim/models/ldamodel.html), [LDAMallet Model Parameters](https://radimrehurek.com/gensim/models/wrappers/ldamallet.html)
 
-Open the `config.py` file in your favorite editor and feel free to tweak the parameters. A detailed description for each one of them in down below
+Open the `config.py` file in your favorite editor and feel free to tweak the parameters. A detailed description for each one of them is mentioned down below.
+
+![](https://user-images.githubusercontent.com/19870554/50666467-db3ec580-0f82-11e9-82cd-5b0b71c77819.png)
+
 1. `num_topics`:
    * *Note*: Only LSI, LDA and LDA Mallet
    * *Default Value*: `5`

@@ -69,7 +69,7 @@
 
 ### Folder Structure:
 
-![](https://user-images.githubusercontent.com/19870554/50667131-ed6e3300-0f85-11e9-832b-6b09a3ed4025.png)
+![](https://user-images.githubusercontent.com/19870554/50667459-5a35fd00-0f87-11e9-9936-4ea38ffd8446.png)
 
 ***
 ### Parameters to tweak:

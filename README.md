@@ -68,17 +68,8 @@
 ***
 
 ### Folder Structure:
-topic-modeling-analysis
 
-├── Inputs &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; #Input files used for creating datasets (JSON and XLSX)
-
-├── notify-icons &nbsp;&nbsp;&nbsp;&nbsp; #Notification icons for Ubuntu system (Ignore on Windows 10)
-
-├── Old_Outputs &nbsp;&nbsp; #Old outputs before software optimization
-
-├── Output_Files &nbsp;&nbsp; #All important output files are saved in this directory
-
-└── *REST PROGRAM FILES*
+![](https://user-images.githubusercontent.com/19870554/50667131-ed6e3300-0f85-11e9-832b-6b09a3ed4025.png)
 ***
 ### Parameters to tweak:
 Below are a few of the important parameters that you can tweak as per your needs. But, you can find a complete list of available parameters for all gensim models here: [LSI Model Parameters](https://radimrehurek.com/gensim/models/lsimodel.html), [HDP Model Parameters](https://radimrehurek.com/gensim/models/hdpmodel.html), [LDA Model Parameters](https://radimrehurek.com/gensim/models/ldamodel.html), [LDAMallet Model Parameters](https://radimrehurek.com/gensim/models/wrappers/ldamallet.html)

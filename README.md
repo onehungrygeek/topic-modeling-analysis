@@ -70,6 +70,7 @@
 ### Folder Structure:
 
 ![](https://user-images.githubusercontent.com/19870554/50667131-ed6e3300-0f85-11e9-832b-6b09a3ed4025.png)
+
 ***
 ### Parameters to tweak:
 Below are a few of the important parameters that you can tweak as per your needs. But, you can find a complete list of available parameters for all gensim models here: [LSI Model Parameters](https://radimrehurek.com/gensim/models/lsimodel.html), [HDP Model Parameters](https://radimrehurek.com/gensim/models/hdpmodel.html), [LDA Model Parameters](https://radimrehurek.com/gensim/models/ldamodel.html), [LDAMallet Model Parameters](https://radimrehurek.com/gensim/models/wrappers/ldamallet.html)

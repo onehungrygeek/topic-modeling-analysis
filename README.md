@@ -69,7 +69,7 @@
 
 ### Folder Structure:
 
-![](https://user-images.githubusercontent.com/19870554/50667903-a84c0000-0f89-11e9-9554-d3f862ca0d7e.png)
+![](https://user-images.githubusercontent.com/19870554/50667520-a5e8a680-0f87-11e9-8d45-3c2878c3398c.png)
 
 ***
 ### Parameters to tweak:
@@ -77,7 +77,7 @@ Below are a few of the important parameters that you can tweak as per your needs
 
 Open the `config.py` file in your favorite editor and feel free to tweak the parameters. A detailed description for each one of them is mentioned down below.
 
-![](https://user-images.githubusercontent.com/19870554/50666876-a7649f80-0f84-11e9-922b-a69213eda4fe.png)
+![](https://user-images.githubusercontent.com/19870554/50667903-a84c0000-0f89-11e9-9554-d3f862ca0d7e.png)
 
 1. `num_topics`:
    * *Note*: Only LSI, LDA and LDA Mallet

@@ -219,7 +219,6 @@ python-docx==0.8.7
 pythonds==1.2.1
 pytz==2018.7
 PyWavelets==1.0.1
-PyYAML==3.13
 pyzmq==17.1.2
 QtAwesome==0.5.3
 qtconsole==4.4.2

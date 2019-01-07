@@ -22,10 +22,7 @@ warnings.filterwarnings(action='ignore',
 warnings.filterwarnings(action='ignore',
                         category=RuntimeWarning)
 import os
-import json
 import time
-import numpy as np
-import pandas as pd
 import gensim.corpora as corpora
 from subprocess import Popen as notifyThis
 from pprint import pprint

@@ -45,7 +45,8 @@ def compute_sentence_wise_topics(model_name, model, corpus, file_name, time_stri
                          'Percentage_Contribution',
                          'Keywords_In_Dominant_Topic']
     # Convert sentences in input file to a column
-    df_base_sentences = pd.read_table(file_name, header=None)
+    dataset = os.path.join(os.getcwd(), 'Datasets', file_name)
+    df_base_sentences = pd.read_table(dataset, header=None)
     # Append above dataframe column to output dataframe
     df_output['Sentences'] = df_base_sentences[0]
     # Rearrange columns in proper order
@@ -54,7 +55,8 @@ def compute_sentence_wise_topics(model_name, model, corpus, file_name, time_stri
                            'Keywords_In_Dominant_Topic',
                            'Sentences']]
     # Append % sign
-    df_output['Percentage_Contribution'] = (df_output.Percentage_Contribution).astype(str) + ' %'
+    df_output['Percentage_Contribution'] = (
+        df_output.Percentage_Contribution).astype(str) + ' %'
     # Reset index
     df_output = df_output.reset_index()
     # Set name of the index column to Line_Number
@@ -62,7 +64,8 @@ def compute_sentence_wise_topics(model_name, model, corpus, file_name, time_stri
     # Set Line_Number column as the index
     df_output.set_index('Line_Number', inplace=True)
     # Convert topic number from float to int
-    df_output['Dominant_Topic_Number'] = df_output['Dominant_Topic_Number'].astype(np.int64)
+    df_output['Dominant_Topic_Number'] = df_output['Dominant_Topic_Number'].astype(
+        np.int64)
 
     # Normal Save
     # Save pandas dataframe to a csv file in Output_Files directory

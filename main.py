@@ -2,7 +2,7 @@ __author__ = "Akshay Kulkarni, Vishal Jasrotia"
 __copyright__ = ""
 __credits__ = ["Akshay Kulkarni", "Vishal Jasrotia"]
 __license__ = "GPL"
-__version__ = "1.0.1"
+__version__ = "1.0.2"
 __maintainer__ = "Akshay Kulkarni"
 __email__ = "akshaykulkarni19081994@gmail.com"
 __status__ = "Production"
@@ -23,12 +23,14 @@ warnings.filterwarnings(action='ignore',
                         category=RuntimeWarning)
 import os
 import time
+import pickle
 import gensim.corpora as corpora
 from subprocess import Popen as notifyThis
 from pprint import pprint
 
 # My module imports
 import config
+from inquirer import inquire
 from preprocess import process_texts
 from compute_models import compute_model
 from visualize_ldamodel import visualize
@@ -53,6 +55,22 @@ def analyze_topic_models():
     # Get current timestamp to add it to all the output file names
     time_string = time.strftime("%m-%d-%Y_%H-%M-%S")
 
+    # Get current working directory
+    current_dir = os.getcwd()
+
+    def pickler(name_of_model, model_to_save):
+        """
+        This function pickles (stores) computed models and saves them in Saved_Models
+        directory so we can unpickle them and directly print its topics when needed.
+
+        Arguments:
+            modelname {str} -- Name of the model to be saved
+            model {gensim.model.MODEl} -- Gensim model to be saved
+        """
+
+        with open(os.path.join(current_dir, "Saved_Models/", name_of_model + time_string + '.pkl'), 'wb') as file:
+            pickle.dump(model_to_save, file)
+
     def notifier(icon, title, message=''):
         """
         My custom notification system for Ubuntu 18.04
@@ -66,7 +84,6 @@ def analyze_topic_models():
             message {str} -- Message body for the notification (default: {''})
         """
         try:
-            current_dir = os.getcwd()
             notifyThis(['notify-send',
                         '--icon=' + current_dir + '/notify-icons/' + icon + '.png',
                         title,
@@ -74,15 +91,16 @@ def analyze_topic_models():
         except:
             pass
 
+    # Inquire to run analysis or load saved models
+    file_name = inquire()
     # Notification: Topic modeling started
     notifier(icon='analysis',
              title='Starting topic model analysis...',
              message='Please enter input text file name in console.')
-
-    # Receive input for file name
-    file_name = input('Enter text file name for analysis:\t')
     # Preprocess the input text file
     data_lemmatized = process_texts(file_name)
+    # Reset file name back to basename
+    file_name = os.path.basename(file_name)
     # Compute id2word dictionary from gensim's corpora module
     id2word = corpora.Dictionary(data_lemmatized)
     # Create copy of data_lemmatized so that we can keep the original
@@ -119,6 +137,8 @@ def analyze_topic_models():
     print('\nLSI Topics\n')
     pprint(lsitopics)
 
+    pickler('lsimodel_', lsimodel)
+
     # HDP Model and Topics
     hdpmodel, hdptopics = compute_model(model_name='hdp',
                                         corpus=corpus,
@@ -143,6 +163,8 @@ def analyze_topic_models():
     print('\nLDA Topics\n')
     pprint(ldatopics)
 
+    pickler('ldamodel_', ldamodel)
+
     # LDAMallet Model and Topics
     ldamallet, ldamallettopics = compute_model(model_name='ldamallet',
                                                corpus=corpus,
@@ -151,6 +173,8 @@ def analyze_topic_models():
                                                num_words=num_words)
     print('\nLDA MALLET Topics\n')
     pprint(ldamallettopics)
+
+    pickler('ldamallet_', ldamallet)
 
     # Visualize LDA model and save as .html file to Output_Files directory
     # Note: Only LDA model can be visualized using pyLDAvis library.
@@ -313,7 +337,8 @@ def analyze_topic_models():
              title='Topic model analysis complete!',
              message='Check Output_Files directory for saved csv files.')
     # Output file for saving topic, keywords and coherence scores
-    topics_keywords_scores_file_name = os.getcwd() + '/Output_Files/topics_keywords_scores_' + time_string + '.txt'
+    topics_keywords_scores_file_name = os.getcwd(
+    ) + '/Output_Files/topics_keywords_scores_' + time_string + '.txt'
 
     with open(topics_keywords_scores_file_name, 'w') as file:
         write_this_to_file = ['LSI Topics', lsitopics,

@@ -11,16 +11,19 @@ warnings.filterwarnings(action='ignore',
                         category=DeprecationWarning)
 warnings.filterwarnings(action='ignore',
                         category=RuntimeWarning)
-import gensim.corpora as corpora
-import gensim
-import spacy
-import nltk
+import os
 import re
+import nltk
+import spacy
+import gensim
+import gensim.corpora as corpora
 from nltk.corpus import stopwords
+from contextlib import redirect_stdout
 from gensim.utils import simple_preprocess
 
 # List of English stop words from NLTK library
-nltk.download('stopwords')
+with redirect_stdout(open(os.devnull, "w")):
+    nltk.download("stopwords")
 nltk_stop_words = stopwords.words('english')
 # List of English stop words from MALLET
 with open('mallet_stopwords.txt') as f:

@@ -146,3 +146,5 @@ Enter text file name for analysis: YOUR_DATASET_NAME_HERE.txt
 ```
 **All output files are appended with the timestamp when the program started so that no files are overwritten and always stay unique**
 Check your terminal/command prompt for the live output of each algorithm (LSI, LDA, HDP and LDAMallet). This output will also be saved after successful completion of the program. Also, another output files and graphs are saved in the `Output_Files` directory.
+
+![](https://github.com/onehungrygeek/topic-modeling-analysis/blob/master/notify-icons/demo.gif)

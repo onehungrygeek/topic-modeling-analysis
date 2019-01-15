@@ -2,7 +2,7 @@
 [![Python Version](https://img.shields.io/badge/Python-v3.6.6-blue.svg)](https://www.python.org/downloads/release/python-366/) &nbsp; ![](https://img.shields.io/badge/Algorithms-LSI%2C%20HDP%2C%20LDA%2C%20LDAMallet-red.svg) &nbsp; [![Operating System Tested](https://img.shields.io/badge/Tested%20on-Ubuntu%2018.10-yellow.svg)](https://www.ubuntu.com/#download)
 
 ### Demo:
-<p align="center"><img src="https://user-images.githubusercontent.com/19870554/51149848-d820c080-1831-11e9-9938-51cbfdc409ab.gif" alt="Demo GIF"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/19870554/51149848-d820c080-1831-11e9-9938-51cbfdc409ab.gif" alt="Demo GIF" width="750px" height="564px"></p>
 
 ***
 ### Setup:

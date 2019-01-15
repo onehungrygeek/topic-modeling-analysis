@@ -82,15 +82,15 @@ questions = [
 
 def file_error_checker(file):
     """
-    Module to check errors with the input file. It checks 
-    if the file does not exist and also if the file is empty.
+    This module to check errors with the input file. It checks 
+    if the file exists and also if the file is not empty.
 
     Arguments:
         file {str} -- Complete path of the input file
 
     Raises:
-        SystemExit -- If file does not exist
-        SystemExit -- If file exists but is empty
+        SystemExit -- If the file does not exist
+        SystemExit -- If the file exists but is empty
     """
 
     if not os.path.isfile(file):

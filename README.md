@@ -1,5 +1,10 @@
 # Topic Modeling Analysis: User Manual
 [![Python Version](https://img.shields.io/badge/Python-v3.6.6-blue.svg)](https://www.python.org/downloads/release/python-366/) &nbsp; ![](https://img.shields.io/badge/Algorithms-LSI%2C%20HDP%2C%20LDA%2C%20LDAMallet-red.svg) &nbsp; [![Operating System Tested](https://img.shields.io/badge/Tested%20on-Ubuntu%2018.10-yellow.svg)](https://www.ubuntu.com/#download)
+
+### Demo:
+<p align="center"><img src="https://user-images.githubusercontent.com/19870554/51148988-3350b400-182e-11e9-9d03-7e565ba537fb.gif" alt="logo" height="150px"></p>
+
+***
 ### Setup:
 1. Requirements:
 

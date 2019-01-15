@@ -74,7 +74,7 @@
 
 ### Folder Structure:
 
-![](https://user-images.githubusercontent.com/19870554/50667520-a5e8a680-0f87-11e9-8d45-3c2878c3398c.png)
+![](https://user-images.githubusercontent.com/19870554/51150640-431fc680-1835-11e9-8e09-bc045d09277d.png)
 
 ***
 ### Parameters to tweak:
@@ -145,9 +145,7 @@ If you have multiple versions of Python installed, the command will most probabl
 ```sh
 python3 main.py
 ```
-Wait for the terminal/command prompt to import all the necessary modules for the processing. It will then ask you for the input dataset. Type the dataset name with the `.txt` extension and press enter:
-```sh
-Enter text file name for analysis: YOUR_DATASET_NAME_HERE.txt
-```
+Wait for the terminal/command prompt to import all the necessary modules for the processing.
+
 **All output files are appended with the timestamp when the program started so that no files are overwritten and always stay unique**
 Check your terminal/command prompt for the live output of each algorithm (LSI, LDA, HDP and LDAMallet). This output will also be saved after successful completion of the program. Also, another output files and graphs are saved in the `Output_Files` directory.

@@ -34,6 +34,12 @@
     ```sh
     pip install -r requirements.txt
     ```
+    
+    c. Java:
+    
+    * Download the latest Java from by visiting [this download link](https://www.java.com/en/download/manual.jsp)
+    * Set environment variable for above installed Python. Check how to do the same for [Windows here](https://javatutorial.net/set-java-home-windows-10) or [Linux here](https://stackoverflow.com/questions/9612941/how-to-set-java-environment-path-in-ubuntu)
+
 
 2. Clone the Github repository:
 

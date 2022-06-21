@@ -150,7 +150,7 @@ notify==0.3.0
 notify2==0.3.1
 numba==0.40.0
 numexpr==2.6.8
-numpy==1.15.4
+numpy==1.22.0
 numpydoc==0.8.0
 odo==0.5.1
 olefile==0.46
